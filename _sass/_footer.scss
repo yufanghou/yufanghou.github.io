@@ -66,6 +66,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
+    text-align: center;
   }
 
   li {
@@ -75,6 +76,7 @@
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     text-transform: uppercase;
+    text-align: center;
   }
 
   li + li:before {
