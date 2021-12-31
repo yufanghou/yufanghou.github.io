@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-I'm a research scientist at IBM Research. My primary research interest lies in the area of natural language processing (NLP) where I focus on the tasks of language understanding in the discourse level, such as information status recognition, indirect anaphora resolution (bridging resolution). I'm also interested in computational argumentation and information extraction/summarization from scientific literature. 
+I'm a research scientist at IBM Research. My primary research interest lies in the area of natural language processing (NLP) where I focus on the tasks of language understanding in the discourse level, such as indirect anaphora resolution (bridging resolution), information status recognition. I'm also interested in computational argumentation and information extraction/summarization from scientific literature. For more details, see my [publications](https://yufanghou.github.io/publications/).
 
-News
+I am a member of the standing review committee of [TACL](http://www.transacl.org/). I also serve as a standing reviewer of [Computational Linguistics (CL) journal](http://cljournal.org/). I have co-organized [the 8th Workshop on Aargument Mining at EMNLP 2021](https://2021.argmining.org/), [the Second Workshop on Simple and Efficient Natural Language Processing (SustainNLP 2021)](https://sites.google.com/view/sustainlp2021/home), [the First Workshop on Argumentation Knowledge Graphs at AKBC 2021](https://argkg21.argmining.org/), and [the First Quantitative Summarization – Key Point Analysis Shared Task](https://github.com/ibm/KPA_2021_shared_task).
+
+Service
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Area Chair: EACL 2021  
+Senior PC: AAAI 2022
+Organiser: 
 
