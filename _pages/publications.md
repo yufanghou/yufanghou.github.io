@@ -11,6 +11,29 @@ author_profile: true
 
 {% include base_path %}
 
+# PHD Thesis
+
+**Unrestricted Bridging Resolution**  
+Yufang Hou. PhD thesis, Heidelberg University, 2016  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+# Journal Articles
+
+**Unrestricted Bridging Resolution**  
+Yufang Hou, Katja Markert, Michael Strube. In Computational Linguistics, 2018  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+
+**An Autonomous Debating System**  
+Noam Slonim, Yonatan Bilu, Carlos Alzate, Roy Bar-Haim, Ben Bogin, Francesca Bonin, Leshem Choshen, Edo Cohen-Karlik, Lena Dankin, Lilach Edelstein, Liat Ein-Dor, Roni Friedman-Melamed, Assaf Gavron, Ariel Gera, Martin Gleize, Shai Gretz, Dan Gutfreund, Alon Halfon, Daniel Hershcovich, Ron Hoory, Yufang Hou, Shay Hummel, Michal Jacovi, Charles Jochim, Yoav Kantor, Yoav Katz, David Konopnicki, Zvi Kons, Lili Kotlerman, Dalia Krieger, Dan Lahav, Tamar Lavee, Ran Levy, Naftali Liberman, Yosi Mass, Amir Menczel. In Nature, 2021  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**Privacy-aware supervised classification: An informative subspace based multi-objective approach**  
+Chandan Biswas, Debasis Ganguly, Partha Sarathi Mukherjee, Ujjwal Bhattacharya, Yufang Hou. In Pattern Recognition, 2022  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+# Conference/Workshop Papers
+
 
 ## 2022
 
@@ -48,9 +71,7 @@ Onkar Pandit, Yufang Hou. In NAACL, 2021
 Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly. In EACL, 2021  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
-**An Autonomous Debating System**  
-Noam Slonim, Yonatan Bilu, Carlos Alzate, Roy Bar-Haim, Ben Bogin, Francesca Bonin, Leshem Choshen, Edo Cohen-Karlik, Lena Dankin, Lilach Edelstein, Liat Ein-Dor, Roni Friedman-Melamed, Assaf Gavron, Ariel Gera, Martin Gleize, Shai Gretz, Dan Gutfreund, Alon Halfon, Daniel Hershcovich, Ron Hoory, Yufang Hou, Shay Hummel, Michal Jacovi, Charles Jochim, Yoav Kantor, Yoav Katz, David Konopnicki, Zvi Kons, Lili Kotlerman, Dalia Krieger, Dan Lahav, Tamar Lavee, Ran Levy, Naftali Liberman, Yosi Mass, Amir Menczel. In Nature, 2021  
-[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
 
 ## 2020
 
@@ -110,9 +131,6 @@ Yufang Hou. In EMNLP 2018
 Eyal Shnarch, Carlos Alzate, Lena Dankin, Martin Gleize, Yufang Hou, Leshem Choshen, Ranit Aharonov, Noam Slonim. In ACL 2018  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
-**Unrestricted Bridging Resolution**  
-Yufang Hou, Katja Markert, Michael Strube. In Computational Linguistics, 2018  
-[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
 **Enhanced Word Representations for Bridging Anaphora Resolution**  
 Yufang Hou. In NAACL 2018  
