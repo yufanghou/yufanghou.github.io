@@ -120,7 +120,7 @@ Debasis Ganguly, Yufang Hou, Lea A. Deleris, Francesca Bonin. In AMIA 2019
 Eyal Shnarch, Carlos Alzate, Lena Dankin, Martin Gleize, Yufang Hou, Leshem Choshen, Ranit Aharonov, Noam Slonim. In ACL 2018  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
-**A Deterministic Algorithm for Bridging Anaphora Resolution**
+**A Deterministic Algorithm for Bridging Anaphora Resolution**  
 Yufang Hou. In EMNLP 2018  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
@@ -137,7 +137,7 @@ Lea A. Deleris, Francesca Bonin, Elizabeth Daly, Stephane Deparis, Yufang Hou, C
 
 ### 2017 
 
-**Computational Argumentation Quality Assessment in Natural Language** 
+**Computational Argumentation Quality Assessment in Natural Language**  
 Henning Wachsmuth, Nona Naderi, Yufang Hou, Yonatan Bilu, Vinodkumar Prabhakaran, Graeme Hirst, Benno Stein. In EACL 2017  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
@@ -155,7 +155,7 @@ Thanh-Son Nguyen, Yufang Hou, Charles Jochim, Elizabeth M. Daly, Lea A Deleris. 
 
 ### 2016
 
-**Incremental Fine-grained Information Status Classification Using Attention-based LSTMs** 
+**Incremental Fine-grained Information Status Classification Using Attention-based LSTMs**  
 Yufang Hou. In COLING 2016  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
@@ -171,7 +171,7 @@ Yufang Hou, Katja Markert, Michael Strube. In EMNLP 2014
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
 ### 2013
-**Global Inference for Bridging Anaphora Resolution** 
+**Global Inference for Bridging Anaphora Resolution**   
 Yufang Hou, Katja Markert, Michael Strube. In NAACL 2013  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
@@ -180,7 +180,7 @@ Yufang Hou, Katja Markert, Michael Strube. In EMNLP 2013
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
 ### 2012
-**Collective Classification for Fine-grained Information Status**
+**Collective Classification for Fine-grained Information Status**  
 Katja Markert, Yufang Hou, Michael Strube. In ACL 2012  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
