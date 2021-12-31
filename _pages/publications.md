@@ -15,18 +15,18 @@ author_profile: true
 
 **Unrestricted Bridging Resolution**  
 Yufang Hou. PhD thesis, Heidelberg University, 2016  
-[[pdf]](http://archiv.ub.uni-heidelberg.de/volltextserver/20344/1/thesis.pdf) [[bib]](https://yufanghou.github.com/files/yufangThesis.bib)
+[[pdf]](http://archiv.ub.uni-heidelberg.de/volltextserver/20344/1/thesis.pdf) [[bib]](https://yufanghou.github.io/files/yufangThesis.bib)
 
 ## Journal Articles
 
 **Privacy-aware supervised classification: An informative subspace based multi-objective approach**  
 Chandan Biswas, Debasis Ganguly, Partha Sarathi Mukherjee, Ujjwal Bhattacharya, Yufang Hou. In Pattern Recognition, 2022  
-[[pdf]](https://www.researchgate.net/profile/Chandan-Biswas-4/publication/354349495_Privacy-Aware_Supervised_Classification_An_Informative_Subspace_based_Multi-Objective_Approach/links/6144376fa609b152aa158758/Privacy-Aware-Supervised-Classification-An-Informative-Subspace-based-Multi-Objective-Approach.pdf) [[bib]](https://yufanghou.github.com/files/privacy2022.bib)
+[[pdf]](https://www.researchgate.net/profile/Chandan-Biswas-4/publication/354349495_Privacy-Aware_Supervised_Classification_An_Informative_Subspace_based_Multi-Objective_Approach/links/6144376fa609b152aa158758/Privacy-Aware-Supervised-Classification-An-Informative-Subspace-based-Multi-Objective-Approach.pdf) [[bib]](https://yufanghou.github.io/files/privacy2022.bib)
 
 
 **An Autonomous Debating System**  
 Noam Slonim, Yonatan Bilu, Carlos Alzate, Roy Bar-Haim, Ben Bogin, Francesca Bonin, Leshem Choshen, Edo Cohen-Karlik, Lena Dankin, Lilach Edelstein, Liat Ein-Dor, Roni Friedman-Melamed, Assaf Gavron, Ariel Gera, Martin Gleize, Shai Gretz, Dan Gutfreund, Alon Halfon, Daniel Hershcovich, Ron Hoory, Yufang Hou, Shay Hummel, Michal Jacovi, Charles Jochim, Yoav Kantor, Yoav Katz, David Konopnicki, Zvi Kons, Lili Kotlerman, Dalia Krieger, Dan Lahav, Tamar Lavee, Ran Levy, Naftali Liberman, Yosi Mass, Amir Menczel. In Nature, 2021  
-[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://yufanghou.github.com/files/projectDebaterNature.bib)
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://yufanghou.github.io/files/projectDebaterNature.bib)
 
 
 **Unrestricted Bridging Resolution**  
