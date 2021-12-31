@@ -68,6 +68,12 @@ Onkar Pandit, Yufang Hou. In NAACL, 2021
 Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly. In EACL, 2021  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
+**Overview of the 2021 Key Point Analysis Shared Task**
+
+**Argument Mining for Scholarly Document Processing: Taking Stock and Looking Ahead**
+
+**The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics**
+
 
 
 ### 2020
