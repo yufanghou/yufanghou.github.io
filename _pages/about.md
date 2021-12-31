@@ -16,8 +16,9 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 ## Service
 - **Area Chair**: EACL 2021  
 - **Senior PC**: AAAI 2022  
-- **Workshop Organiser**: ArgMining 2021, SustainNLP 2021, ArgKG 2021  
-- **Shared Task Organiser**: KPA 2021  
+- **Workshop Organiser**: [ArgMining 2021](https://2021.argmining.org/), [SustainNLP 2021](https://sites.google.com/view/sustainlp2021/home), [ArgKG 2021](https://argkg21.argmining.org/)  
+- **Shared Task Organiser**: [KPA 2021](https://github.com/ibm/KPA_2021_shared_task)  
+- **Organiser**: [Ireland WaiTALK: Path to Entrepreneurship, 2020](https://medium.com/womeninai/becoming-founders-and-ceos-path-to-entrepreneurship-waitalk-693f6e5671de)
 - **Invited Journal Reviewer**: CL/TACL/Natural Language Engineering/Transactions on Asian and Low-Resource Language Information Processing  
 - **NLP Conference PC**: ACL/NAACL/EMNLP/COLING/EACL/CoNLL/LREC (since 2015)  
 - **Other Conference PC**: AAAI 2020/2021, IJCAI 2020  
