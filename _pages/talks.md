@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+- Career Panel: What’s different? Alumni in academia and industry (Panel discussion). HITS Alumni Meeting, 7 July 2021.
 - Project Debater. IBM AI in SPM Talk Series, 18 June 2021.
 - D2S: Automatic Query Driven Document to Slide Generation. DRL Show and Tell, 12 February 2021.
 - Medical Applications of Artificial Intelligence in the Future: What Should We Know (Panel discussion), MMII Annual Conference 2021, 28 February 2021.
