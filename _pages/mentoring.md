@@ -10,7 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-- Edward Sun (Undergraduate student from University of Michigan, USA) 
+- 2021 Ronald Cardenas (PhD student from University of Edinburgh)
+- 2021 Hideo Kobayashi (PhD student from University of Texas at Dallas)
+- 2020 Edward Sun (Undergraduate student from University of Michigan, USA) 
 - 2020 Onkar Pandit (PhD student from Inria Lille - Nord Europe, France) 
 - 2020 Ishani Mandal (Master student from IIT Kharagpur, India)
 - 2020 Ryokan Ri (Master student from University of Tokyo, Japan)
