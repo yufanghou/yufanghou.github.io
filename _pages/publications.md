@@ -20,8 +20,101 @@ author_profile: true
 Thanh Lam Hoang, Gabriele Picco, Yufang Hou, Young-Suk Lee, Lam M. Nguyen, Dzung T. Phan, Vanessa Lopez, Ramon Fernandez Astudillo. In NeurIPS, 2021  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
+**End-to-end Neural Information Status Classification**  
+Yufang Hou. In EMNLP Findings, 2021  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**HAConvGNN: Hierarchical Attention Based Convolutional Graph Neural Network for Code Documentation Generation in Jupyter Notebooks**  
+Xuye Liu, Dakuo Wang, April Wang, Yufang Hou, Lingfei Wu. In EMNLP Findings, 2021  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**Employing Argumentation Knowledge Graphs for Neural Argument Generation**  
+Khalid Al Khatib, Lukas Trautner, Henning Wachsmuth, Yufang Hou, Benno Stein. In ACL, 2021  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**End-to-End Construction of NLP Knowledge Graph**  
+Ishani Mondal, Yufang Hou, Charles Jochim. In ACL Findings, 2021  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**D2S: Automated slide generation with query-based text summarization from documents**  
+Edward Sun, Yufang Hou, Dakuo Wang, Yunfeng Zhang and Nancy Xin Ru Wang. In NAACL, 2021  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**Probing for Bridging Inference in Transformer Language Models**  
+Onkar Pandit, Yufang Hou. In NAACL, 2021  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**TDMSci: A Specialized Corpus for Scientific Literature Entity Tagging of Tasks Datasets and Metrics**  
+Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly. In EACL, 2021  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
 **An Autonomous Debating System**  
 Noam Slonim, Yonatan Bilu, Carlos Alzate, Roy Bar-Haim, Ben Bogin, Francesca Bonin, Leshem Choshen, Edo Cohen-Karlik, Lena Dankin, Lilach Edelstein, Liat Ein-Dor, Roni Friedman-Melamed, Assaf Gavron, Ariel Gera, Martin Gleize, Shai Gretz, Dan Gutfreund, Alon Halfon, Daniel Hershcovich, Ron Hoory, Yufang Hou, Shay Hummel, Michal Jacovi, Charles Jochim, Yoav Kantor, Yoav Katz, David Konopnicki, Zvi Kons, Lili Kotlerman, Dalia Krieger, Dan Lahav, Tamar Lavee, Ran Levy, Naftali Liberman, Yosi Mass, Amir Menczel. In Nature, 2021  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
 ## 2020
+
+**Bridging Anaphora Resolution as Question Answering**  
+Yufang Hou. In ACL, 2020  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**Fine-grained Information Status Classification Using Discourse Context-Aware BERT**  
+Yufang Hou. In COLING, 2020  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**End-to-End Argumentation Knowledge Graph Construction**  
+Khalid Al-Khatib, Yufang Hou, Henning Wachsmuth, Charles Jochim, Francesca Bonin, Benno Stein. In AAAI, 2020  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**Corpus Wide Argument Mining--a Working Solution**  
+Liat Ein-Dor, Eyal Shnarch, Lena Dankin, Alon Halfon, Benjamin Sznajder, Ariel Gera, Carlos Alzate, Martin Gleize, Leshem Choshen, Yufang Hou, Yonatan Bilu, Ranit Aharonov, Noam Slonim. In AAAI, 2020  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**HBCP Corpus: A New Resource for the Analysis of Behaviour ChangeIntervention Reports**  
+Francesca Bonin, Ailbhe N. Finnerty, Candice Moore, Charles Jochim, Emma Norris, Yufang Hou, Martin Gleize, Debasis Ganguly, Alison J. Wright, Emily Hayes, Silje Zink, Alessandra Pascale, Pol Mac Aonghusa, Susan Michie. LREC, 2020  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**Knowledge Extraction and Prediction from Behavior Science Randomized Controlled Trials: A Case-Study in Smoking Cessation**  
+Francesca Bonin, Martin Gleize, Yufang Hou, Debasis Ganguly, Ailbhe Finnerty, Charles Jochim, Alessandra Pascale, Pierpaolo Tommasi, Pol Mac Aonghusa, Susan Michie. In AMIA Symposium, 2020  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+## 2019
+
+**A Summarization System for Scientific Documents**  
+Shai Erera, Michal Shmueli-Scheuer, Guy Feigenblat, Ora Peled Nakash, Odellia Boni, Haggai Roitman, Doron Cohen, Bar Weiner, Yosi Mass, Or Rivlin, Guy Lev, Achiya Jerbi, Jonathan Herzig, Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, David Konopnicki. In EMNLP 2019  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**Identification of Tasks, Datasets, Evaluation Metrics, and Numeric Scores for Scientific Leaderboards Construction**  
+Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly. In ACL 2019  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**Extracting Factual Min/Max Age Information from Clinical Trial Studies**  
+Yufang Hou, Debasis Ganguly, Lea A Deleris, Francesca Bonin. In the 2nd Clinical Natural Language Processing Workshop 2019  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**Information Extraction of Behavior Change Intervention Descriptions**  
+Debasis Ganguly, Yufang Hou, Lea A. Deleris, Francesca Bonin. In AMIA 2019  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+## 2018 
+
+**Know Who Your Friends Are: Understanding Social Connections from Unstructured Text**  
+Lea A. Deleris, Francesca Bonin, Elizabeth Daly, Stephane Deparis, Yufang Hou, Charles Jochim, Yassine Lassoued and Killian Levacher. In NAACL 2018 Demo Track  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**A Deterministic Algorithm for Bridging Anaphora Resolution**
+Yufang Hou. In EMNLP 2018  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**Will it Blend? Blending Weak and Strong Labeled Datain a Neural Network for Argumentation Mining**  
+Eyal Shnarch, Carlos Alzate, Lena Dankin, Martin Gleize, Yufang Hou, Leshem Choshen, Ranit Aharonov, Noam Slonim. In ACL 2018  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**Unrestricted Bridging Resolution**  
+Yufang Hou, Katja Markert, Michael Strube. In Computational Linguistics, 2018  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
+**Enhanced Word Representations for Bridging Anaphora Resolution**  
+Yufang Hou. In NAACL 2018  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+
