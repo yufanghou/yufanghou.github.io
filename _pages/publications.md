@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## PHD Thesis
+## PhD Thesis
 
 **Unrestricted Bridging Resolution**  
 Yufang Hou. PhD thesis, Heidelberg University, 2016  
@@ -68,12 +68,21 @@ Onkar Pandit, Yufang Hou. In NAACL, 2021
 Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly. In EACL, 2021  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
-**Overview of the 2021 Key Point Analysis Shared Task**
+**Outcome Prediction from Behaviour Change Intervention Evaluations using a Combination of Node and Word Embedding**    
+Debasis Ganguly, Martin Gleize, Yufang Hou, Charles Jochim, Francesca Bonin, Alessandra Pascale, Pierpaolo Tommasi, Pol Mac Aonghusa, Susan Michie, Robert West, Mike Kelly. In AMIA Symposium, 2021  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
-**Argument Mining for Scholarly Document Processing: Taking Stock and Looking Ahead**
+**Overview of the 2021 Key Point Analysis Shared Task**  
+Roni Friedman, Lena Dankin, Yufang Hou, Ranit Aharonov, Yoav Katz, Noam Slonim. In the 8th Workshop on Argument Mining at EMNLP 2021  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
-**The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics**
+**Argument Mining for Scholarly Document Processing: Taking Stock and Looking Ahead**  
+Khalid Al Khatib, Tirthankar Ghosal, Yufang Hou, Anita de Waard, Dayne Freitag. In the Second Workshop on Scholarly Document Processing at NAACL 2021  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
+**The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics**  
+Sebastian Gehrmann, Tosin Adewumi, Karmanya Aggarwal, Pawan Sasanka Ammanamanchi, Aremu Anuoluwapo, Antoine Bosselut, Khyathi Raghavi Chandu, Miruna Clinciu, Dipanjan Das, Kaustubh D Dhole, Wanyu Du, Esin Durmus, Ondřej Dušek, Chris Emezue, Varun Gangal, Cristina Garbacea, Tatsunori Hashimoto, Yufang Hou, Yacine Jernite, Harsh Jhamtani, Yangfeng Ji, Shailza Jolly, Dhruv Kumar, Faisal Ladhak, Aman Madaan, Mounica Maddela, Khyati Mahajan, Saad Mahamood, Bodhisattwa Prasad Majumder, Pedro Henrique Martins, Angelina McMillan-Major, Simon Mille, Emiel van Miltenburg, Moin Nadeem, Shashi Narayan, Vitaly Nikolaev, Rubungo Andre Niyongabo, Salomey Osei, Ankur Parikh, Laura Perez-Beltrachini, Niranjan Ramesh Rao, Vikas Raunak, Juan Diego Rodriguez, Sashank Santhanam, João Sedoc, Thibault Sellam, Samira Shaikh, Anastasia Shimorina, Marco Antonio Sobrevilla Cabezudo, Hendrik Strobelt, Nishant Subramani, Wei Xu, Diyi Yang, Akhila Yerukola, Jiawei Zhou. In the 1st Workshop on Natural Language Generation, Evaluation, and Metrics at ACL 2021  
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
 
 ### 2020
@@ -117,7 +126,7 @@ Yufang Hou, Debasis Ganguly, Lea A Deleris, Francesca Bonin. In the 2nd Clinical
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
 **Information Extraction of Behavior Change Intervention Descriptions**  
-Debasis Ganguly, Yufang Hou, Lea A. Deleris, Francesca Bonin. In AMIA 2019  
+Debasis Ganguly, Yufang Hou, Lea A. Deleris, Francesca Bonin. In AMIA Informatics Summit 2019  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
 ### 2018 
