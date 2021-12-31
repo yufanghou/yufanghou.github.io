@@ -11,16 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-# PHD Thesis
+## PHD Thesis
 
 **Unrestricted Bridging Resolution**  
 Yufang Hou. PhD thesis, Heidelberg University, 2016  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
-# Journal Articles
+## Journal Articles
 
-**Unrestricted Bridging Resolution**  
-Yufang Hou, Katja Markert, Michael Strube. In Computational Linguistics, 2018  
+**Privacy-aware supervised classification: An informative subspace based multi-objective approach**  
+Chandan Biswas, Debasis Ganguly, Partha Sarathi Mukherjee, Ujjwal Bhattacharya, Yufang Hou. In Pattern Recognition, 2022  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
 
@@ -28,17 +28,17 @@ Yufang Hou, Katja Markert, Michael Strube. In Computational Linguistics, 2018
 Noam Slonim, Yonatan Bilu, Carlos Alzate, Roy Bar-Haim, Ben Bogin, Francesca Bonin, Leshem Choshen, Edo Cohen-Karlik, Lena Dankin, Lilach Edelstein, Liat Ein-Dor, Roni Friedman-Melamed, Assaf Gavron, Ariel Gera, Martin Gleize, Shai Gretz, Dan Gutfreund, Alon Halfon, Daniel Hershcovich, Ron Hoory, Yufang Hou, Shay Hummel, Michal Jacovi, Charles Jochim, Yoav Kantor, Yoav Katz, David Konopnicki, Zvi Kons, Lili Kotlerman, Dalia Krieger, Dan Lahav, Tamar Lavee, Ran Levy, Naftali Liberman, Yosi Mass, Amir Menczel. In Nature, 2021  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
-**Privacy-aware supervised classification: An informative subspace based multi-objective approach**  
-Chandan Biswas, Debasis Ganguly, Partha Sarathi Mukherjee, Ujjwal Bhattacharya, Yufang Hou. In Pattern Recognition, 2022  
+
+**Unrestricted Bridging Resolution**  
+Yufang Hou, Katja Markert, Michael Strube. In Computational Linguistics, 2018  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
-
-# Conference/Workshop Papers
-
-
-## 2022
+## Conference/Workshop Papers
 
 
-## 2021
+### 2022
+
+
+### 2021
 **Ensemble Graph Prediction for AMR Parsing**  
 Thanh Lam Hoang, Gabriele Picco, Yufang Hou, Young-Suk Lee, Lam M. Nguyen, Dzung T. Phan, Vanessa Lopez, Ramon Fernandez Astudillo. In NeurIPS, 2021  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
@@ -73,7 +73,7 @@ Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly. In 
 
 
 
-## 2020
+### 2020
 
 **Bridging Anaphora Resolution as Question Answering**  
 Yufang Hou. In ACL, 2020  
@@ -99,7 +99,7 @@ Francesca Bonin, Ailbhe N. Finnerty, Candice Moore, Charles Jochim, Emma Norris,
 Francesca Bonin, Martin Gleize, Yufang Hou, Debasis Ganguly, Ailbhe Finnerty, Charles Jochim, Alessandra Pascale, Pierpaolo Tommasi, Pol Mac Aonghusa, Susan Michie. In AMIA Symposium, 2020  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
-## 2019
+### 2019
 
 **A Summarization System for Scientific Documents**  
 Shai Erera, Michal Shmueli-Scheuer, Guy Feigenblat, Ora Peled Nakash, Odellia Boni, Haggai Roitman, Doron Cohen, Bar Weiner, Yosi Mass, Or Rivlin, Guy Lev, Achiya Jerbi, Jonathan Herzig, Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, David Konopnicki. In EMNLP 2019  
@@ -117,7 +117,7 @@ Yufang Hou, Debasis Ganguly, Lea A Deleris, Francesca Bonin. In the 2nd Clinical
 Debasis Ganguly, Yufang Hou, Lea A. Deleris, Francesca Bonin. In AMIA 2019  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
-## 2018 
+### 2018 
 
 **Know Who Your Friends Are: Understanding Social Connections from Unstructured Text**  
 Lea A. Deleris, Francesca Bonin, Elizabeth Daly, Stephane Deparis, Yufang Hou, Charles Jochim, Yassine Lassoued and Killian Levacher. In NAACL 2018 Demo Track  
