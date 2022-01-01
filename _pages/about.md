@@ -35,3 +35,5 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 - 01/2021 Together with my colleagues, I have a paper "TDMSci: A Specialized Corpus for Scientific Literature Entity Tagging of Tasks Datasets and Metrics" accepted at EACL 2021.
 
 - 01/2021 I will serve as a standing reviewer of Computational Linguistics (CL) journal. 
+
+### [News Archive](https://yufanghou.github.io/newsarchive)
