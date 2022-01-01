@@ -13,4 +13,25 @@ I'm a research scientist at IBM Research. My primary research interest lies in t
 
 I am a member of the standing review committee of [TACL](http://www.transacl.org/). I also serve as a standing reviewer of [Computational Linguistics (CL) journal](http://cljournal.org/). I have co-organized [the 8th Workshop on Argument Mining](https://2021.argmining.org/), [the Second Workshop on Simple and Efficient Natural Language Processing (SustainNLP 2021)](https://sites.google.com/view/sustainlp2021/home), [the First Workshop on Argumentation Knowledge Graphs](https://argkg21.argmining.org/), and [the First Quantitative Summarization – Key Point Analysis Shared Task](https://github.com/ibm/KPA_2021_shared_task).
 
+## News
+- 09/2021 One paper accepted at NeurIPS 2021. Kudos to my great colleagues!
 
+- 08/2021 Two papers accepted at EMNLP 2021 Finding.
+
+- 08/2021 I will serve as a meta-reviewer at AAAI 2022.
+
+- 07/2021 Happy to join the career panel discussion at the HITS online Alumini meeting!
+
+- 05/2021 Two papers accepted at ACL 2021 and its Findings. Kudos to my collaborators and interns!
+
+- 04/2021 My colleagues and I are organizing a shared task on argument summarization (Quantitative Summarization – Key Point Analysis) at the ArgMining 2021 workshop (co-located with EMNLP 2021). Please consider participating!
+
+- 03/2021 On March 17th, Project Debater published a paper at Nature which describes the whole system: "An autonomous debating system". Proud to be part of the team!
+
+- 03/2021 The proud moment of being an advisor: Two papers accepted at NAACL 2021!
+
+- 02/2021 I was invited to participate in a panel discussion about "Medical Applications of Artificial Intelligence in the Future: What Should We Know?" at MMII Annual Conference 2021.
+
+- 01/2021 Together with my colleagues, I have a paper "TDMSci: A Specialized Corpus for Scientific Literature Entity Tagging of Tasks Datasets and Metrics" accepted at EACL 2021.
+
+- 01/2021 I will serve as a standing reviewer of Computational Linguistics (CL) journal. 
