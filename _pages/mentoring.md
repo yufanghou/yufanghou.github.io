@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Students and Research Interns Mentored or Co-Mentored"
+title: "Students Mentored or Co-Mentored"
 permalink: /mentoring/
 author_profile: true
 ---
