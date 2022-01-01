@@ -19,7 +19,10 @@ author_profile: true
 
 
 ## Dataset
+
+- [ISNotes](https://www.h-its.org/software/isnotes-corpus/)
 - [bridging_embeddings](https://zenodo.org/record/1211616)
 - [argRelation](https://zenodo.org/record/1219673)
 - [TDMSci](https://github.com/IBM/science-result-extractor/tree/master/data/TDMSci)
 - [SciDuet-ACL](https://github.com/IBM/document2slides/tree/main/SciDuet-ACL)
+- [Sentiment lexicon for classical Chinese poetry](https://yufanghou.github.io/files/sentiLexicon.zip)
