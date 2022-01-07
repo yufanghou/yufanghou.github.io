@@ -14,6 +14,8 @@ I'm a research scientist at IBM Research. My primary research interest lies in t
 I am a member of the standing review committee of [TACL](http://www.transacl.org/). I also serve as a standing reviewer of [Computational Linguistics (CL) journal](http://cljournal.org/). I have co-organized [the 8th Workshop on Argument Mining](https://2021.argmining.org/), [the Second Workshop on Simple and Efficient Natural Language Processing (SustainNLP 2021)](https://sites.google.com/view/sustainlp2021/home), [the First Workshop on Argumentation Knowledge Graphs](https://argkg21.argmining.org/), and [the First Quantitative Summarization – Key Point Analysis Shared Task](https://github.com/ibm/KPA_2021_shared_task).
 
 ## News
+- 01/2022 I will serve as an area chair for INLG 2022.
+
 - 09/2021 One paper accepted at NeurIPS 2021. Kudos to my great colleagues!
 
 - 08/2021 Two papers accepted at EMNLP 2021 Finding.
