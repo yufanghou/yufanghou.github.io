@@ -19,7 +19,7 @@ Yufang Hou. PhD thesis, Heidelberg University, 2016
 
 ## Journal Articles
 
-**Privacy-aware supervised classification: An informative subspace based multi-objective approach**  
+**Privacy-aware Supervised Classification: An Informative Subspace Based Multi-objective Approach**  
 Chandan Biswas, Debasis Ganguly, Partha Sarathi Mukherjee, Ujjwal Bhattacharya, Yufang Hou. In Pattern Recognition, 2022  
 [[pdf]](https://www.researchgate.net/profile/Chandan-Biswas-4/publication/354349495_Privacy-Aware_Supervised_Classification_An_Informative_Subspace_based_Multi-Objective_Approach/links/6144376fa609b152aa158758/Privacy-Aware-Supervised-Classification-An-Informative-Subspace-based-Multi-Objective-Approach.pdf) [[bib]](https://yufanghou.github.io/files/privacy2022.bib)
 
@@ -58,7 +58,7 @@ Khalid Al Khatib, Lukas Trautner, Henning Wachsmuth, Yufang Hou, Benno Stein. In
 Ishani Mondal, Yufang Hou, Charles Jochim. In ACL Findings, 2021  
 [[pdf]](https://aclanthology.org/2021.findings-acl.165.pdf) [[bib]](https://aclanthology.org/2021.findings-acl.165.bib)
 
-**D2S: Automated slide generation with query-based text summarization from documents**  
+**D2S: Automated Slide Generation With Query-based Text Summarization From Documents**  
 Edward Sun, Yufang Hou, Dakuo Wang, Yunfeng Zhang and Nancy Xin Ru Wang. In NAACL, 2021  
 [[pdf]](https://aclanthology.org/2021.naacl-main.111.pdf) [[bib]](https://aclanthology.org/2021.naacl-main.111.bib)
 
@@ -133,7 +133,7 @@ Debasis Ganguly, Yufang Hou, Lea A. Deleris, Francesca Bonin. In AMIA Informatic
 
 ### 2018 
 
-**Will it Blend? Blending Weak and Strong Labeled Datain a Neural Network for Argumentation Mining**  
+**Will it Blend? Blending Weak and Strong Labeled Data in a Neural Network for Argumentation Mining**  
 Eyal Shnarch, Carlos Alzate, Lena Dankin, Martin Gleize, Yufang Hou, Leshem Choshen, Ranit Aharonov, Noam Slonim. In ACL 2018  
 [[pdf]](https://aclanthology.org/P18-2095.pdf) [[bib]](https://aclanthology.org/P18-2095.bib)
 
