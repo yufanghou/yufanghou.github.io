@@ -19,8 +19,8 @@ author_profile: true
 - 2020 Ryokan Ri (Master student from University of Tokyo, Japan)
 - 2019 Khalid Al-Khatib (PhD student from Bauhaus-Universität Weimar, Germany) 
 - 2019 Chandan Biswas (PhD student from Indian Statistical Institute, India)
-- 2018 Tu Nguyen (PhD stduent from L3S Research Center, Germany)
-- 2017 Thanh-Son Nguyen (PhD stduent from Singapore Management Univeristy)
+- 2018 Tu Nguyen (PhD student from L3S Research Center, Germany)
+- 2017 Thanh-Son Nguyen (PhD student from Singapore Management University)
 
 
 
