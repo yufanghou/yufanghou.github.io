@@ -20,17 +20,20 @@ Yufang Hou. PhD thesis, Heidelberg University, 2016
 ## Journal Articles
 
 **Privacy-aware Supervised Classification: An Informative Subspace Based Multi-objective Approach**  
-Chandan Biswas, Debasis Ganguly, Partha Sarathi Mukherjee, Ujjwal Bhattacharya, Yufang Hou. In Pattern Recognition, 2022  
+Chandan Biswas, Debasis Ganguly, Partha Sarathi Mukherjee, Ujjwal Bhattacharya, Yufang Hou.  
+In Pattern Recognition, 2022    
 [[pdf]](https://www.researchgate.net/profile/Chandan-Biswas-4/publication/354349495_Privacy-Aware_Supervised_Classification_An_Informative_Subspace_based_Multi-Objective_Approach/links/6144376fa609b152aa158758/Privacy-Aware-Supervised-Classification-An-Informative-Subspace-based-Multi-Objective-Approach.pdf) [[bib]](https://yufanghou.github.io/files/privacy2022.bib)
 
 
 **An Autonomous Debating System**  
-Noam Slonim, Yonatan Bilu, Carlos Alzate, Roy Bar-Haim, Ben Bogin, Francesca Bonin, Leshem Choshen, Edo Cohen-Karlik, Lena Dankin, Lilach Edelstein, Liat Ein-Dor, Roni Friedman-Melamed, Assaf Gavron, Ariel Gera, Martin Gleize, Shai Gretz, Dan Gutfreund, Alon Halfon, Daniel Hershcovich, Ron Hoory, Yufang Hou, Shay Hummel, Michal Jacovi, Charles Jochim, Yoav Kantor, Yoav Katz, David Konopnicki, Zvi Kons, Lili Kotlerman, Dalia Krieger, Dan Lahav, Tamar Lavee, Ran Levy, Naftali Liberman, Yosi Mass, Amir Menczel. In Nature, 2021  
+Noam Slonim, Yonatan Bilu, Carlos Alzate, Roy Bar-Haim, Ben Bogin, Francesca Bonin, Leshem Choshen, Edo Cohen-Karlik, Lena Dankin, Lilach Edelstein, Liat Ein-Dor, Roni Friedman-Melamed, Assaf Gavron, Ariel Gera, Martin Gleize, Shai Gretz, Dan Gutfreund, Alon Halfon, Daniel Hershcovich, Ron Hoory, Yufang Hou, Shay Hummel, Michal Jacovi, Charles Jochim, Yoav Kantor, Yoav Katz, David Konopnicki, Zvi Kons, Lili Kotlerman, Dalia Krieger, Dan Lahav, Tamar Lavee, Ran Levy, Naftali Liberman, Yosi Mass, Amir Menczel.  
+In Nature, 2021    
 [[pdf]](https://www.nature.com/articles/s41586-021-03215-w) [[bib]](https://yufanghou.github.io/files/projectDebaterNature.bib)
 
 
 **Unrestricted Bridging Resolution**  
-Yufang Hou, Katja Markert, Michael Strube. In Computational Linguistics, 2018  
+Yufang Hou, Katja Markert, Michael Strube.  
+In Computational Linguistics, 2018  
 [[pdf]](https://aclanthology.org/J18-2002.pdf) [[bib]](https://aclanthology.org/J18-2002.bib)
 
 
@@ -39,25 +42,30 @@ Yufang Hou, Katja Markert, Michael Strube. In Computational Linguistics, 2018
 ### 2022
 
 **A Constraint-Based Joint Learning Approach for Bridging Resolution (to appear)**  
-Hideo Kobayashi, Yufang Hou, Vincent Ng. In ACL, 2022  
+Hideo Kobayashi, Yufang Hou, Vincent Ng.  
+In ACL, 2022  
 [pdf] [bib]
 
 **Educational Question Generation of Children Storybooks via QuestionType Distribution Learning and Event-centric Summarization (to appear)**  
-Zhenjie Zhao, Yufang Hou, Dakuo Wang, Mo Yu, Chengzhong LIU, Xiaojuan Ma. In ACL, 2022  
+Zhenjie Zhao, Yufang Hou, Dakuo Wang, Mo Yu, Chengzhong LIU, Xiaojuan Ma.  
+In ACL, 2022  
 [pdf] [bib]
 
 **Fantastic Questions and Where to Find Them: FairytaleQA--An Authentic Dataset for Narrative Comprehension (to appear)**  
-Ying Xu, Dakuo Wang, Mo Yu, Daniel Ritchie, Bingsheng Yao, Tongshuang Wu, Zheng Zhang, Toby Jia-Jun Li, Nora Bradford, Branda Sun, Tran Bao Hoang, Yisi Sang, Yufang Hou, Xiaojuan Ma, Diyi Yang, Nanyun Peng, Zhou Yu, Mark Warschauer. In ACL, 2022   
+Ying Xu, Dakuo Wang, Mo Yu, Daniel Ritchie, Bingsheng Yao, Tongshuang Wu, Zheng Zhang, Toby Jia-Jun Li, Nora Bradford, Branda Sun, Tran Bao Hoang, Yisi Sang, Yufang Hou, Xiaojuan Ma, Diyi Yang, Nanyun Peng, Zhou Yu, Mark Warschauer.  
+In ACL, 2022   
 [pdf] [bib]
 
 
 ### 2021
 **Ensemble Graph Prediction for AMR Parsing**  
-Thanh Lam Hoang, Gabriele Picco, Yufang Hou, Young-Suk Lee, Lam M. Nguyen, Dzung T. Phan, Vanessa Lopez, Ramon Fernandez Astudillo. In NeurIPS, 2021  
+Thanh Lam Hoang, Gabriele Picco, Yufang Hou, Young-Suk Lee, Lam M. Nguyen, Dzung T. Phan, Vanessa Lopez, Ramon Fernandez Astudillo.  
+In NeurIPS, 2021  
 [[pdf]](https://arxiv.org/abs/2110.09131) [bib]
 
 **End-to-end Neural Information Status Classification**  
-Yufang Hou. In EMNLP Findings, 2021  
+Yufang Hou.  
+In EMNLP Findings, 2021  
 [[pdf]](https://aclanthology.org/2021.findings-emnlp.119.pdf) [[bib]](https://aclanthology.org/2021.findings-emnlp.119.bib)
 
 **HAConvGNN: Hierarchical Attention Based Convolutional Graph Neural Network for Code Documentation Generation in Jupyter Notebooks**  
