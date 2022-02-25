@@ -69,158 +69,192 @@ In EMNLP Findings, 2021
 [[pdf]](https://aclanthology.org/2021.findings-emnlp.119.pdf) [[bib]](https://aclanthology.org/2021.findings-emnlp.119.bib)
 
 **HAConvGNN: Hierarchical Attention Based Convolutional Graph Neural Network for Code Documentation Generation in Jupyter Notebooks**  
-Xuye Liu, Dakuo Wang, April Wang, Yufang Hou, Lingfei Wu. In EMNLP Findings, 2021  
+Xuye Liu, Dakuo Wang, April Wang, Yufang Hou, Lingfei Wu.  
+In EMNLP Findings, 2021  
 [[pdf]](https://aclanthology.org/2021.findings-emnlp.381.pdf) [[bib]](https://aclanthology.org/2021.findings-emnlp.381.bib)
 
 **Employing Argumentation Knowledge Graphs for Neural Argument Generation**  
-Khalid Al Khatib, Lukas Trautner, Henning Wachsmuth, Yufang Hou, Benno Stein. In ACL, 2021  
+Khalid Al Khatib, Lukas Trautner, Henning Wachsmuth, Yufang Hou, Benno Stein.  
+In ACL, 2021  
 [[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
 
 **End-to-End Construction of NLP Knowledge Graph**  
-Ishani Mondal, Yufang Hou, Charles Jochim. In ACL Findings, 2021  
+Ishani Mondal, Yufang Hou, Charles Jochim.  
+In ACL Findings, 2021  
 [[pdf]](https://aclanthology.org/2021.findings-acl.165.pdf) [[bib]](https://aclanthology.org/2021.findings-acl.165.bib)
 
 **D2S: Automated Slide Generation With Query-based Text Summarization From Documents**  
-Edward Sun, Yufang Hou, Dakuo Wang, Yunfeng Zhang and Nancy Xin Ru Wang. In NAACL, 2021  
+Edward Sun, Yufang Hou, Dakuo Wang, Yunfeng Zhang and Nancy Xin Ru Wang.  
+In NAACL, 2021  
 [[pdf]](https://aclanthology.org/2021.naacl-main.111.pdf) [[bib]](https://aclanthology.org/2021.naacl-main.111.bib)
 
 **Probing for Bridging Inference in Transformer Language Models**  
-Onkar Pandit, Yufang Hou. In NAACL, 2021  
+Onkar Pandit, Yufang Hou.  
+In NAACL, 2021  
 [[pdf]](https://aclanthology.org/2021.naacl-main.327.pdf) [[bib]](https://aclanthology.org/2021.naacl-main.327.bib)
 
 **TDMSci: A Specialized Corpus for Scientific Literature Entity Tagging of Tasks Datasets and Metrics**  
-Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly. In EACL, 2021  
+Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly.  
+In EACL, 2021  
 [[pdf]](https://aclanthology.org/2021.eacl-main.59.pdf) [[bib]](https://aclanthology.org/2021.eacl-main.59.bib)
 
 **Outcome Prediction from Behaviour Change Intervention Evaluations using a Combination of Node and Word Embedding**    
-Debasis Ganguly, Martin Gleize, Yufang Hou, Charles Jochim, Francesca Bonin, Alessandra Pascale, Pierpaolo Tommasi, Pol Mac Aonghusa, Susan Michie, Robert West, Mike Kelly. In AMIA Symposium, 2021  
+Debasis Ganguly, Martin Gleize, Yufang Hou, Charles Jochim, Francesca Bonin, Alessandra Pascale, Pierpaolo Tommasi, Pol Mac Aonghusa, Susan Michie, Robert West, Mike Kelly.  
+In AMIA Symposium, 2021  
 [pdf] [bib]
 
 **Overview of the 2021 Key Point Analysis Shared Task**  
-Roni Friedman, Lena Dankin, Yufang Hou, Ranit Aharonov, Yoav Katz, Noam Slonim. In the 8th Workshop on Argument Mining at EMNLP 2021  
+Roni Friedman, Lena Dankin, Yufang Hou, Ranit Aharonov, Yoav Katz, Noam Slonim.  
+In the 8th Workshop on Argument Mining at EMNLP 2021  
 [[pdf]](https://aclanthology.org/2021.argmining-1.16.pdf) [[bib]](https://aclanthology.org/2021.argmining-1.16.bib)
 
 **Argument Mining for Scholarly Document Processing: Taking Stock and Looking Ahead**  
-Khalid Al Khatib, Tirthankar Ghosal, Yufang Hou, Anita de Waard, Dayne Freitag. In the Second Workshop on Scholarly Document Processing at NAACL 2021  
+Khalid Al Khatib, Tirthankar Ghosal, Yufang Hou, Anita de Waard, Dayne Freitag.  
+In the Second Workshop on Scholarly Document Processing at NAACL 2021  
 [[pdf]](https://aclanthology.org/2021.sdp-1.7.pdf) [[bib]](https://aclanthology.org/2021.sdp-1.7.bib)
 
 **The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics**  
-Sebastian Gehrmann, Tosin Adewumi, Karmanya Aggarwal, Pawan Sasanka Ammanamanchi, Aremu Anuoluwapo, Antoine Bosselut, Khyathi Raghavi Chandu, Miruna Clinciu, Dipanjan Das, Kaustubh D Dhole, Wanyu Du, Esin Durmus, Ondřej Dušek, Chris Emezue, Varun Gangal, Cristina Garbacea, Tatsunori Hashimoto, Yufang Hou, Yacine Jernite, Harsh Jhamtani, Yangfeng Ji, Shailza Jolly, Dhruv Kumar, Faisal Ladhak, Aman Madaan, Mounica Maddela, Khyati Mahajan, Saad Mahamood, Bodhisattwa Prasad Majumder, Pedro Henrique Martins, Angelina McMillan-Major, Simon Mille, Emiel van Miltenburg, Moin Nadeem, Shashi Narayan, Vitaly Nikolaev, Rubungo Andre Niyongabo, Salomey Osei, Ankur Parikh, Laura Perez-Beltrachini, Niranjan Ramesh Rao, Vikas Raunak, Juan Diego Rodriguez, Sashank Santhanam, João Sedoc, Thibault Sellam, Samira Shaikh, Anastasia Shimorina, Marco Antonio Sobrevilla Cabezudo, Hendrik Strobelt, Nishant Subramani, Wei Xu, Diyi Yang, Akhila Yerukola, Jiawei Zhou. In the 1st Workshop on Natural Language Generation, Evaluation, and Metrics at ACL 2021  
+Sebastian Gehrmann, Tosin Adewumi, Karmanya Aggarwal, Pawan Sasanka Ammanamanchi, Aremu Anuoluwapo, Antoine Bosselut, Khyathi Raghavi Chandu, Miruna Clinciu, Dipanjan Das, Kaustubh D Dhole, Wanyu Du, Esin Durmus, Ondřej Dušek, Chris Emezue, Varun Gangal, Cristina Garbacea, Tatsunori Hashimoto, Yufang Hou, Yacine Jernite, Harsh Jhamtani, Yangfeng Ji, Shailza Jolly, Dhruv Kumar, Faisal Ladhak, Aman Madaan, Mounica Maddela, Khyati Mahajan, Saad Mahamood, Bodhisattwa Prasad Majumder, Pedro Henrique Martins, Angelina McMillan-Major, Simon Mille, Emiel van Miltenburg, Moin Nadeem, Shashi Narayan, Vitaly Nikolaev, Rubungo Andre Niyongabo, Salomey Osei, Ankur Parikh, Laura Perez-Beltrachini, Niranjan Ramesh Rao, Vikas Raunak, Juan Diego Rodriguez, Sashank Santhanam, João Sedoc, Thibault Sellam, Samira Shaikh, Anastasia Shimorina, Marco Antonio Sobrevilla Cabezudo, Hendrik Strobelt, Nishant Subramani, Wei Xu, Diyi Yang, Akhila Yerukola, Jiawei Zhou.  
+In the 1st Workshop on Natural Language Generation, Evaluation, and Metrics at ACL 2021  
 [[pdf]](https://aclanthology.org/2021.gem-1.10.pdf) [[bib]](https://aclanthology.org/2021.gem-1.10.bib)
 
 
 ### 2020
 
 **Bridging Anaphora Resolution as Question Answering**  
-Yufang Hou. In ACL, 2020  
+Yufang Hou.  
+In ACL, 2020  
 [[pdf]](https://aclanthology.org/2020.acl-main.132.pdf) [[bib]](https://aclanthology.org/2020.acl-main.132.bib)
 
 **Fine-grained Information Status Classification Using Discourse Context-Aware BERT**  
-Yufang Hou. In COLING, 2020  
+Yufang Hou.  
+In COLING, 2020  
 [[pdf]](https://aclanthology.org/2020.coling-main.537.pdf) [[bib]](https://aclanthology.org/2020.coling-main.537.bib)
 
 **End-to-End Argumentation Knowledge Graph Construction**  
-Khalid Al-Khatib, Yufang Hou, Henning Wachsmuth, Charles Jochim, Francesca Bonin, Benno Stein. In AAAI, 2020  
+Khalid Al-Khatib, Yufang Hou, Henning Wachsmuth, Charles Jochim, Francesca Bonin, Benno Stein.  
+In AAAI, 2020  
 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6231/6087) [[bib]](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=6231&publicationId=4597)
 
 **Corpus Wide Argument Mining--A Working Solution**  
-Liat Ein-Dor, Eyal Shnarch, Lena Dankin, Alon Halfon, Benjamin Sznajder, Ariel Gera, Carlos Alzate, Martin Gleize, Leshem Choshen, Yufang Hou, Yonatan Bilu, Ranit Aharonov, Noam Slonim. In AAAI, 2020  
+Liat Ein-Dor, Eyal Shnarch, Lena Dankin, Alon Halfon, Benjamin Sznajder, Ariel Gera, Carlos Alzate, Martin Gleize, Leshem Choshen, Yufang Hou, Yonatan Bilu, Ranit Aharonov, Noam Slonim.  
+In AAAI, 2020  
 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6270/6126) [[bib]](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=6270&publicationId=4636)
 
 **HBCP Corpus: A New Resource for the Analysis of Behaviour ChangeIntervention Reports**  
-Francesca Bonin, Ailbhe N. Finnerty, Candice Moore, Charles Jochim, Emma Norris, Yufang Hou, Martin Gleize, Debasis Ganguly, Alison J. Wright, Emily Hayes, Silje Zink, Alessandra Pascale, Pol Mac Aonghusa, Susan Michie. In LREC, 2020  
+Francesca Bonin, Ailbhe N. Finnerty, Candice Moore, Charles Jochim, Emma Norris, Yufang Hou, Martin Gleize, Debasis Ganguly, Alison J. Wright, Emily Hayes, Silje Zink, Alessandra Pascale, Pol Mac Aonghusa, Susan Michie.  
+In LREC, 2020  
 [[pdf]](https://aclanthology.org/2020.lrec-1.242.pdf) [[bib]](https://aclanthology.org/2020.lrec-1.242.bib)
 
 **Knowledge Extraction and Prediction from Behavior Science Randomized Controlled Trials: A Case-Study in Smoking Cessation**  
-Francesca Bonin, Martin Gleize, Yufang Hou, Debasis Ganguly, Ailbhe Finnerty, Charles Jochim, Alessandra Pascale, Pierpaolo Tommasi, Pol Mac Aonghusa, Susan Michie. In AMIA Symposium, 2020  
+Francesca Bonin, Martin Gleize, Yufang Hou, Debasis Ganguly, Ailbhe Finnerty, Charles Jochim, Alessandra Pascale, Pierpaolo Tommasi, Pol Mac Aonghusa, Susan Michie.  
+In AMIA Symposium, 2020  
 [[pdf]](https://discovery.ucl.ac.uk/id/eprint/10128194/1/Bonin%20et%20al.%20-%20Knowledge%20Extraction%20and%20Prediction%20for%20Beh%20Sci%20RCTs.pdf) [bib]
 
 ### 2019
 
 **Identification of Tasks, Datasets, Evaluation Metrics, and Numeric Scores for Scientific Leaderboards Construction**  
-Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly. In ACL 2019  
+Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly.  
+In ACL 2019  
 [[pdf]](https://aclanthology.org/P19-1513.pdf) [[bib]](https://aclanthology.org/P19-1513.bib)
 
 **A Summarization System for Scientific Documents**  
-Shai Erera, Michal Shmueli-Scheuer, Guy Feigenblat, Ora Peled Nakash, Odellia Boni, Haggai Roitman, Doron Cohen, Bar Weiner, Yosi Mass, Or Rivlin, Guy Lev, Achiya Jerbi, Jonathan Herzig, Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, David Konopnicki. In EMNLP 2019 Demo Track  
+Shai Erera, Michal Shmueli-Scheuer, Guy Feigenblat, Ora Peled Nakash, Odellia Boni, Haggai Roitman, Doron Cohen, Bar Weiner, Yosi Mass, Or Rivlin, Guy Lev, Achiya Jerbi, Jonathan Herzig, Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, David Konopnicki.  
+In EMNLP 2019 Demo Track  
 [[pdf]](https://aclanthology.org/D19-3036.pdf) [[bib]](https://aclanthology.org/D19-3036.bib)
 
 **Extracting Factual Min/Max Age Information from Clinical Trial Studies**  
-Yufang Hou, Debasis Ganguly, Lea A Deleris, Francesca Bonin. In the 2nd Clinical Natural Language Processing Workshop at NAACL 2019  
+Yufang Hou, Debasis Ganguly, Lea A Deleris, Francesca Bonin.  
+In the 2nd Clinical Natural Language Processing Workshop at NAACL 2019  
 [[pdf]](https://aclanthology.org/W19-1914.pdf) [[bib]](https://aclanthology.org/W19-1914.bib)
 
 **Information Extraction of Behavior Change Intervention Descriptions**  
-Debasis Ganguly, Yufang Hou, Lea A. Deleris, Francesca Bonin. In AMIA Informatics Summit 2019  
+Debasis Ganguly, Yufang Hou, Lea A. Deleris, Francesca Bonin.  
+In AMIA Informatics Summit 2019  
 [[pdf]](https://researcher.watson.ibm.com/researcher/files/ie-FBonin/HBCP_AMIA-cr.pdf) [bib]
 
 ### 2018 
 
 **Will it Blend? Blending Weak and Strong Labeled Data in a Neural Network for Argumentation Mining**  
-Eyal Shnarch, Carlos Alzate, Lena Dankin, Martin Gleize, Yufang Hou, Leshem Choshen, Ranit Aharonov, Noam Slonim. In ACL 2018  
+Eyal Shnarch, Carlos Alzate, Lena Dankin, Martin Gleize, Yufang Hou, Leshem Choshen, Ranit Aharonov, Noam Slonim.  
+In ACL 2018  
 [[pdf]](https://aclanthology.org/P18-2095.pdf) [[bib]](https://aclanthology.org/P18-2095.bib)
 
 **A Deterministic Algorithm for Bridging Anaphora Resolution**  
-Yufang Hou. In EMNLP 2018  
+Yufang Hou.  
+In EMNLP 2018  
 [[pdf]](https://aclanthology.org/D18-1219.pdf) [[bib]](https://aclanthology.org/D18-1219.bib)
 
 
 **Enhanced Word Representations for Bridging Anaphora Resolution**  
-Yufang Hou. In NAACL 2018  
+Yufang Hou.  
+In NAACL 2018  
 [[pdf]](https://aclanthology.org/N18-2001.pdf) [[bib]](https://aclanthology.org/N18-2001.bib)
 
 
 **Know Who Your Friends Are: Understanding Social Connections from Unstructured Text**  
-Lea A. Deleris, Francesca Bonin, Elizabeth Daly, Stephane Deparis, Yufang Hou, Charles Jochim, Yassine Lassoued and Killian Levacher. In NAACL 2018 Demo Track  
+Lea A. Deleris, Francesca Bonin, Elizabeth Daly, Stephane Deparis, Yufang Hou, Charles Jochim, Yassine Lassoued and Killian Levacher.  
+In NAACL 2018 Demo Track  
 [[pdf]](https://aclanthology.org/N18-5016.pdf) [[bib]](https://aclanthology.org/N18-5016.bib)
 
 
 ### 2017 
 
 **Computational Argumentation Quality Assessment in Natural Language**  
-Henning Wachsmuth, Nona Naderi, Yufang Hou, Yonatan Bilu, Vinodkumar Prabhakaran, Graeme Hirst, Benno Stein. In EACL 2017  
+Henning Wachsmuth, Nona Naderi, Yufang Hou, Yonatan Bilu, Vinodkumar Prabhakaran, Graeme Hirst, Benno Stein.  
+In EACL 2017  
 [[pdf]](https://aclanthology.org/E17-1017.pdf) [[bib]](https://aclanthology.org/E17-1017.bib)
 
 **Argumentation Quality Assessment: Theory vs. Practice**  
-Henning Wachsmuth, Nona Naderi, Ivan Habernal, Yufang Hou, Graeme Hirst, Iryna Gurevych, Benno Stein. In ACL 2017  
+Henning Wachsmuth, Nona Naderi, Ivan Habernal, Yufang Hou, Graeme Hirst, Iryna Gurevych, Benno Stein.  
+In ACL 2017  
 [[pdf]](https://aclanthology.org/P17-2039.pdf) [[bib]](https://aclanthology.org/P17-2039.bib)
 
 **Argument Relation Classification Using a Joint Inference Model**  
-Yufang Hou, Charles Jochim. In the 4th Workshop on Argument Mining at EMNLP 2017  
+Yufang Hou, Charles Jochim.  
+In the 4th Workshop on Argument Mining at EMNLP 2017  
 [[pdf]](https://aclanthology.org/W17-5107.pdf) [[bib]](https://aclanthology.org/W17-5107.bib)
 
 **The Cool Cucumber System at the 2017 TAC KBP BeSt Evaluation**  
-Thanh-Son Nguyen, Yufang Hou, Charles Jochim, Elizabeth M. Daly, Lea A Deleris. In TAC KBP 2017  
+Thanh-Son Nguyen, Yufang Hou, Charles Jochim, Elizabeth M. Daly, Lea A Deleris.  
+In TAC KBP 2017  
 [[pdf]](https://tac.nist.gov/publications/2017/participant.papers/TAC2017.coolcucumber.proceedings.pdf) [bib]
 
 ### 2016
 
 **Incremental Fine-grained Information Status Classification Using Attention-based LSTMs**  
-Yufang Hou. In COLING 2016  
+Yufang Hou.  
+In COLING 2016  
 [[pdf]](https://aclanthology.org/C16-1177.pdf) [[bib]](https://aclanthology.org/C16-1177.bib)
 
 ### 2015
 **Analyzing Sentiment in Classical Chinese Poetry**  
-Yufang Hou, Anette Frank. In the 9th SIGHUM Workshop on Language Technology for Cultural Heritage at ACL 2015    
+Yufang Hou, Anette Frank.  
+In the 9th SIGHUM Workshop on Language Technology for Cultural Heritage at ACL 2015    
 [[pdf]](https://aclanthology.org/W15-3703.pdf) [[bib]](https://aclanthology.org/W15-3703.bib)
 
 
 ### 2014
 **A Rule-Based System for Unrestricted Bridging Resolution: Recognizing Bridging Anaphora and Finding Links to Antecedents**  
-Yufang Hou, Katja Markert, Michael Strube. In EMNLP 2014  
+Yufang Hou, Katja Markert, Michael Strube.  
+In EMNLP 2014  
 [[pdf]](https://aclanthology.org/D14-1222.pdf) [[bib]](https://aclanthology.org/D14-1222.bib)
 
 ### 2013
 **Global Inference for Bridging Anaphora Resolution**   
-Yufang Hou, Katja Markert, Michael Strube. In NAACL 2013  
+Yufang Hou, Katja Markert, Michael Strube.  
+In NAACL 2013  
 [[pdf]](https://aclanthology.org/N13-1111.pdf) [[bib]](https://aclanthology.org/N13-1111.bib)
 
 **Cascading Collective Classification for Bridging Anaphora Recognition using a Rich Linguistic Feature Set**  
-Yufang Hou, Katja Markert, Michael Strube. In EMNLP 2013  
+Yufang Hou, Katja Markert, Michael Strube.  
+In EMNLP 2013  
 [[pdf]](https://aclanthology.org/D13-1077.pdf) [[bib]](https://aclanthology.org/D13-1077.bib)
 
 ### 2012
 **Collective Classification for Fine-grained Information Status**  
-Katja Markert, Yufang Hou, Michael Strube. In ACL 2012  
+Katja Markert, Yufang Hou, Michael Strube.  
+In ACL 2012  
 [[pdf]](https://aclanthology.org/P12-1084.pdf) [[bib]](https://aclanthology.org/P12-1084.bib)
 
 
