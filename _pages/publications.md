@@ -155,12 +155,12 @@ In AMIA Symposium, 2020
 
 **Identification of Tasks, Datasets, Evaluation Metrics, and Numeric Scores for Scientific Leaderboards Construction**  
 Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly.  
-In ACL 2019  
+In ACL, 2019  
 [[pdf]](https://aclanthology.org/P19-1513.pdf) [[bib]](https://aclanthology.org/P19-1513.bib)
 
 **A Summarization System for Scientific Documents**  
 Shai Erera, Michal Shmueli-Scheuer, Guy Feigenblat, Ora Peled Nakash, Odellia Boni, Haggai Roitman, Doron Cohen, Bar Weiner, Yosi Mass, Or Rivlin, Guy Lev, Achiya Jerbi, Jonathan Herzig, Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, David Konopnicki.  
-In EMNLP 2019 Demo Track  
+In EMNLP Demo Track, 2019  
 [[pdf]](https://aclanthology.org/D19-3036.pdf) [[bib]](https://aclanthology.org/D19-3036.bib)
 
 **Extracting Factual Min/Max Age Information from Clinical Trial Studies**  
@@ -170,31 +170,31 @@ In the 2nd Clinical Natural Language Processing Workshop at NAACL 2019
 
 **Information Extraction of Behavior Change Intervention Descriptions**  
 Debasis Ganguly, Yufang Hou, Lea A. Deleris, Francesca Bonin.  
-In AMIA Informatics Summit 2019  
+In AMIA Informatics Summit, 2019  
 [[pdf]](https://researcher.watson.ibm.com/researcher/files/ie-FBonin/HBCP_AMIA-cr.pdf) [bib]
 
 ### 2018 
 
 **Will it Blend? Blending Weak and Strong Labeled Data in a Neural Network for Argumentation Mining**  
 Eyal Shnarch, Carlos Alzate, Lena Dankin, Martin Gleize, Yufang Hou, Leshem Choshen, Ranit Aharonov, Noam Slonim.  
-In ACL 2018  
+In ACL, 2018  
 [[pdf]](https://aclanthology.org/P18-2095.pdf) [[bib]](https://aclanthology.org/P18-2095.bib)
 
 **A Deterministic Algorithm for Bridging Anaphora Resolution**  
 Yufang Hou.  
-In EMNLP 2018  
+In EMNLP, 2018  
 [[pdf]](https://aclanthology.org/D18-1219.pdf) [[bib]](https://aclanthology.org/D18-1219.bib)
 
 
 **Enhanced Word Representations for Bridging Anaphora Resolution**  
 Yufang Hou.  
-In NAACL 2018  
+In NAACL, 2018  
 [[pdf]](https://aclanthology.org/N18-2001.pdf) [[bib]](https://aclanthology.org/N18-2001.bib)
 
 
 **Know Who Your Friends Are: Understanding Social Connections from Unstructured Text**  
 Lea A. Deleris, Francesca Bonin, Elizabeth Daly, Stephane Deparis, Yufang Hou, Charles Jochim, Yassine Lassoued and Killian Levacher.  
-In NAACL 2018 Demo Track  
+In NAACL Demo Track, 2018    
 [[pdf]](https://aclanthology.org/N18-5016.pdf) [[bib]](https://aclanthology.org/N18-5016.bib)
 
 
@@ -202,12 +202,12 @@ In NAACL 2018 Demo Track
 
 **Computational Argumentation Quality Assessment in Natural Language**  
 Henning Wachsmuth, Nona Naderi, Yufang Hou, Yonatan Bilu, Vinodkumar Prabhakaran, Graeme Hirst, Benno Stein.  
-In EACL 2017  
+In EACL, 2017  
 [[pdf]](https://aclanthology.org/E17-1017.pdf) [[bib]](https://aclanthology.org/E17-1017.bib)
 
 **Argumentation Quality Assessment: Theory vs. Practice**  
 Henning Wachsmuth, Nona Naderi, Ivan Habernal, Yufang Hou, Graeme Hirst, Iryna Gurevych, Benno Stein.  
-In ACL 2017  
+In ACL, 2017  
 [[pdf]](https://aclanthology.org/P17-2039.pdf) [[bib]](https://aclanthology.org/P17-2039.bib)
 
 **Argument Relation Classification Using a Joint Inference Model**  
@@ -217,14 +217,14 @@ In the 4th Workshop on Argument Mining at EMNLP 2017
 
 **The Cool Cucumber System at the 2017 TAC KBP BeSt Evaluation**  
 Thanh-Son Nguyen, Yufang Hou, Charles Jochim, Elizabeth M. Daly, Lea A Deleris.  
-In TAC KBP 2017  
+In TAC KBP, 2017  
 [[pdf]](https://tac.nist.gov/publications/2017/participant.papers/TAC2017.coolcucumber.proceedings.pdf) [bib]
 
 ### 2016
 
 **Incremental Fine-grained Information Status Classification Using Attention-based LSTMs**  
 Yufang Hou.  
-In COLING 2016  
+In COLING, 2016  
 [[pdf]](https://aclanthology.org/C16-1177.pdf) [[bib]](https://aclanthology.org/C16-1177.bib)
 
 ### 2015
@@ -237,24 +237,24 @@ In the 9th SIGHUM Workshop on Language Technology for Cultural Heritage at ACL 2
 ### 2014
 **A Rule-Based System for Unrestricted Bridging Resolution: Recognizing Bridging Anaphora and Finding Links to Antecedents**  
 Yufang Hou, Katja Markert, Michael Strube.  
-In EMNLP 2014  
+In EMNLP, 2014  
 [[pdf]](https://aclanthology.org/D14-1222.pdf) [[bib]](https://aclanthology.org/D14-1222.bib)
 
 ### 2013
 **Global Inference for Bridging Anaphora Resolution**   
 Yufang Hou, Katja Markert, Michael Strube.  
-In NAACL 2013  
+In NAACL, 2013  
 [[pdf]](https://aclanthology.org/N13-1111.pdf) [[bib]](https://aclanthology.org/N13-1111.bib)
 
 **Cascading Collective Classification for Bridging Anaphora Recognition using a Rich Linguistic Feature Set**  
 Yufang Hou, Katja Markert, Michael Strube.  
-In EMNLP 2013  
+In EMNLP, 2013  
 [[pdf]](https://aclanthology.org/D13-1077.pdf) [[bib]](https://aclanthology.org/D13-1077.bib)
 
 ### 2012
 **Collective Classification for Fine-grained Information Status**  
 Katja Markert, Yufang Hou, Michael Strube.  
-In ACL 2012  
+In ACL, 2012  
 [[pdf]](https://aclanthology.org/P12-1084.pdf) [[bib]](https://aclanthology.org/P12-1084.bib)
 
 
