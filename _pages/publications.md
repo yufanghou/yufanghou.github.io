@@ -39,15 +39,15 @@ Yufang Hou, Katja Markert, Michael Strube. In Computational Linguistics, 2018
 ### 2022
 
 **A Constraint-Based Joint Learning Approach for Bridging Resolution (to appear)**  
-Hideo Kobayashi, Yufang Hou, Vincent Ng. In ACL, 2022 
+Hideo Kobayashi, Yufang Hou, Vincent Ng. In ACL, 2022  
 [pdf] [bib]
 
 **Educational Question Generation of Children Storybooks via QuestionType Distribution Learning and Event-centric Summarization (to appear)**  
-Zhenjie Zhao, Yufang Hou, Dakuo Wang, Mo Yu, Chengzhong LIU, Xiaojuan Ma. In ACL, 2022 
+Zhenjie Zhao, Yufang Hou, Dakuo Wang, Mo Yu, Chengzhong LIU, Xiaojuan Ma. In ACL, 2022  
 [pdf] [bib]
 
 **Fantastic Questions and Where to Find Them: FairytaleQA--An Authentic Dataset for Narrative Comprehension (to appear)**  
-Ying Xu, Dakuo Wang, Mo Yu, Daniel Ritchie, Bingsheng Yao, Tongshuang Wu, Zheng Zhang, Toby Jia-Jun Li, Nora Bradford, Branda Sun, Tran Bao Hoang, Yisi Sang, Yufang Hou, Xiaojuan Ma, Diyi Yang, Nanyun Peng, Zhou Yu, Mark Warschauer. In ACL, 2022 
+Ying Xu, Dakuo Wang, Mo Yu, Daniel Ritchie, Bingsheng Yao, Tongshuang Wu, Zheng Zhang, Toby Jia-Jun Li, Nora Bradford, Branda Sun, Tran Bao Hoang, Yisi Sang, Yufang Hou, Xiaojuan Ma, Diyi Yang, Nanyun Peng, Zhou Yu, Mark Warschauer. In ACL, 2022   
 [pdf] [bib]
 
 
