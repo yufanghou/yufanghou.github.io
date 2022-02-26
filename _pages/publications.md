@@ -47,7 +47,7 @@ In ACL, 2022
 [pdf] [bib]
 
 **Educational Question Generation of Children Storybooks via QuestionType Distribution Learning and Event-centric Summarization (to appear)**  
-Zhenjie Zhao, Yufang Hou, Dakuo Wang, Mo Yu, Chengzhong LIU, Xiaojuan Ma.  
+Zhenjie Zhao, Yufang Hou, Dakuo Wang, Mo Yu, Chengzhong Liu, Xiaojuan Ma.  
 In ACL, 2022  
 [pdf] [bib]
 
