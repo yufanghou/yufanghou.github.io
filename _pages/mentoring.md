@@ -10,8 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-- 2021 Ronald Cardenas (PhD student from University of Edinburgh)
-- 2021 Hideo Kobayashi (PhD student from University of Texas at Dallas)
+- 2021-2012 Ronald Cardenas (PhD student from University of Edinburgh)
+- 2021-2012 Hideo Kobayashi (PhD student from University of Texas at Dallas)
+- 2021 Zhenjie Zhao (Research associate from Hong Kong University of Science and Technology)
 - 2021 Zhixuan (Kyrie) Zhou (PhD student from University of Illinois at Urbana-Champaign) 
 - 2020 Edward Sun (Undergraduate student from University of Michigan, USA) 
 - 2020 Onkar Pandit (PhD student from Inria Lille - Nord Europe, France) 
