@@ -41,7 +41,7 @@ In Computational Linguistics, 2018
 
 ### 2022
 
-**A Constraint-Based Joint Learning Approach for Bridging Resolution (to appear)**  
+**Constrained Multi-Task Learning for Bridging Resolution (to appear)**  
 Hideo Kobayashi, Yufang Hou, Vincent Ng.  
 In ACL, 2022  
 [pdf] [bib]
