@@ -58,7 +58,7 @@ In ACL, 2022
 
 **Finding Sub-task Structure with Natural Language Instruction (to appear)**  
 Ryokan Ri, Yufang Hou, Radu Marinescu, Akihiro Kishimoto.  
-In the First Workshop on Learning with Natural Language Supervision at ACL 2022 
+In the First Workshop on Learning with Natural Language Supervision at ACL 2022   
 [pdf] [bib]
 
 ### 2021
