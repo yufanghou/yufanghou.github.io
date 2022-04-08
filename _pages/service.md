@@ -10,9 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-- Senior PC: AAAI 2022, SIGDIAL 2022 
+- Senior Area Chair: EMNLP 2022
 - Area Chair: EACL 2021, INLG 2022
+- Senior PC: AAAI 2022, SIGDIAL 2022 
 - Workshop Organiser: [ArgMining 2021](https://2021.argmining.org/), [SustainNLP 2021](https://sites.google.com/view/sustainlp2021/home), [ArgKG 2021](https://argkg21.argmining.org/)  
 - Shared Task Organiser: [KPA 2021](https://github.com/ibm/KPA_2021_shared_task)  
 - Organiser: [Ireland WaiTALK: Path to Entrepreneurship, 2020](https://medium.com/womeninai/becoming-founders-and-ceos-path-to-entrepreneurship-waitalk-693f6e5671de)
