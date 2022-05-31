@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+- Anaphora and Coreference Resolution. LT Bridge Summer School, 31 May 2022.
 - Career Panel: What’s Different? Alumni in Academia and Industry (Panel Discussion). HITS Alumni Meeting, 7 July 2021.
 - Project Debater. IBM AI in SPM Talk Series, 18 June 2021.
 - D2S: Automatic Query Driven Document to Slide Generation. DRL Show and Tell, 12 February 2021.
