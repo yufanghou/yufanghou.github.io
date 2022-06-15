@@ -41,31 +41,31 @@ In Computational Linguistics, 2018
 
 ### 2022
 
-**Constrained Multi-Task Learning for Bridging Resolution (to appear)**  
+**Constrained Multi-Task Learning for Bridging Resolution**  
 Hideo Kobayashi, Yufang Hou, Vincent Ng.  
 In ACL, 2022  
-[pdf] [bib]
+[[pdf]](https://aclanthology.org/2022.acl-long.56.pdf) [[bib]](https://aclanthology.org/2022.acl-long.56.bib)
 
-**Educational Question Generation of Children Storybooks via QuestionType Distribution Learning and Event-centric Summarization (to appear)**  
+**Educational Question Generation of Children Storybooks via QuestionType Distribution Learning and Event-centric Summarization**  
 Zhenjie Zhao, Yufang Hou, Dakuo Wang, Mo Yu, Chengzhong Liu, Xiaojuan Ma.  
 In ACL, 2022  
-[pdf] [bib]
+[[pdf]](https://aclanthology.org/2022.acl-long.348.pdf) [[bib]](https://aclanthology.org/2022.acl-long.348.bib)
 
-**Fantastic Questions and Where to Find Them: FairytaleQA--An Authentic Dataset for Narrative Comprehension (to appear)**  
+**Fantastic Questions and Where to Find Them: FairytaleQA--An Authentic Dataset for Narrative Comprehension**  
 Ying Xu, Dakuo Wang, Mo Yu, Daniel Ritchie, Bingsheng Yao, Tongshuang Wu, Zheng Zhang, Toby Jia-Jun Li, Nora Bradford, Branda Sun, Tran Bao Hoang, Yisi Sang, Yufang Hou, Xiaojuan Ma, Diyi Yang, Nanyun Peng, Zhou Yu, Mark Warschauer.  
 In ACL, 2022   
-[pdf] [bib]
+[[pdf]](https://aclanthology.org/2022.acl-long.34.pdf) [[bib]](https://aclanthology.org/2022.acl-long.34.bib)
 
-**Finding Sub-task Structure with Natural Language Instruction (to appear)**  
+**Finding Sub-task Structure with Natural Language Instruction**  
 Ryokan Ri, Yufang Hou, Radu Marinescu, Akihiro Kishimoto.  
 In the First Workshop on Learning with Natural Language Supervision at ACL 2022   
-[pdf] [bib]
+[[pdf]](https://aclanthology.org/2022.lnls-1.1.pdf) [[bib]](https://aclanthology.org/2022.lnls-1.1.bib)
 
 ### 2021
 **Ensemble Graph Prediction for AMR Parsing**  
 Thanh Lam Hoang, Gabriele Picco, Yufang Hou, Young-Suk Lee, Lam M. Nguyen, Dzung T. Phan, Vanessa Lopez, Ramon Fernandez Astudillo.  
 In NeurIPS, 2021  
-[[pdf]](https://arxiv.org/abs/2110.09131) [bib]
+[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://papers.nips.cc/paper/12273-/bibtex)
 
 **End-to-end Neural Information Status Classification**  
 Yufang Hou.  
@@ -80,7 +80,7 @@ In EMNLP Findings, 2021
 **Employing Argumentation Knowledge Graphs for Neural Argument Generation**  
 Khalid Al Khatib, Lukas Trautner, Henning Wachsmuth, Yufang Hou, Benno Stein.  
 In ACL, 2021  
-[[pdf]](https://arxiv.org/abs/2110.09131) [[bib]](https://arxiv.org/abs/2110.09131)
+[[pdf]](https://aclanthology.org/2021.acl-long.366.pdf) [[bib]]([https://arxiv.org/abs/2110.09131](https://aclanthology.org/2021.acl-long.366.bib)
 
 **End-to-End Construction of NLP Knowledge Graph**  
 Ishani Mondal, Yufang Hou, Charles Jochim.  
