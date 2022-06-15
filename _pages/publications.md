@@ -80,7 +80,7 @@ In EMNLP Findings, 2021
 **Employing Argumentation Knowledge Graphs for Neural Argument Generation**  
 Khalid Al Khatib, Lukas Trautner, Henning Wachsmuth, Yufang Hou, Benno Stein.  
 In ACL, 2021  
-[[pdf]](https://aclanthology.org/2021.acl-long.366.pdf) [[bib]]([https://arxiv.org/abs/2110.09131](https://aclanthology.org/2021.acl-long.366.bib)
+[[pdf]](https://aclanthology.org/2021.acl-long.366.pdf) [[bib]](https://aclanthology.org/2021.acl-long.366.bib)
 
 **End-to-End Construction of NLP Knowledge Graph**  
 Ishani Mondal, Yufang Hou, Charles Jochim.  
