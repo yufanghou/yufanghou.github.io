@@ -41,6 +41,11 @@ In Computational Linguistics, 2018
 
 ### 2022
 
+**End-to-End Neural Bridging Resolution**  
+Hideo Kobayashi, Yufang Hou, Vincent Ng.  
+In COLING, 2022  
+[pdf][bib]
+
 **Constrained Multi-Task Learning for Bridging Resolution**  
 Hideo Kobayashi, Yufang Hou, Vincent Ng.  
 In ACL, 2022  
