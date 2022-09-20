@@ -14,6 +14,9 @@ I'm a research scientist at IBM Research. I'm also an adjunct senior lecturer an
 I am a member of the standing review committee of [TACL](http://www.transacl.org/). I also serve as a standing reviewer of [Computational Linguistics (CL) journal](http://cljournal.org/). I have co-organized [the 8th Workshop on Argument Mining](https://2021.argmining.org/), [the Second Workshop on Simple and Efficient Natural Language Processing (SustainNLP 2021)](https://sites.google.com/view/sustainlp2021/home), [the First Workshop on Argumentation Knowledge Graphs](https://argkg21.argmining.org/), and [the First Quantitative Summarization – Key Point Analysis Shared Task](https://github.com/ibm/KPA_2021_shared_task).
 
 ## News
+
+- 09/2022 The GEMv2 demo paper got accepted to EMNLP 2022! Our [document2slides dataset](https://github.com/IBM/document2slides) is integrated into GEMv2 and can be easily accessed at: https://huggingface.co/datasets/GEM/SciDuet.
+
 - 08/2022 One paper accepted at COLING 2022!
 
 - 05/2022 I will give a lecture on anaphora and coreference resolution at LT Bridge Summer School.
