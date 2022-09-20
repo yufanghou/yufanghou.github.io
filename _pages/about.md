@@ -15,7 +15,7 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
-- 09/2022 The GEMv2 demo paper got accepted to EMNLP 2022! Our [document2slides dataset](https://github.com/IBM/document2slides) is integrated into GEMv2 and can be easily accessed at: https://huggingface.co/datasets/GEM/SciDuet.
+- 09/2022 The GEMv2 demo paper got accepted to EMNLP 2022! Our [document2slides dataset](https://github.com/IBM/document2slides) is integrated into GEMv2 and can be easily accessed at: [GEM-SciDuet](https://huggingface.co/datasets/GEM/SciDuet).
 
 - 08/2022 One paper accepted at COLING 2022!
 
