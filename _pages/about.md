@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 10/2022 One paper accepted at EMNLP 2022!
+
 - 09/2022 I gave an invited talk at Dublin City University NLP Seminar. 
 
 - 09/2022 The GEMv2 demo paper got accepted to EMNLP 2022! Our [document2slides dataset](https://github.com/IBM/document2slides) is integrated into GEMv2 and can be easily accessed at: [GEM-SciDuet](https://huggingface.co/datasets/GEM/SciDuet).
