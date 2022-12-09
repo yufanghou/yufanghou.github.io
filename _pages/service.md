@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 - Senior Area Chair: EMNLP 2022
-- Area Chair: EACL 2021, INLG 2022
+- Area Chair: EACL 2021, INLG 2022, ACL 2023
 - Senior PC: AAAI 2022, SIGDIAL 2022 
 - Workshop Organiser: [ArgMining 2021](https://2021.argmining.org/), [ArgKG 2021](https://argkg21.argmining.org/), [SustaiNLP 2021](https://sites.google.com/view/sustainlp2021/home), [SustaiNLP 2022](https://sites.google.com/view/sustainlp2022) 
 - Shared Task Organiser: [KPA 2021](https://github.com/ibm/KPA_2021_shared_task)  
@@ -22,6 +22,8 @@ author_profile: true
   - Computational Linguistics (2018)
   - Natural Language Engineering (2017)
   - Transactions on Asian and Low-Resource Language Information Processing (2017)  
+- Journal Editorial Board Member
+  - Northern European Journal of Language Technology (NEJLT)
 - NLP Conference PC: ACL, NAACL, EMNLP, COLING, EACL, CoNLL, LREC (since 2015)  
 - Other Conference PC: AAAI 2020/2021, IJCAI 2020  
 - Workshop PC: ArgMining 2019/2020, CORBON 2016/2017, CRAC 2018/2021, LaTeCH 2016
