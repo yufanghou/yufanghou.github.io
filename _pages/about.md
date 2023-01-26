@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 01/2023 I gave a short talk at [IBM Neuro-Symbolic AI Workshop](https://ibm.github.io/neuro-symbolic-ai/events/ns-workshop2023/). 
+
 - 12/2022 I will serve as an area chair at ACL 2023.
 
 - 10/2022 I gave a talk at [Dagstuhl Seminar - Towards a Unified Model of Scholarly Argumentation](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22432).
