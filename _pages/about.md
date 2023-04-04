@@ -15,7 +15,7 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
-- 04/2023 Visting [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp).
+- 04/2023 I visited [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) and had great discussions with the brilliant students from the lab.
 
 - 01/2023 I gave a short talk at [IBM Neuro-Symbolic AI Workshop](https://ibm.github.io/neuro-symbolic-ai/events/ns-workshop2023/). 
 
