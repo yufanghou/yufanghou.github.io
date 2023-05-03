@@ -32,8 +32,6 @@ In Nature, 2021
 
     
 
-
-
 **Unrestricted Bridging Resolution**  
 Yufang Hou, Katja Markert, Michael Strube.  
 In Computational Linguistics, 2018  
@@ -42,22 +40,45 @@ In Computational Linguistics, 2018
 
 ## Conference/Workshop Papers
 
+### 2023
+
+**PairSpanBERT: An Enhanced Language Model for Bridging Resolution.**  
+Hideo Kobayashi, Yufang Hou, Vincent Ng.    
+In ACL, 2023  
+[pdf][bib]
+
+**Are Fairy Tales Fair? Analyzing Gender Bias in Temporal Narrative Event Chains of Children's Fairy Tales.**  
+Paulina Toro Isaza, Guangxuan Xu, Toye Oloko, Yufang Hou, Nanyun Peng, Dakuo Wang.    
+In ACL, 2023  
+[pdf][bib]
+
+**Matching Pairs: Attributing Fine-Tuned Models to their Pre-Trained Large Language Models.**  
+Myles Foley, Ambrish Rawat, Taesung Lee, Yufang Hou, Gabriele Picco and Giulio Zizzo.    
+In ACL, 2023  
+[pdf][bib]
+
+**A Needle in a Haystack: An Analysis of Finding Qualified Workers on MTurk for Summarization.**  
+Lining Zhang, João Sedoc, Simon Mille, Yufang Hou, Sebastian Gehrmann, Daniel Deutsch, Elizabeth Clark, Yixin Liu, Miruna Clinciu, Saad Mahamood, Khyathi Raghavi Chandu.    
+In ACL, 2023  
+[pdf][bib]
+
+
 ### 2022
 
 **Missing Counter--Evidence Render NLP Fact-Checking Unrealistic for Misinformation.**  
 Max Glockner, Yufang Hou, Iryna Gurevych.    
 In EMNLP, 2022  
-[pdf][bib]
+[[pdf]](https://aclanthology.org/2022.emnlp-main.397.pdf)[[bib]](https://aclanthology.org/2022.emnlp-main.397.bib)
 
 **GEMv2: Multilingual NLG Benchmarking in a Single Line of Code**  
 Sebastian Gehrmann, Abhik Bhattacharjee, Abinaya Mahendiran, Alex Wang, Alexandros Papangelis, Aman Madaan, Angelina McMillan-Major, Anna Shvets, Ashish Upadhyay, Bingsheng Yao, Bryan Wilie, Chandra Bhagavatula, Chaobin You, Craig Thomson, Cristina Garbacea, Dakuo Wang, Daniel Deutsch, Deyi Xiong, Di Jin, Dimitra Gkatzia, Dragomir Radev, Elizabeth Clark, Esin Durmus, Faisal Ladhak, Filip Ginter, Genta Indra Winata, Hendrik Strobelt, Hiroaki Hayashi, Jekaterina Novikova, Jenna Kanerva, Jenny Chim, Jiawei Zhou, Jordan Clive, Joshua Maynez, João Sedoc, Juraj Juraska, Kaustubh Dhole, Khyathi Raghavi Chandu, Leonardo FR Ribeiro, Lewis Tunstall, Li Zhang, Mahima Pushkarna, Mathias Creutz, Michael White, Mihir Sanjay Kale, Moussa Kamal Eddine, Nico Daheim, Nishant Subramani, Ondrej Dusek, Paul Pu Liang, Pawan Sasanka Ammanamanchi, Qi Zhu, Ratish Puduppully, Reno Kriz, Rifat Shahriyar, Ronald Cardenas, Saad Mahamood, Salomey Osei, Samuel Cahyawijaya, Sanja Štajner, Sebastien Montella, Shailza Jolly, Simon Mille, Tahmid Hasan, Tianhao Shen, Tosin Adewumi, Vikas Raunak, Vipul Raheja, Vitaly Nikolaev, Vivian Tsai, Yacine Jernite, Ying Xu, Yisi Sang, Yixin Liu, Yufang Hou.    
 In EMNLP Demo Track, 2022  
-[pdf][bib]
+[[pdf]](https://aclanthology.org/2022.emnlp-demos.27.pdf)[[bib]](https://aclanthology.org/2022.emnlp-demos.27.bib)
 
 **End-to-End Neural Bridging Resolution**  
 Hideo Kobayashi, Yufang Hou, Vincent Ng.  
 In COLING, 2022  
-[pdf][bib]
+[[pdf]](https://aclanthology.org/2022.coling-1.64.pdf)[[bib]](https://aclanthology.org/2022.coling-1.64.bib)
 
 **Constrained Multi-Task Learning for Bridging Resolution**  
 Hideo Kobayashi, Yufang Hou, Vincent Ng.  
