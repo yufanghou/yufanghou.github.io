@@ -11,9 +11,11 @@ redirect_from:
 {% include base_path %}
 I'm a research scientist at IBM Research. I'm also an adjunct senior lecturer and co-supervisor at UKP Lab-TU Darmstadt. My primary research interest lies in the area of natural language processing (NLP) where I focus on the tasks of language understanding in the discourse level, such as indirect anaphora resolution (bridging resolution), information status recognition. I'm also interested in computational argumentation and information extraction/summarization from scientific literature. For more details, see my [publications](https://yufanghou.github.io/publications/).
 
-I am a member of the standing review committee of [TACL](http://www.transacl.org/). I also serve as a standing reviewer of [Computational Linguistics (CL) journal](http://cljournal.org/). I have co-organized [the 8th Workshop on Argument Mining](https://2021.argmining.org/), [the Second Workshop on Simple and Efficient Natural Language Processing (SustaiNLP 2021)](https://sites.google.com/view/sustainlp2021/home), [the First Workshop on Argumentation Knowledge Graphs](https://argkg21.argmining.org/), and [the First Quantitative Summarization – Key Point Analysis Shared Task](https://github.com/ibm/KPA_2021_shared_task).
+I am a member of the standing review committee of [TACL](http://www.transacl.org/). I also serve as a standing reviewer of [Computational Linguistics (CL) journal](http://cljournal.org/). I have co-organized [the 8th Workshop on Argument Mining](https://2021.argmining.org/), the Second/Third/Fourth Workshop on Simple and Efficient Natural Language Processing ([SustaiNLP 2021](https://sites.google.com/view/sustainlp2021/home), [SustailNLP2022](https://sites.google.com/view/sustainlp2022/home), [SustailNLP2023](https://sites.google.com/view/sustainlp2023/home)), [the First Workshop on Argumentation Knowledge Graphs](https://argkg21.argmining.org/), and [the First Quantitative Summarization – Key Point Analysis Shared Task](https://github.com/ibm/KPA_2021_shared_task).
 
 ## News
+
+- 05/2023 I will serve as an area chair at IJCNLP-AACL 2023.
 
 - 05/2023 Four long papers accepted at ACL2023 Main Conference. Kudos to my students and collaborators!
 
