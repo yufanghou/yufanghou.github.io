@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 06/2023 I will serve as a senior area chair at EMNLP 2023.
+
 - 05/2023 I will serve as an area chair at IJCNLP-AACL 2023 and INLG 2023.
 
 - 05/2023 Four long papers accepted at ACL2023 Main Conference. Kudos to my students and collaborators!
