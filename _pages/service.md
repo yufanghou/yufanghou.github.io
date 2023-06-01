@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-- Senior Area Chair: EMNLP 2022
+- Senior Area Chair: EMNLP 2022, EMNLP 2023
 - Area Chair: EACL 2021, INLG 2022, INLG 2023, ACL 2023, IJCNLP-AACL 2023
 - Senior PC: AAAI 2022, SIGDIAL 2022 
 - Workshop Organiser: [ArgMining 2021](https://2021.argmining.org/), [ArgKG 2021](https://argkg21.argmining.org/), [SustaiNLP 2021](https://sites.google.com/view/sustainlp2021/home), [SustaiNLP 2022](https://sites.google.com/view/sustainlp2022), [SustaiNLP 2023](https://sites.google.com/view/sustainlp2023)  
