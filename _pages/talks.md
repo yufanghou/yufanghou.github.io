@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-- Bridging Resolution: A Journey Towards Modelling Referential Discourse Entities. The 4th Workshop on Computational Approaches to Discourse, held in conjunction with ACL 2023, 13-14 July, 2023. [slides](https://github.com/yufanghou/yufanghou.github.io/blob/master/files/Talk-Yufang_CODI_2023_v1.pdf)
+- [Bridging Resolution: A Journey Towards Modelling Referential Discourse Entities](https://github.com/yufanghou/yufanghou.github.io/blob/master/files/Talk-Yufang_CODI_2023_v1.pdf). The 4th Workshop on Computational Approaches to Discourse, held in conjunction with ACL 2023, 13-14 July, 2023. 
 - Scientific Research Trend Analysis and Veracity Assessment for Scientific Claims. IBM Neuro-Symbolic AI Workshop, 23 January, 2023.  
 - Building Computational Models to “Understand” (Process) Scholarly Documents. Dagstuhl Seminar 22432 - Towards a Unified Model of Scholarly Argumentation, 26 October, 2022. 
 - Building Computational Models for Discourse Analysis, Knowledge Discovery, and Decision-making. Dublin City University NLP Seminar, 26 September 2022. 
