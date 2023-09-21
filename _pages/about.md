@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 09/2023 I will serve as an senior area chair at NAACL 2024.
+
 - 09/2023 I will serve as an area chair at LREC-COLING 2024.
 
 - 07/2023 I will give an invited talk "[Bridging Resolution: A Journey Towards Modelling Referential Discourse Entities](https://github.com/yufanghou/yufanghou.github.io/blob/master/files/Talk-Yufang_CODI_2023_v1.pdf)" at [CODI 2023](https://sites.google.com/view/codi-2023/invited-speakers). 
