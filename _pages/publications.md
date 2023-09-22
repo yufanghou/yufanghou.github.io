@@ -45,21 +45,26 @@ In Computational Linguistics, 2018
 **PairSpanBERT: An Enhanced Language Model for Bridging Resolution.**  
 Hideo Kobayashi, Yufang Hou, Vincent Ng.    
 In ACL, 2023  
-[pdf][bib]
+[[pdf]](https://aclanthology.org/2023.acl-long.383.pdf)[[bib]](https://aclanthology.org/2023.acl-long.383.bib)
 
 **Are Fairy Tales Fair? Analyzing Gender Bias in Temporal Narrative Event Chains of Children's Fairy Tales.**  
 Paulina Toro Isaza, Guangxuan Xu, Toye Oloko, Yufang Hou, Nanyun Peng, Dakuo Wang.    
 In ACL, 2023  
-[pdf][bib]
+[[pdf]](https://aclanthology.org/2023.acl-long.359.pdf)[[bib]](https://aclanthology.org/2023.acl-long.359.bib)
 
 **Matching Pairs: Attributing Fine-Tuned Models to their Pre-Trained Large Language Models.**  
 Myles Foley, Ambrish Rawat, Taesung Lee, Yufang Hou, Gabriele Picco and Giulio Zizzo.    
 In ACL, 2023  
-[pdf][bib]
+[[pdf]](https://aclanthology.org/2023.acl-long.410.pdf)[[bib]](https://aclanthology.org/2023.acl-long.410.bib)
 
 **A Needle in a Haystack: An Analysis of Finding Qualified Workers on MTurk for Summarization.**  
 Lining Zhang, João Sedoc, Simon Mille, Yufang Hou, Sebastian Gehrmann, Daniel Deutsch, Elizabeth Clark, Yixin Liu, Miruna Clinciu, Saad Mahamood, Khyathi Raghavi Chandu.    
 In ACL, 2023  
+[[pdf]](https://aclanthology.org/2023.acl-long.835.pdf)[[bib]](https://aclanthology.org/2023.acl-long.835.bib)
+
+**LOWRECORP: the Low-Resource NLG Corpus Building Challenge.**  
+Khyathi Raghavi Chandu, David M. Howcroft, Dimitra Gkatzia, Yi-Ling Chung, Yufang Hou, Chris Chinenye Emezue, Pawan Rajpoot, Tosin Adewumi.    
+In INLG, 2023  
 [pdf][bib]
 
 
