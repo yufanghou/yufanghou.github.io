@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-- 2022-2023 Furkan Sahinuc (Intern student from Technical University Darmstadt, Germany) 
+- 2022-2023 Furkan Sahinuc (PhD student from Technical University Darmstadt, Germany) 
 - 2022-2023 Max Glockner (PhD student from Technical University Darmstadt, Germany) 
 - 2022-2023 Aniket Pramanick (PhD student from Technical University Darmstadt, Germany) 
 - 2022-2023 Andreas Waldis (PhD student from Lucerne University of Applied Sciences and Arts, Switzerland)
