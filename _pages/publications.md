@@ -58,7 +58,7 @@ In ACL, 2023
 [[pdf]](https://aclanthology.org/2023.acl-long.410.pdf)[[bib]](https://aclanthology.org/2023.acl-long.410.bib)
 
 **A Needle in a Haystack: An Analysis of Finding Qualified Workers on MTurk for Summarization.**  
-Lining Zhang, João Sedoc, Simon Mille, Yufang Hou, Sebastian Gehrmann, Daniel Deutsch, Elizabeth Clark, Yixin Liu, Miruna Clinciu, Saad Mahamood, Khyathi Raghavi Chandu.    
+Lining Zhang, Simon Mille, Yufang Hou, Sebastian Gehrmann, Daniel Deutsch, Elizabeth Clark, Yixin Liu, Miruna Clinciu, Saad Mahamood, Khyathi Raghavi Chandu, João Sedoc.      
 In ACL, 2023  
 [[pdf]](https://aclanthology.org/2023.acl-long.835.pdf)[[bib]](https://aclanthology.org/2023.acl-long.835.bib)
 
