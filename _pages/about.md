@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 10/2023 Three long papers have been accepted at EMNLP 2023.
+
 - 09/2023 I will serve as a senior area chair at NAACL 2024.
 
 - 09/2023 I will serve as an area chair at LREC-COLING 2024.
