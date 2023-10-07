@@ -42,6 +42,21 @@ In Computational Linguistics, 2018
 
 ### 2023
 
+**A Diachronic Analysis of Paradigm Shifts in NLP Research: When, How, and Why?**  
+Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
+In EMNLP, 2023  
+[pdf][bib]  
+
+**`Don't Get Too Technical with Me': A Discourse Structure-Based Framework for Automatic Science Journalism.**  
+Ronald Cardenas, Bingsheng Yao, Dakuo Wang, Yufang Hou.  
+In EMNLP, 2023  
+[pdf][bib]  
+
+**CiteBench: A Benchmark for Scientific Citation Text Generation.**  
+Martin Funkquist, Ilia Kuznetsov, Yufang Hou, Iryna Gurevych.  
+In EMNLP, 2023  
+[pdf][bib]  
+
 **PairSpanBERT: An Enhanced Language Model for Bridging Resolution.**  
 Hideo Kobayashi, Yufang Hou, Vincent Ng.    
 In ACL, 2023  
