@@ -11,6 +11,33 @@ author_profile: true
 
 {% include base_path %}
 
+## 2022
+
+- 12/2022 I will serve as an area chair at ACL 2023.
+
+- 10/2022 I gave a talk at [Dagstuhl Seminar - Towards a Unified Model of Scholarly Argumentation](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22432).
+
+- 10/2022 One paper accepted at EMNLP 2022!
+
+- 09/2022 I gave an invited talk at Dublin City University NLP Seminar. 
+
+- 09/2022 The paper "[GEMv2: Multilingual NLG Benchmarking in a Single Line of Code](https://arxiv.org/pdf/2206.11249.pdf)" got accepted to EMNLP 2022 demo track! Our [document2slides dataset](https://github.com/IBM/document2slides) is integrated into GEMv2 and can be easily accessed at: [GEM-SciDuet](https://huggingface.co/datasets/GEM/SciDuet).
+
+- 08/2022 One paper accepted at COLING 2022!
+
+- 05/2022 I will give a lecture on anaphora and coreference resolution at LT Bridge Summer School.
+
+- 04/2022 I will serve as a senior area chair at EMNLP 2022.
+
+- 04/2022 One paper accepted at the first workshop on Learning with Natural Language Supervision (co-located with ACL 2022).
+
+- 03/2022 I will serve as a meta-reviewer at SIGDIAL 2022.
+
+- 02/2022 Happy moment of being an advisor: Three papers accepted at ACL 2022 Main Conference!
+
+- 01/2022 I will serve as an area chair for INLG 2022.
+
+
 ## 2021
 
 - 09/2021 One paper accepted at NeurIPS 2021. Kudos to my great colleagues!
