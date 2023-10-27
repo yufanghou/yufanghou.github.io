@@ -15,7 +15,11 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 10/2023 I gave an invited talk "Building Computational Models to Understand Scholarly Documents for Supporting Scientific Knowledge Discovery and Communication" at the IBM AI Research Masterclass workshop in Trinity College Dublin.
+
 - 10/2023 Three long papers have been accepted at EMNLP 2023 Main Conference.
+
+- 10/2023 I will serve as an area chair at EACL 2024.
 
 - 09/2023 I will serve as a senior area chair at NAACL 2024.
 
