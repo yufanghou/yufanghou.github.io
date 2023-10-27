@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 10/2023 I'm looking for a PhD student on AI-assisted Scientific Evidence Synthesis, co-supervised by me at IBM Research and Prof. Anya Belz from Dublin City University. The PhD candidate will be employed by IBM Research Ireland for the duration of the PhD study. Apply using [this link](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=26059&siteid=5016&Areq=664509BR#jobDetails=698045_5016) if you are interested in the position.
+
 - 10/2023 I gave an invited talk "Building Computational Models to Understand Scholarly Documents for Supporting Scientific Knowledge Discovery and Communication" at the IBM AI Research Masterclass workshop in Trinity College Dublin.
 
 - 10/2023 Three long papers have been accepted at EMNLP 2023 Main Conference.
