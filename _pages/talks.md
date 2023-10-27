@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+- Building Computational Models to Understand Scholarly Documents for Supporting Scientific Knowledge Discovery and Communication. IBM AI Research Masterclass Workshop in Trinity College Dublin, 18 October, 2023.  
 - [Bridging Resolution: A Journey Towards Modelling Referential Discourse Entities](https://github.com/yufanghou/yufanghou.github.io/blob/master/files/Talk-Yufang_CODI_2023_v1.pdf). The 4th Workshop on Computational Approaches to Discourse, held in conjunction with ACL 2023, 13-14 July, 2023. 
 - Scientific Research Trend Analysis and Veracity Assessment for Scientific Claims. IBM Neuro-Symbolic AI Workshop, 23 January, 2023.  
 - Building Computational Models to “Understand” (Process) Scholarly Documents. Dagstuhl Seminar 22432 - Towards a Unified Model of Scholarly Argumentation, 26 October, 2022. 
