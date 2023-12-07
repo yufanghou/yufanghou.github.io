@@ -14,6 +14,7 @@ I'm a research scientist at IBM Research. I'm also an adjunct senior lecturer an
 I am a member of the standing review committee of [TACL](http://www.transacl.org/). I also serve as a standing reviewer of [Computational Linguistics (CL) journal](http://cljournal.org/). I have co-organized [the 8th Workshop on Argument Mining](https://2021.argmining.org/), the Second/Third/Fourth Workshop on Simple and Efficient Natural Language Processing ([SustaiNLP 2021](https://sites.google.com/view/sustainlp2021/home), [SustailNLP2022](https://sites.google.com/view/sustainlp2022/home), [SustailNLP2023](https://sites.google.com/view/sustainlp2023/home)), [the First Workshop on Argumentation Knowledge Graphs](https://argkg21.argmining.org/), and [the First Quantitative Summarization – Key Point Analysis Shared Task](https://github.com/ibm/KPA_2021_shared_task).
 
 ## News
+- 12/2013 I attended the panel discussion at [ArgMining 2023](https://argmining-org.github.io/2023/index.html#panel_session).
 
 - 10/2023 I'm looking for a PhD student on AI-assisted Scientific Evidence Synthesis, co-supervised by me at IBM Research and Prof. Anya Belz from Dublin City University. The PhD candidate will be employed by IBM Research Ireland for the duration of the PhD study. Apply using [this link](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=26059&siteid=5016&Areq=664509BR#jobDetails=698045_5016) if you are interested in the position.
 
