@@ -15,7 +15,7 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
-- 01/2024 Our paper on probing the gap between in- and cross-topic generalizationhas been accepted at EACL2024 Findings.
+- 01/2024 Our paper on probing the gap between in- and cross-topic generalization of pre-trained language models has been accepted at EACL2024 Findings.
 
 - 12/2013 I attended the panel discussion at [ArgMining 2023](https://argmining-org.github.io/2023/index.html#panel_session).
 
