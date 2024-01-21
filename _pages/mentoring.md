@@ -10,10 +10,13 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-- 2022-2023 Furkan Sahinuc (PhD student from Technical University Darmstadt, Germany) 
-- 2022-2023 Max Glockner (PhD student from Technical University Darmstadt, Germany) 
-- 2022-2023 Aniket Pramanick (PhD student from Technical University Darmstadt, Germany) 
-- 2022-2023 Andreas Waldis (PhD student from Lucerne University of Applied Sciences and Arts, Switzerland)
+
+- 2022-2024 Furkan Sahinuc (PhD student from Technical University Darmstadt, Germany) 
+- 2022-2024 Max Glockner (PhD student from Technical University Darmstadt, Germany) 
+- 2022-2024 Aniket Pramanick (PhD student from Technical University Darmstadt, Germany) 
+- 2022-2024 Andreas Waldis (PhD student from Lucerne University of Applied Sciences and Arts, Switzerland)
+- 2023-2024 James O'Doherty (Master student from Dublin City University, Ireland)
+- 2023-2024 Cian Nolan (Master student from Dublin City University, Ireland)
 - 2022-2023 Martin Funkquist (Intern student from Technical University Darmstadt, Germany)
 - 2021-2023 Ronald Cardenas (PhD student from University of Edinburgh)
 - 2021-2023 Hideo Kobayashi (PhD student from University of Texas at Dallas)
