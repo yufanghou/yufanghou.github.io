@@ -40,6 +40,12 @@ In Computational Linguistics, 2018
 
 ## Conference/Workshop Papers
 
+### 2024
+**Dive into the Chasm: Probing the Gap between In- and Cross-Topic Generalization**  
+Andreas Waldis, Yufang Hou, Iryna Gurevych.  
+In EACL Findings, 2024  
+[pdf][bib]  
+
 ### 2023
 
 **A Diachronic Analysis of Paradigm Shifts in NLP Research: When, How, and Why?**  
