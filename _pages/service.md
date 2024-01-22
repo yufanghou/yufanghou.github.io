@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+- Visa Chair: EACL 2024  
 - Senior Area Chair: EMNLP 2022, EMNLP 2023, NAACL 2024
 - Area Chair: EACL 2021, INLG 2022, INLG 2023, ACL 2023, IJCNLP-AACL 2023, LREC-COLING 2024, EACL 2024
 - Senior PC: AAAI 2022, SIGDIAL 2022/2023
