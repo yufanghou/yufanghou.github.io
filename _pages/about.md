@@ -15,7 +15,7 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
-- 03/2024 Our paper, "On the Role of Summary Content Units in Text Summarization Evaluation", has been accepted at the NAACL 2024 Main Conference! The paper is based on an idea from the [GEM](https://gem-benchmark.com/) human evaluation work group, and all experiments were conducted by four exceptional student reseachers whom Juri and I co-mentored in a software project from the course "Data Analysis Software Project for Natural Language" that I taught at TU Darmstadt in 2022/2023. Kudos to all co-authors!
+- 03/2024 Our paper, "On the Role of Summary Content Units in Text Summarization Evaluation", has been accepted at the NAACL 2024 Main Conference! The paper is based on an idea from the [GEM](https://gem-benchmark.com/) human evaluation work group, and all experiments were conducted by the four exceptional student reseachers whom Juri and I co-mentored in a software project from the course "Data Analysis Software Project for Natural Language" that I taught at TU Darmstadt in 2022/2023. Kudos to all co-authors!
  
 - 02/2024 I will serve as an area chair at ACL 2024.
 
