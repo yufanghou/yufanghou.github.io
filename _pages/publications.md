@@ -41,6 +41,13 @@ In Computational Linguistics, 2018
 ## Conference/Workshop Papers
 
 ### 2024
+
+**On the Role of Summary Content Units in Text Summarization Evaluation**  
+Marcel Nawrath, Agnieszka Wiktoria Nowak, Tristan Ratz, Danilo Constantin Walenta, Juri Opitz, Leonardo F. R. Ribeiro, João Sedoc, Daniel Deutsch, Simon Mille, Yixin Liu, Sebastian Gehrmann, Lining Zhang, Saad Mahamood, Miruna Clinciu, Khyathi Chandu, Yufang Hou.  
+In NAACL, 2024  
+[pdf][bib] 
+
+
 **Dive into the Chasm: Probing the Gap between In- and Cross-Topic Generalization**  
 Andreas Waldis, Yufang Hou, Iryna Gurevych.  
 In EACL Findings, 2024  
