@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 04/2024 I will give an invited talk at the "Anaphora and Predictability" workshop at Pompeu Fabra University.
+
 - 03/2024 I will serve as a senior area chair at EMNLP 2024.
 
 - 03/2024 Our paper, "On the Role of Summary Content Units in Text Summarization Evaluation", has been accepted at the NAACL 2024 Main Conference! The paper is based on an idea from the [GEM](https://gem-benchmark.com/) human evaluation work group, and all experiments were conducted by the four exceptional student researchers whom Juri and I co-mentored in a software project from the course "Data Analysis Software Project for Natural Language" that I taught at TU Darmstadt in 2022/2023. Kudos to all co-authors!
