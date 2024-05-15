@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 05/2024 We have released a massive meta-evaluation benchmark called [Holmes](https://holmes-benchmark.github.io/home/) to evaluate internal embeddings for more than 50 LLMs across 200 datasets, covering a wide range of linguistic competences. 
+
 - 04/2024 I will give an invited talk at the "Anaphora and Predictability" workshop at Pompeu Fabra University.
 
 - 03/2024 I will serve as a senior area chair at EMNLP 2024.
