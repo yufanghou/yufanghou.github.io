@@ -42,6 +42,21 @@ In Computational Linguistics, 2018
 
 ### 2024
 
+**Dismantling the Misleading Narratives: Reconstructing the Fallacies in Misrepresented Science.**  
+Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych.    
+In ACL, 2024  
+[pdf][bib]
+
+**Systematic Task Exploration with LLMs: A Study in Citation Text Generation.**  
+Furkan Şahinuç, Ilia Kuznetsov, Yufang Hou, Iryna Gurevych.     
+In ACL, 2024  
+[pdf][bib]
+
+**How to Handle Different Types of Out-of-Distribution Scenarios in Computational Argumentation? A Comprehensive and Fine-Grained Field Study.**  
+Andreas Waldis, Yufang Hou, Iryna Gurevych.       
+In ACL, 2024  
+[pdf][bib]
+
 **On the Role of Summary Content Units in Text Summarization Evaluation**  
 Marcel Nawrath, Agnieszka Wiktoria Nowak, Tristan Ratz, Danilo Constantin Walenta, Juri Opitz, Leonardo F. R. Ribeiro, João Sedoc, Daniel Deutsch, Simon Mille, Yixin Liu, Sebastian Gehrmann, Lining Zhang, Saad Mahamood, Miruna Clinciu, Khyathi Chandu, Yufang Hou.  
 In NAACL, 2024  
@@ -51,7 +66,7 @@ In NAACL, 2024
 **Dive into the Chasm: Probing the Gap between In- and Cross-Topic Generalization**  
 Andreas Waldis, Yufang Hou, Iryna Gurevych.  
 In EACL Findings, 2024  
-[pdf][bib]  
+[[pdf]](https://aclanthology.org/2024.findings-eacl.146.pdf)[[bib]](https://aclanthology.org/2024.findings-eacl.146.bib)  
 
 ### 2023
 
