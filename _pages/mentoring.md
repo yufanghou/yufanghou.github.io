@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 PhD students (Co-)supervised
-- 2024-2028 Massimiliano Pronesti (PhD student from the pre-doc program between IBM Reseasrch Ireland and Dublin City University) 
+- 2024-2028 Massimiliano Pronesti (PhD student from the pre-doc program between IBM Reseasrch Ireland and Dublin City University, Ireland) 
 - 2022-2024 Furkan Sahinuc (PhD student from Technical University Darmstadt, Germany) 
 - 2022-2024 Max Glockner (PhD student from Technical University Darmstadt, Germany) 
 - 2022-2024 Aniket Pramanick (PhD student from Technical University Darmstadt, Germany) 
