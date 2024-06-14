@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+- Conference Panel: Argumentation Mining Research, LLMs and Beyond. The 1st International Conference on Robust Argumentation Machines, Bielefeld, June 6, 2024. 
+- Empowering Scientific Discovery and Communication: Leveraging Computational Models to Decode Scholarly Documents. Invited talk at the 1st International Conference on Robust Argumentation Machines, Bielefeld, June 6, 2024.
 - Bridging Resolution: Advancements and Challenges in the Era of Large Language Models. Invited talk at the Workshop on Anaphora and Predictability, Pompeu Fabra University, 29 April, 2024.
 - The Past and Future of Argument Mining. Invited panel discussion at the 10th workshop on Argument Mining (co-located with EMNLP 2023), 7 December, 2023.
 - Building Computational Models to Understand Scholarly Documents for Supporting Scientific Knowledge Discovery and Communication. Invited talk at the Computational Linguistics Colloquium, Heidelberg University, 14 November, 2023.
