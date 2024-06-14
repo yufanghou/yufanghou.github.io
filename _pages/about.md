@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 06/2024 I gave an invited talk and participated a panel discussion at the 1st International Conference on Robust Argumentation Machines ([RATIO24](https://ratio-conference.net/)).
+
 - 05/2024 Three long papers have been accepted at ACL 2024 Main Conference.
 
 - 05/2024 We have released a massive meta-evaluation benchmark called [Holmes](https://holmes-benchmark.github.io/home/) to evaluate internal embeddings for more than 50 LLMs across 200 datasets, covering a wide range of linguistic competences. 
