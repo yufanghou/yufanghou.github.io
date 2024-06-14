@@ -11,15 +11,23 @@ author_profile: true
 
 {% include base_path %}
 
+PhD students (Co-)supervised
+- 2024-2028 Massimiliano Pronesti (PhD student from the pre-doc program between IBM Reseasrch Ireland and Dublin City University) 
 - 2022-2024 Furkan Sahinuc (PhD student from Technical University Darmstadt, Germany) 
 - 2022-2024 Max Glockner (PhD student from Technical University Darmstadt, Germany) 
 - 2022-2024 Aniket Pramanick (PhD student from Technical University Darmstadt, Germany) 
 - 2022-2024 Andreas Waldis (PhD student from Lucerne University of Applied Sciences and Arts, Switzerland)
+- 2021-2023 Hideo Kobayashi (PhD student from University of Texas at Dallas)
+
+Master/bachelor students (Co-)supervised  
 - 2023-2024 James O'Doherty (Master student from Dublin City University, Ireland)
 - 2023-2024 Cian Nolan (Master student from Dublin City University, Ireland)
+- 2023 Viet Pham (Bachelor student from Stuttgart University, Germany)
+
+Intern students (Co-)supervised  
+- 2023 Myles Foley (PhD student from Imperial College London, UK)
 - 2022-2023 Martin Funkquist (Intern student from Technical University Darmstadt, Germany)
 - 2021-2023 Ronald Cardenas (PhD student from University of Edinburgh)
-- 2021-2023 Hideo Kobayashi (PhD student from University of Texas at Dallas)
 - 2021 Zhenjie Zhao (Research associate from Hong Kong University of Science and Technology)
 - 2021 Zhixuan (Kyrie) Zhou (PhD student from University of Illinois at Urbana-Champaign) 
 - 2020 Edward Sun (Undergraduate student from University of Michigan, USA) 
