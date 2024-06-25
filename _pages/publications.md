@@ -57,6 +57,11 @@ Andreas Waldis, Yufang Hou, Iryna Gurevych.
 In ACL, 2024  
 [pdf][bib]
 
+**A Course Shared Task on Evaluating LLM Output for Clinical Questions.**  
+Yufang Hou, Thy Thy Tran, Doan Nam Long Vu, Yiwen Cao, Kai Li, Lukas Rohde, Iryna Gurevych.       
+In Proceedings of the 6th Workshop on Teaching NLP at ACL 2024    
+[pdf][bib]
+
 **On the Role of Summary Content Units in Text Summarization Evaluation**  
 Marcel Nawrath, Agnieszka Wiktoria Nowak, Tristan Ratz, Danilo Constantin Walenta, Juri Opitz, Leonardo F. R. Ribeiro, João Sedoc, Daniel Deutsch, Simon Mille, Yixin Liu, Sebastian Gehrmann, Lining Zhang, Saad Mahamood, Miruna Clinciu, Khyathi Chandu, Yufang Hou.  
 In NAACL, 2024  
