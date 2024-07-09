@@ -62,6 +62,12 @@ Yufang Hou, Thy Thy Tran, Doan Nam Long Vu, Yiwen Cao, Kai Li, Lukas Rohde, Iryn
 In Proceedings of the 6th Workshop on Teaching NLP at ACL 2024    
 [pdf][bib]
 
+**Beyond Abstracts: A New Dataset, Prompt Design Strategy and Method for Biomedical Synthesis Generation.**  
+James O'Doherty, Cian Nolan, Yufang Hou, Anya Belz.       
+In ACL Student Research Workshop, 2024    
+[pdf][bib]
+
+
 **On the Role of Summary Content Units in Text Summarization Evaluation**  
 Marcel Nawrath, Agnieszka Wiktoria Nowak, Tristan Ratz, Danilo Constantin Walenta, Juri Opitz, Leonardo F. R. Ribeiro, João Sedoc, Daniel Deutsch, Simon Mille, Yixin Liu, Sebastian Gehrmann, Lining Zhang, Saad Mahamood, Miruna Clinciu, Khyathi Chandu, Yufang Hou.  
 In NAACL, 2024  
