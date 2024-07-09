@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 07/2024 A paper accepted at at the ACL 2024 Student Research Workshop. The paper is based on a master thesis project that I co-supervised with Prof. Anya Belz at Dublin City University for their first NLP master program on 2023/2024. 
+
 - 06/2024 I will serve as an area chair at COLING 2025.
 
 - 06/2024 A paper accepted at ACL 2024 workshop on teaching NLP: I wrote a short paper describing a course shared task that we organized at the Foundations of Language Technology (FoLT) course in 2023/2024 at the Technical University of Darmstadt. The shared task focuses on evaluating the output of LLMs in generating harmful answers to health-related clinical questions. 
