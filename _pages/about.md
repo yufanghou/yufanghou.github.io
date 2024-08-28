@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 08/2024 I gave a keynote talk "Reconstructing Fallacies in Misrepresented Science and Argument Mining in the Wild" at [the 11th Workshop on Argument Mining (ArgMining 2024)](https://argmining-org.github.io/2024/).
+
 - 07/2024 A paper accepted at at the ACL 2024 Student Research Workshop. The paper is based on a master thesis project that I co-supervised with Prof. Anya Belz at Dublin City University for their first NLP master program on 2023/2024. 
 
 - 06/2024 I will serve as an area chair at COLING 2025.
