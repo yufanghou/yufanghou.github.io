@@ -15,6 +15,10 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 09/2024 I will give an invited talk "[WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia](https://arxiv.org/abs/2406.13805)" at the Monthly Wikimedia Research Showcase on September 18th. The talk will be streamed live on YouTube and also archived for later viewing on the [Wikimedia Foundation's YouTube channel](https://www.youtube.com/@TheWikimediaFoundation).
+
+- 09/2024 I will give an invited talk "Fact-checking Misrepresented Science and Evaluating LLMs on Real-world Knowledge Conflicts" at [the Second IBM AI Research Master-class Workshop](https://www.eventbrite.ie/e/ibm-trinity-college-dublin-research-ai-workshop-tickets-1003562681997) in Trinity College Dublin on September 6th.
+
 - 08/2024 I gave a keynote talk "Reconstructing Fallacies in Misrepresented Science and Argument Mining in the Wild" at [the 11th Workshop on Argument Mining (ArgMining 2024)](https://argmining-org.github.io/2024/).
 
 - 07/2024 A paper accepted at at the ACL 2024 Student Research Workshop. The paper is based on a master thesis project that I co-supervised with Prof. Anya Belz at Dublin City University for their first NLP master program on 2023/2024. 
