@@ -19,6 +19,12 @@ Yufang Hou. PhD thesis, Heidelberg University, 2016
 
 ## Journal Articles
 
+**Holmes: Benchmark the Linguistic Competence of Language Models**  
+Andreas Waldis, Yotam Perlitz, Leshem Choshen, Yufang Hou, Iryna Gurevych.    
+In TACL, 2024  
+[[pdf]](https://arxiv.org/abs/2404.18923)[bib]
+
+
 **Privacy-aware Supervised Classification: An Informative Subspace Based Multi-objective Approach**  
 Chandan Biswas, Debasis Ganguly, Partha Sarathi Mukherjee, Ujjwal Bhattacharya, Yufang Hou.  
 In Pattern Recognition, 2022    
@@ -31,7 +37,6 @@ In Nature, 2021
 [[pdf]](https://www.nature.com/articles/s41586-021-03215-w) [[bib]](https://yufanghou.github.io/files/projectDebaterNature.bib)
 
     
-
 **Unrestricted Bridging Resolution**  
 Yufang Hou, Katja Markert, Michael Strube.  
 In Computational Linguistics, 2018  
@@ -48,14 +53,20 @@ Yufang Hou, Alessandra Pascale, Javier Carnerero-Cano, Tigran Tchrakian, Radu Ma
 In ArXiv, 2024  
 [[pdf]](https://arxiv.org/abs/2406.13805) 
 
-**Holmes: Benchmark the Linguistic Competence of Language Models**  
-Andreas Waldis, Yotam Perlitz, Leshem Choshen, Yufang Hou, Iryna Gurevych.    
-In ArXiv, 2024  
-[[pdf]](https://arxiv.org/abs/2404.18923) 
 
 ## Conference/Workshop Papers
 
 ### 2024
+
+**Efficient Performance Tracking: Leveraging Large Language Models for Automated Construction of Scientific Leaderboards**  
+Furkan Sahinuç, Thy Thy Tran, Yulia Grishina, Yufang Hou, Bei Chen, Iryna Gurevych.   
+In EMNLP, 2024  
+[pdf][bib]
+
+**SciDoc2Diagrammer-MAF: Towards Generation of Scientific Diagrams from Documents guided by Multi-Aspect Feedback Refinement**  
+Ishani Mondal, Zongxia Li, Yufang Hou, Anandhavelu Natarajan, Aparna Garimella, Jordan Lee Boyd-Graber.  
+In EMNLP Findings, 2024  
+[pdf][bib]
 
 **MISSCI: Reconstructing Fallacies in Misrepresented Science**  
 Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych.    
