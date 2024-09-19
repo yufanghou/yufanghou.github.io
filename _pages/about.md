@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 09/2024 Our paper about[Holmes](https://holmes-benchmark.github.io/home/) has been accepted at TACL 2024 and will be presented at EMNLP 2024. 
+
 - 09/2024 I will give an invited talk "[WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia](https://arxiv.org/abs/2406.13805)" at the Monthly Wikimedia Research Showcase on September 18th. The talk will be streamed live on YouTube and also archived for later viewing on the [Wikimedia Foundation's YouTube channel](https://www.youtube.com/@TheWikimediaFoundation).
 
 - 09/2024 I will give an invited talk "Fact-checking Misrepresented Science and Evaluating LLMs on Real-world Knowledge Conflicts" at [the Second IBM AI Research Master-class Workshop](https://www.eventbrite.ie/e/ibm-trinity-college-dublin-research-ai-workshop-tickets-1003562681997) in Trinity College Dublin on September 6th.
