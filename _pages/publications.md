@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+Note: * indicates the papers that I closely supervised for the first student author(s).
+
 ## PhD Thesis
 
 **Unrestricted Bridging Resolution**  
@@ -19,7 +21,7 @@ Yufang Hou. PhD thesis, Heidelberg University, 2016
 
 ## Journal Articles
 
-**Holmes: Benchmark the Linguistic Competence of Language Models**  
+***Holmes: Benchmark the Linguistic Competence of Language Models**  
 Andreas Waldis, Yotam Perlitz, Leshem Choshen, Yufang Hou, Iryna Gurevych.    
 In TACL, 2024  
 [[pdf]](https://arxiv.org/abs/2404.18923)[bib]
@@ -43,7 +45,7 @@ In Computational Linguistics, 2018
 [[pdf]](https://aclanthology.org/J18-2002.pdf) [[bib]](https://aclanthology.org/J18-2002.bib)
 
 ## Preprints 
-**Grounding Fallacies Misrepresenting Scientific Publications in Evidence**  
+***Grounding Fallacies Misrepresenting Scientific Publications in Evidence**  
 Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych.    
 In ArXiv, 2024  
 [[pdf]](https://www.arxiv.org/abs/2408.12812)  
@@ -58,27 +60,27 @@ In ArXiv, 2024
 
 ### 2024
 
-**Efficient Performance Tracking: Leveraging Large Language Models for Automated Construction of Scientific Leaderboards**  
+***Efficient Performance Tracking: Leveraging Large Language Models for Automated Construction of Scientific Leaderboards**  
 Furkan Sahinuç, Thy Thy Tran, Yulia Grishina, Yufang Hou, Bei Chen, Iryna Gurevych.   
 In EMNLP, 2024  
 [pdf][bib]
 
-**SciDoc2Diagrammer-MAF: Towards Generation of Scientific Diagrams from Documents guided by Multi-Aspect Feedback Refinement**  
+***SciDoc2Diagrammer-MAF: Towards Generation of Scientific Diagrams from Documents guided by Multi-Aspect Feedback Refinement**  
 Ishani Mondal, Zongxia Li, Yufang Hou, Anandhavelu Natarajan, Aparna Garimella, Jordan Lee Boyd-Graber.  
 In EMNLP Findings, 2024  
 [pdf][bib]
 
-**MISSCI: Reconstructing Fallacies in Misrepresented Science**  
+***MISSCI: Reconstructing Fallacies in Misrepresented Science**  
 Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych.    
 In ACL, 2024  
 [[pdf]](https://aclanthology.org/2024.acl-long.240.pdf)[[bib]](https://aclanthology.org/2024.acl-long.240.bib)  
 
-**Systematic Task Exploration with LLMs: A Study in Citation Text Generation**  
+***Systematic Task Exploration with LLMs: A Study in Citation Text Generation**  
 Furkan Şahinuç, Ilia Kuznetsov, Yufang Hou, Iryna Gurevych.     
 In ACL, 2024  
 [[pdf]](https://aclanthology.org/2024.acl-long.265.pdf)[[bib]](https://aclanthology.org/2024.acl-long.265.bib)  
 
-**How to Handle Different Types of Out-of-Distribution Scenarios in Computational Argumentation? A Comprehensive and Fine-Grained Field Study**  
+***How to Handle Different Types of Out-of-Distribution Scenarios in Computational Argumentation? A Comprehensive and Fine-Grained Field Study**  
 Andreas Waldis, Yufang Hou, Iryna Gurevych.       
 In ACL, 2024  
 [[pdf]](https://aclanthology.org/2024.acl-long.795.pdf)[[bib]](https://aclanthology.org/2024.acl-long.795.bib)  
@@ -88,51 +90,51 @@ Yufang Hou, Thy Thy Tran, Doan Nam Long Vu, Yiwen Cao, Kai Li, Lukas Rohde, Iryn
 In Proceedings of the 6th Workshop on Teaching NLP at ACL 2024    
 [[pdf]](https://aclanthology.org/2024.teachingnlp-1.11.pdf)[[bib]](https://aclanthology.org/2024.teachingnlp-1.11.bib)  
 
-**Beyond Abstracts: A New Dataset, Prompt Design Strategy and Method for Biomedical Synthesis Generation**  
+***Beyond Abstracts: A New Dataset, Prompt Design Strategy and Method for Biomedical Synthesis Generation**  
 James O'Doherty, Cian Nolan, Yufang Hou, Anya Belz.       
 In ACL Student Research Workshop, 2024    
 [[pdf]](https://aclanthology.org/2024.acl-srw.42.pdf)[[bib]](https://aclanthology.org/2024.acl-srw.42.bib)  
 
 
-**On the Role of Summary Content Units in Text Summarization Evaluation**  
+***On the Role of Summary Content Units in Text Summarization Evaluation**  
 Marcel Nawrath, Agnieszka Wiktoria Nowak, Tristan Ratz, Danilo Constantin Walenta, Juri Opitz, Leonardo F. R. Ribeiro, João Sedoc, Daniel Deutsch, Simon Mille, Yixin Liu, Sebastian Gehrmann, Lining Zhang, Saad Mahamood, Miruna Clinciu, Khyathi Chandu, Yufang Hou.  
 In NAACL, 2024  
 [[pdf]](https://aclanthology.org/2024.naacl-short.25.pdf)[[bib]](https://aclanthology.org/2024.naacl-short.25.bib)   
 
 
-**Dive into the Chasm: Probing the Gap between In- and Cross-Topic Generalization**  
+***Dive into the Chasm: Probing the Gap between In- and Cross-Topic Generalization**  
 Andreas Waldis, Yufang Hou, Iryna Gurevych.  
 In EACL Findings, 2024  
 [[pdf]](https://aclanthology.org/2024.findings-eacl.146.pdf)[[bib]](https://aclanthology.org/2024.findings-eacl.146.bib)  
 
 ### 2023
 
-**A Diachronic Analysis of Paradigm Shifts in NLP Research: When, How, and Why?**  
+***A Diachronic Analysis of Paradigm Shifts in NLP Research: When, How, and Why?**  
 Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
 In EMNLP, 2023  
 [[pdf]](https://aclanthology.org/2023.emnlp-main.142.pdf)[[bib]](https://aclanthology.org/2023.emnlp-main.142.bib)  
 
-**`Don't Get Too Technical with Me': A Discourse Structure-Based Framework for Automatic Science Journalism**  
+***`Don't Get Too Technical with Me': A Discourse Structure-Based Framework for Automatic Science Journalism**  
 Ronald Cardenas, Bingsheng Yao, Dakuo Wang, Yufang Hou.  
 In EMNLP, 2023  
 [[pdf]](https://aclanthology.org/2023.emnlp-main.76.pdf)[[bib]](https://aclanthology.org/2023.emnlp-main.76.bib) 
 
-**CiteBench: A Benchmark for Scientific Citation Text Generation**  
+***CiteBench: A Benchmark for Scientific Citation Text Generation**  
 Martin Funkquist, Ilia Kuznetsov, Yufang Hou, Iryna Gurevych.  
 In EMNLP, 2023  
 [[pdf]](https://aclanthology.org/2023.emnlp-main.455.pdf)[[bib]](https://aclanthology.org/2023.emnlp-main.455.bib) 
 
-**PairSpanBERT: An Enhanced Language Model for Bridging Resolution**  
+***PairSpanBERT: An Enhanced Language Model for Bridging Resolution**  
 Hideo Kobayashi, Yufang Hou, Vincent Ng.    
 In ACL, 2023  
 [[pdf]](https://aclanthology.org/2023.acl-long.383.pdf)[[bib]](https://aclanthology.org/2023.acl-long.383.bib)
 
-**Are Fairy Tales Fair? Analyzing Gender Bias in Temporal Narrative Event Chains of Children's Fairy Tales**  
+***Are Fairy Tales Fair? Analyzing Gender Bias in Temporal Narrative Event Chains of Children's Fairy Tales**  
 Paulina Toro Isaza, Guangxuan Xu, Toye Oloko, Yufang Hou, Nanyun Peng, Dakuo Wang.    
 In ACL, 2023  
 [[pdf]](https://aclanthology.org/2023.acl-long.359.pdf)[[bib]](https://aclanthology.org/2023.acl-long.359.bib)
 
-**Matching Pairs: Attributing Fine-Tuned Models to their Pre-Trained Large Language Models**  
+***Matching Pairs: Attributing Fine-Tuned Models to their Pre-Trained Large Language Models**  
 Myles Foley, Ambrish Rawat, Taesung Lee, Yufang Hou, Gabriele Picco and Giulio Zizzo.    
 In ACL, 2023  
 [[pdf]](https://aclanthology.org/2023.acl-long.410.pdf)[[bib]](https://aclanthology.org/2023.acl-long.410.bib)
@@ -150,7 +152,7 @@ In INLG, 2023
 
 ### 2022
 
-**Missing Counter--Evidence Render NLP Fact-Checking Unrealistic for Misinformation**  
+***Missing Counter--Evidence Render NLP Fact-Checking Unrealistic for Misinformation**  
 Max Glockner, Yufang Hou, Iryna Gurevych.    
 In EMNLP, 2022  
 [[pdf]](https://aclanthology.org/2022.emnlp-main.397.pdf)[[bib]](https://aclanthology.org/2022.emnlp-main.397.bib)
@@ -160,17 +162,17 @@ Sebastian Gehrmann, Abhik Bhattacharjee, Abinaya Mahendiran, Alex Wang, Alexandr
 In EMNLP Demo Track, 2022  
 [[pdf]](https://aclanthology.org/2022.emnlp-demos.27.pdf)[[bib]](https://aclanthology.org/2022.emnlp-demos.27.bib)
 
-**End-to-End Neural Bridging Resolution**  
+***End-to-End Neural Bridging Resolution**  
 Hideo Kobayashi, Yufang Hou, Vincent Ng.  
 In COLING, 2022  
 [[pdf]](https://aclanthology.org/2022.coling-1.64.pdf)[[bib]](https://aclanthology.org/2022.coling-1.64.bib)
 
-**Constrained Multi-Task Learning for Bridging Resolution**  
+***Constrained Multi-Task Learning for Bridging Resolution**  
 Hideo Kobayashi, Yufang Hou, Vincent Ng.  
 In ACL, 2022  
 [[pdf]](https://aclanthology.org/2022.acl-long.56.pdf) [[bib]](https://aclanthology.org/2022.acl-long.56.bib)
 
-**Educational Question Generation of Children Storybooks via QuestionType Distribution Learning and Event-centric Summarization**  
+***Educational Question Generation of Children Storybooks via QuestionType Distribution Learning and Event-centric Summarization**  
 Zhenjie Zhao, Yufang Hou, Dakuo Wang, Mo Yu, Chengzhong Liu, Xiaojuan Ma.  
 In ACL, 2022  
 [[pdf]](https://aclanthology.org/2022.acl-long.348.pdf) [[bib]](https://aclanthology.org/2022.acl-long.348.bib)
@@ -180,7 +182,7 @@ Ying Xu, Dakuo Wang, Mo Yu, Daniel Ritchie, Bingsheng Yao, Tongshuang Wu, Zheng 
 In ACL, 2022   
 [[pdf]](https://aclanthology.org/2022.acl-long.34.pdf) [[bib]](https://aclanthology.org/2022.acl-long.34.bib)
 
-**Finding Sub-task Structure with Natural Language Instruction**  
+***Finding Sub-task Structure with Natural Language Instruction**  
 Ryokan Ri, Yufang Hou, Radu Marinescu, Akihiro Kishimoto.  
 In the First Workshop on Learning with Natural Language Supervision at ACL 2022   
 [[pdf]](https://aclanthology.org/2022.lnls-1.1.pdf) [[bib]](https://aclanthology.org/2022.lnls-1.1.bib)
@@ -201,22 +203,22 @@ Xuye Liu, Dakuo Wang, April Wang, Yufang Hou, Lingfei Wu.
 In EMNLP Findings, 2021  
 [[pdf]](https://aclanthology.org/2021.findings-emnlp.381.pdf) [[bib]](https://aclanthology.org/2021.findings-emnlp.381.bib)
 
-**Employing Argumentation Knowledge Graphs for Neural Argument Generation**  
+***Employing Argumentation Knowledge Graphs for Neural Argument Generation**  
 Khalid Al Khatib, Lukas Trautner, Henning Wachsmuth, Yufang Hou, Benno Stein.  
 In ACL, 2021  
 [[pdf]](https://aclanthology.org/2021.acl-long.366.pdf) [[bib]](https://aclanthology.org/2021.acl-long.366.bib)
 
-**End-to-End Construction of NLP Knowledge Graph**  
+***End-to-End Construction of NLP Knowledge Graph**  
 Ishani Mondal, Yufang Hou, Charles Jochim.  
 In ACL Findings, 2021  
 [[pdf]](https://aclanthology.org/2021.findings-acl.165.pdf) [[bib]](https://aclanthology.org/2021.findings-acl.165.bib)
 
-**D2S: Automated Slide Generation With Query-based Text Summarization From Documents**  
+***D2S: Automated Slide Generation With Query-based Text Summarization From Documents**  
 Edward Sun, Yufang Hou, Dakuo Wang, Yunfeng Zhang and Nancy Xin Ru Wang.  
 In NAACL, 2021  
 [[pdf]](https://aclanthology.org/2021.naacl-main.111.pdf) [[bib]](https://aclanthology.org/2021.naacl-main.111.bib)
 
-**Probing for Bridging Inference in Transformer Language Models**  
+***Probing for Bridging Inference in Transformer Language Models**  
 Onkar Pandit, Yufang Hou.  
 In NAACL, 2021  
 [[pdf]](https://aclanthology.org/2021.naacl-main.327.pdf) [[bib]](https://aclanthology.org/2021.naacl-main.327.bib)
@@ -259,7 +261,7 @@ Yufang Hou.
 In COLING, 2020  
 [[pdf]](https://aclanthology.org/2020.coling-main.537.pdf) [[bib]](https://aclanthology.org/2020.coling-main.537.bib)
 
-**End-to-End Argumentation Knowledge Graph Construction**  
+***End-to-End Argumentation Knowledge Graph Construction**  
 Khalid Al-Khatib, Yufang Hou, Henning Wachsmuth, Charles Jochim, Francesca Bonin, Benno Stein.  
 In AAAI, 2020  
 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6231/6087) [[bib]](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=6231&publicationId=4597)
@@ -343,7 +345,7 @@ Yufang Hou, Charles Jochim.
 In the 4th Workshop on Argument Mining at EMNLP 2017  
 [[pdf]](https://aclanthology.org/W17-5107.pdf) [[bib]](https://aclanthology.org/W17-5107.bib)
 
-**The Cool Cucumber System at the 2017 TAC KBP BeSt Evaluation**  
+***The Cool Cucumber System at the 2017 TAC KBP BeSt Evaluation**  
 Thanh-Son Nguyen, Yufang Hou, Charles Jochim, Elizabeth M. Daly, Lea A Deleris.  
 In TAC KBP, 2017  
 [[pdf]](https://tac.nist.gov/publications/2017/participant.papers/TAC2017.coolcucumber.proceedings.pdf) [bib]
