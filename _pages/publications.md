@@ -50,20 +50,20 @@ Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych.
 In ArXiv, 2024  
 [[pdf]](https://www.arxiv.org/abs/2408.12812)  
 
-**WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia**  
-Yufang Hou, Alessandra Pascale, Javier Carnerero-Cano, Tigran Tchrakian, Radu Marinescu, Elizabeth Daly, Inkit Padhi, Prasanna Sattigeri.    
-In ArXiv, 2024  
-[[pdf]](https://arxiv.org/abs/2406.13805) 
-
-
 ## Conference/Workshop Papers
 
 ### 2024
 
+**WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia**  
+Yufang Hou, Alessandra Pascale, Javier Carnerero-Cano, Tigran Tchrakian, Radu Marinescu, Elizabeth Daly, Inkit Padhi, Prasanna Sattigeri.    
+In NeurIPS D&B Track, 2024  
+[[pdf]](https://arxiv.org/abs/2406.13805)[bib]
+
+
 ***Efficient Performance Tracking: Leveraging Large Language Models for Automated Construction of Scientific Leaderboards**  
 Furkan Sahinuç, Thy Thy Tran, Yulia Grishina, Yufang Hou, Bei Chen, Iryna Gurevych.   
 In EMNLP, 2024  
-[pdf][bib]
+[[pdf]](https://arxiv.org/abs/2409.12656)[bib]
 
 ***SciDoc2Diagrammer-MAF: Towards Generation of Scientific Diagrams from Documents guided by Multi-Aspect Feedback Refinement**  
 Ishani Mondal, Zongxia Li, Yufang Hou, Anandhavelu Natarajan, Aparna Garimella, Jordan Lee Boyd-Graber.  
