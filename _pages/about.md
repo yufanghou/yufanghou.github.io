@@ -15,6 +15,8 @@ I am a member of the standing review committee of [TACL](http://www.transacl.org
 
 ## News
 
+- 09/2024: Our paper "[WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia](https://arxiv.org/abs/2406.13805)" has been accepted at the NeurIPS 2024 dataset and benchmark track.
+
 - 09/2024: Two papers have been accepted at EMNLP 2024 Main Conference and Findings.
 
 - 09/2024 I will serve as a senior area chair at NAACL 2025.
