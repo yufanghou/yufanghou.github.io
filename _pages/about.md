@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a founding professor for Natural Language Processing at [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/). I'm also a research scientist at [IBM Research Europe - Ireland](https://research.ibm.com/labs/ireland). Previously, I was an adjunct senior lecturer, visiting professor and co-supervisor at [UKP Lab-TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp). I have a strong background in discourse processing, computational argumentation, fact-checking, scholarly document processing, and information extraction.
+I'm a incomping founding professor for Natural Language Processing at [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/). I'm also a research scientist at [IBM Research Europe - Ireland](https://research.ibm.com/labs/ireland). Previously, I was an adjunct senior lecturer, visiting professor and co-supervisor at [UKP Lab-TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp). I have a strong background in discourse processing, computational argumentation, fact-checking, scholarly document processing, and information extraction.
 
 At IT:U, I lead the NLP group with a strong focus on large language model (LLM) governance, cross-document NLP, knowledge and reasoning, and human-centred NLP applications for education, social sciences, humanities, and scientific discovery. The broad research goal of the IT:U NLP Lab is to develop robust and trustworthy NLP technologies to improve human-AI and human-human interactions, and to sovle real-world problems.
 
-I'm currently seeking 2 postdoctoral researchers and 3 PhD students to join the IT:U NLP group! If you're passionate about advancing research in any of the following areas, I'd love to hear from you: 1) Governance of Large Language Models (LLMs); 2) Computational Argumentation and Fact-checking; 3) NLP for Science; 4) Knowledge and Reasoning. For more details on the positions and how to apply, please visit [the IT:U application page](https://it-u.at/en/research/research-groups/natural-language-processing/). Feel free to reach out to me via email (yufang.hou@it-u.at) if you're interested in joining our team or have any questions.
 
 {% include base_path %}
 <!--I'm a research scientist at IBM Research. I'm also an adjunct senior lecturer, visiting professor and co-supervisor at UKP Lab-TU Darmstadt. My primary research interest lies in the area of natural language processing (NLP), with a particular focus on language understanding in the discourse level, computational argumentation, and scholarly document processing. For more details, see my [publications](https://yufanghou.github.io/publications/).
@@ -23,6 +22,8 @@ sites.google.com/view/sustainlp2021/home), [SustailNLP2022](https://sites.google
 Workshop on Argumentation Knowledge Graphs](https://argkg21.argmining.org/), and [the First Quantitative Summarization – Key Point Analysis Shared Task](https://github.com/ibm/KPA_2021_shared_task). -->
 
 ## News
+
+- 10/2024 Starting from November, I will be joining [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/) as a founding professor for NLP. I'm currently seeking 2 postdoctoral researchers and 3 PhD students to join the IT:U NLP group! If you're passionate about advancing research in any of the following areas, I'd love to hear from you: 1) Governance of Large Language Models (LLMs); 2) Computational Argumentation and Fact-checking; 3) NLP for Science; 4) Knowledge and Reasoning. For more details on the positions and how to apply, please visit [the IT:U application page](https://it-u.at/en/research/research-groups/natural-language-processing/). Feel free to reach out to me via email (yufang.hou@it-u.at) if you're interested in joining our team or have any questions.
 
 - 09/2024: Our paper "[WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia](https://arxiv.org/abs/2406.13805)" has been accepted at the NeurIPS 2024 dataset and benchmark track.
 
