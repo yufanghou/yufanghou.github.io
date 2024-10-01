@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a incomping founding professor for Natural Language Processing at [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/). I'm also a research scientist at [IBM Research Europe - Ireland](https://research.ibm.com/labs/ireland). Previously, I was an adjunct senior lecturer, visiting professor and co-supervisor at [UKP Lab-TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp). I have a strong background in discourse processing, computational argumentation, fact-checking, scholarly document processing, and information extraction.
+I'm an incomping founding professor for Natural Language Processing at [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/). I'm also a research scientist at [IBM Research Europe - Ireland](https://research.ibm.com/labs/ireland). Previously, I was an adjunct senior lecturer, visiting professor and co-supervisor at [UKP Lab-TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp). I have a strong background in discourse processing, computational argumentation, fact-checking, scholarly document processing, and information extraction.
 
 At IT:U, I lead the NLP group with a strong focus on large language model (LLM) governance, cross-document NLP, knowledge and reasoning, and human-centred NLP applications for education, social sciences, humanities, and scientific discovery. The broad research goal of the IT:U NLP Lab is to develop robust and trustworthy NLP technologies to improve human-AI and human-human interactions, and to sovle real-world problems.
 
