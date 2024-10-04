@@ -23,9 +23,24 @@ co-organized [the 8th Workshop on Argument Mining](https://2021.argmining.org/),
 sites.google.com/view/sustainlp2021/home), [SustailNLP2022](https://sites.google.com/view/sustainlp2022/home), [SustailNLP2023](https://sites.google.com/view/sustainlp2023/home)), [the First %
 Workshop on Argumentation Knowledge Graphs](https://argkg21.argmining.org/), and [the First Quantitative Summarization – Key Point Analysis Shared Task](https://github.com/ibm/KPA_2021_shared_task). -->
 
+## Join us: call for postdocs and students
+I'm currently looking for postdoctoral researchers, PhD students, and visiting students to join the IT:U NLP lab! Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfVnllFyucGh7IdlUMiz_R7Q4IUucIQqzlyC7KB9Vs7CnDPVQ/viewform) (feel free to skip some questions) if you are interested in joining our lab. For prospective PhD students and PostDoc researchers who have submitted their applications through the [IT:U portal](https://it-u.at/en/research/research-groups/natural-language-processing), I strongly encourage you to fill out this form to help me schedule the interviews promptly.
+
+- Interested **PhD candidates** are encouraged to apply for the ["PhD Program in Computational X at IT:U"](https://it-u.at/en/study-program/doctoral-school/phd-computational-x/). If you are interested in working with me, please indicate this in your application. I strongly encourage you to visit the [IT:U NLP group's page](https://it-u.at/en/research/research-groups/natural-language-processing/) to explore our current research topics before applying.
+
+- If you want to carry out research in my group as a **post-doc**, there are several funding possibilities:
+  - [IT:U Postdoc Program](https://it-u.at/en/research/research-groups/natural-language-processing/) - please indicate your interests in joining the NLP group in your application
+  - [Marie-Curie Postdoctoral Fellowships](https://ec.europa.eu/research/mariecurieactions/)
+  - [FWF ESPRIT Career Advancement for Postdocs](https://www.fwf.ac.at/en/research-funding/fwf-programmes/esprit-programme)
+  - [Leopoldina Postdoc Scholarship (incoming from Germany, Austria, or Switzerland](https://www.leopoldina.org/en/funding/leopoldina-fellowship-programme/leopoldina-postdoc-scholarship/)
+ 
+- Please note that I do **not** respond to individual emails if the content can be addressed through the forms provided above. I will review all applications and reach out to you if there is a fit for our lab.
+
+<!--If you're passionate about advancing research in any of the following areas, I'd love to hear from you: 1) Governance of Large Language Models (LLMs); 2) Computational Argumentation and Fact-checking; 3) NLP for Science; 4) Knowledge and Reasoning. For more details on the positions and how to apply, please visit [the IT:U application page](https://it-u.at/en/research/research-groups/natural-language-processing/). Feel free to reach out to me via email (yufang.hou@it-u.at) if you're interested in joining our team or have any questions.-->
+
 ## News
 
-- 10/2024 Starting from November, I will be joining [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/) as a founding professor for NLP. I'm currently seeking 2 postdoctoral researchers and 3 PhD students to join the IT:U NLP group! If you're passionate about advancing research in any of the following areas, I'd love to hear from you: 1) Governance of Large Language Models (LLMs); 2) Computational Argumentation and Fact-checking; 3) NLP for Science; 4) Knowledge and Reasoning. For more details on the positions and how to apply, please visit [the IT:U application page](https://it-u.at/en/research/research-groups/natural-language-processing/). Feel free to reach out to me via email (yufang.hou@it-u.at) if you're interested in joining our team or have any questions.
+- 10/2024 Starting from November, I will be joining [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/) as a founding professor for NLP. 
 
 - 09/2024: Our paper "[WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia](https://arxiv.org/abs/2406.13805)" has been accepted at the NeurIPS 2024 dataset and benchmark track.
 
