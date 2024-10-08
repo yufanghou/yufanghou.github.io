@@ -19,7 +19,7 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
   - [IT:U Postdoc Program](https://it-u.at/en/research/research-groups/natural-language-processing/) - please indicate your interests in joining the NLP group in your application
   - [Marie-Curie Postdoctoral Fellowships](https://ec.europa.eu/research/mariecurieactions/)
   - [FWF ESPRIT Career Advancement for Postdocs](https://www.fwf.ac.at/en/research-funding/fwf-programmes/esprit-programme)
-  - [Leopoldina Postdoc Scholarship (incoming from Germany, Austria, or Switzerland](https://www.leopoldina.org/en/funding/leopoldina-fellowship-programme/leopoldina-postdoc-scholarship/)
+  - [Leopoldina Postdoc Scholarship (incoming from Germany, Austria, or Switzerland](https://www.leopoldina.org/en/funding/leopoldina-fellowship-programme/leopoldina-postdoc-scholarship/))
  
 - Please note that I do **not** respond to individual emails if the content can be addressed through the forms provided above. I will review all applications and reach out to you if there is a fit for our lab.
 
