@@ -40,6 +40,8 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 10/2024 I gave an invited talk "[The AI-Augmented Scientist: Building Computational Models for Effective Knowledge Synthesis and Dissemination](https://gu-clasp.github.io/events/seminars/2024-10-23/)" at CLASP (The Centre for Linguistic Theory and Studies in Probability), University of Gothenburg on October 23rd.
+
 - 10/2024 Starting from November, I will be joining [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/) as a founding professor for NLP. 
 
 - 09/2024: Our paper "[WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia](https://arxiv.org/abs/2406.13805)" has been accepted at the NeurIPS 2024 dataset and benchmark track.
