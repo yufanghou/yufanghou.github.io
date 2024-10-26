@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-
+- The AI-Augmented Scientist: Building Computational Models for Effective Knowledge Synthesis and Dissemination. Invited talk at CLASP (The Centre for Linguistic Theory and Studies in Probability), University of Gothenburg, 23 October, 2024.  
 - WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia. Invited talk at the Monthly Wikimedia Research Showcase, 18 September, 2024.
 - Fact-checking Misrepresented Science and Evaluating LLMs on Real-world Knowledge Conflicts. Invited talk at the Second IBM AI Research Master-class Workshop in Trinity College Dublin, 6 September, 2024.
 - Reconstructing Fallacies in Misrepresented Science and Argument Mining in the Wild. Invited keynote at the 11th workshop on Argument Mining (ArgMining 2024, held in conjunction with ACL 2024), 15 August, 2024.
