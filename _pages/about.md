@@ -12,7 +12,7 @@ I'm a founding professor for Natural Language Processing at [IT:U - Interdiscipl
 
 <!--I have a strong background in discourse processing, computational argumentation, fact-checking, scholarly document processing, and information extraction. -->
 
-At IT:U, I lead the NLP group with a strong focus on large language model (LLM) governance, cross-document NLP, knowledge and reasoning, and human-centred NLP applications for education, social sciences, humanities, and scientific discovery. The broad research goal of the IT:U NLP Lab is to develop robust and trustworthy NLP technologies to improve human-AI and human-human interactions, and to sovle real-world problems.
+At IT:U, I lead the NLP group with a strong focus on large language model (LLM) governance, cross-document NLP, knowledge and reasoning, and human-centred NLP applications for education, social sciences, humanities, and scientific discovery. The broad research goal of the IT:U NLP Lab is to develop robust and trustworthy NLP technologies to improve human-AI and human-human interactions, and to solve real-world problems.
 
 
 {% include base_path %}
