@@ -11,6 +11,34 @@ author_profile: true
 
 {% include base_path %}
 
+## 2023
+
+- 12/2023 I attended the panel discussion at [ArgMining 2023](https://argmining-org.github.io/2023/index.html#panel_session).
+
+- 10/2023 I'm looking for a PhD student on AI-assisted Scientific Evidence Synthesis, co-supervised by me at IBM Research and Prof. Anya Belz from Dublin City University. The PhD candidate will be employed by IBM Research Ireland for the duration of the PhD study. Apply using [this link](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=26059&siteid=5016&Areq=664509BR#jobDetails=698045_5016) if you are interested in the position.
+
+- 10/2023 I gave an invited talk "Building Computational Models to Understand Scholarly Documents for Supporting Scientific Knowledge Discovery and Communication" at the IBM AI Research Masterclass workshop in Trinity College Dublin.
+
+- 10/2023 Three long papers have been accepted at EMNLP 2023 Main Conference.
+
+- 10/2023 I will serve as an area chair and visa chair at EACL 2024.
+
+- 09/2023 I will serve as a senior area chair at NAACL 2024.
+
+- 09/2023 I will serve as an area chair at LREC-COLING 2024.
+
+- 07/2023 I will give an invited talk "[Bridging Resolution: A Journey Towards Modelling Referential Discourse Entities](https://github.com/yufanghou/yufanghou.github.io/blob/master/files/Talk-Yufang_CODI_2023_v1.pdf)" at [CODI 2023](https://sites.google.com/view/codi-2023/invited-speakers). 
+
+- 06/2023 I will serve as a senior area chair at EMNLP 2023.
+
+- 05/2023 I will serve as an area chair at IJCNLP-AACL 2023, INLG 2023 and SIGDIAL 2023.
+
+- 05/2023 Four long papers accepted at ACL2023 Main Conference. Kudos to my students and collaborators!
+
+- 04/2023 I visited [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) and had great discussions with the brilliant students from the lab.
+
+- 01/2023 I gave a short talk at [IBM Neuro-Symbolic AI Workshop](https://ibm.github.io/neuro-symbolic-ai/events/ns-workshop2023/). 
+
 ## 2022
 
 - 12/2022 I will serve as an area chair at ACL 2023.
