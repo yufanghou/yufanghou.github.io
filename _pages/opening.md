@@ -23,7 +23,7 @@ For prospective PhD students and PostDoc researchers who have submitted their ap
   - IT:U Postdoc Program
   - [Marie-Curie Postdoctoral Fellowships](https://ec.europa.eu/research/mariecurieactions/)
   - [FWF ESPRIT Career Advancement for Postdocs](https://www.fwf.ac.at/en/research-funding/fwf-programmes/esprit-programme)
-  - [Leopoldina Postdoc Scholarship (incoming from Germany, Austria, or Switzerland](https://www.leopoldina.org/en/funding/leopoldina-fellowship-programme/leopoldina-postdoc-scholarship/))
+  - [Leopoldina Postdoc Scholarship (incoming from Germany, Austria, or Switzerland)](https://www.leopoldina.org/en/funding/leopoldina-fellowship-programme/leopoldina-postdoc-scholarship/)
 <!--  - [IT:U Postdoc Program](https://it-u.at/en/research/research-groups/natural-language-processing/) - please indicate your interests in joining the NLP group in your application -->
 
  
