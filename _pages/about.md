@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a founding professor for Natural Language Processing at [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/). I'm also a research scientist at [IBM Research Europe - Ireland](https://research.ibm.com/labs/ireland). Previously, I was an adjunct senior lecturer, visiting professor and co-supervisor at [UKP Lab-TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp). 
+I'm a professor for Natural Language Processing at [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/). I'm also a research scientist at [IBM Research Europe - Ireland](https://research.ibm.com/labs/ireland). Previously, I was an adjunct senior lecturer, visiting professor and co-supervisor at [UKP Lab-TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp). 
 
 <!--I have a strong background in discourse processing, computational argumentation, fact-checking, scholarly document processing, and information extraction. -->
 
@@ -23,6 +23,7 @@ co-organized [the 8th Workshop on Argument Mining](https://2021.argmining.org/),
 sites.google.com/view/sustainlp2021/home), [SustailNLP2022](https://sites.google.com/view/sustainlp2022/home), [SustailNLP2023](https://sites.google.com/view/sustainlp2023/home)), [the First %
 Workshop on Argumentation Knowledge Graphs](https://argkg21.argmining.org/), and [the First Quantitative Summarization – Key Point Analysis Shared Task](https://github.com/ibm/KPA_2021_shared_task). -->
 
+<!--
 ## Join us: call for postdocs and students
 I'm currently looking for postdoctoral researchers, PhD students, and visiting students to join the IT:U NLP lab! Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfVnllFyucGh7IdlUMiz_R7Q4IUucIQqzlyC7KB9Vs7CnDPVQ/viewform) (feel free to skip some questions) if you are interested in joining our lab. For prospective PhD students and PostDoc researchers who have submitted their applications through the [IT:U portal](https://it-u.at/en/research/research-groups/natural-language-processing), I strongly encourage you to fill out this form to help me schedule the interviews promptly.
 
@@ -36,9 +37,13 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
  
 - Please note that I do **not** respond to individual emails if the content can be addressed through the forms provided above. I will review all applications and reach out to you if there is a fit for our lab.
 
+-->
+
 <!--If you're passionate about advancing research in any of the following areas, I'd love to hear from you: 1) Governance of Large Language Models (LLMs); 2) Computational Argumentation and Fact-checking; 3) NLP for Science; 4) Knowledge and Reasoning. For more details on the positions and how to apply, please visit [the IT:U application page](https://it-u.at/en/research/research-groups/natural-language-processing/). Feel free to reach out to me via email (yufang.hou@it-u.at) if you're interested in joining our team or have any questions.-->
 
 ## News
+
+- 01/2025 Our paper "[Grounding Fallacies Misrepresenting Scientific Publications in Evidence](https://arxiv.org/abs/2408.12812)" has been accepted at NAACL 2025 Main Conference.
 
 - 10/2024 I gave an invited talk "[The AI-Augmented Scientist: Building Computational Models for Effective Knowledge Synthesis and Dissemination](https://gu-clasp.github.io/events/seminars/2024-10-23/)" at CLASP (The Centre for Linguistic Theory and Studies in Probability), University of Gothenburg on October 23rd.
 
