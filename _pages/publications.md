@@ -24,7 +24,7 @@ Yufang Hou. PhD thesis, Heidelberg University, 2016
 ***Holmes: Benchmark the Linguistic Competence of Language Models**  
 Andreas Waldis, Yotam Perlitz, Leshem Choshen, Yufang Hou, Iryna Gurevych.    
 In TACL, 2024  
-[[pdf]](https://arxiv.org/abs/2404.18923)[bib]
+[[pdf]](https://aclanthology.org/2024.tacl-1.88.pdf)[[bib]](https://aclanthology.org/2024.tacl-1.88.bib)
 
 
 **Privacy-aware Supervised Classification: An Informative Subspace Based Multi-objective Approach**  
@@ -45,30 +45,37 @@ In Computational Linguistics, 2018
 [[pdf]](https://aclanthology.org/J18-2002.pdf) [[bib]](https://aclanthology.org/J18-2002.bib)
 
 ## Preprints 
-***Grounding Fallacies Misrepresenting Scientific Publications in Evidence**  
-Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych.    
+**The Nature of NLP: Analyzing Contributions in NLP Papers**  
+Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
 In ArXiv, 2024  
-[[pdf]](https://www.arxiv.org/abs/2408.12812)  
+[[pdf]](https://arxiv.org/abs/2409.19505)  
 
 ## Conference/Workshop Papers
+
+### 2025
+**Grounding Fallacies Misrepresenting Scientific Publications in Evidence**  
+Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych.    
+In NAACL, 2025  
+[[pdf]](https://www.arxiv.org/abs/2408.12812)[bib]  
+
 
 ### 2024
 
 **WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia**  
 Yufang Hou, Alessandra Pascale, Javier Carnerero-Cano, Tigran Tchrakian, Radu Marinescu, Elizabeth Daly, Inkit Padhi, Prasanna Sattigeri.    
 In NeurIPS D&B Track, 2024  
-[[pdf]](https://arxiv.org/abs/2406.13805)[bib]
+[[pdf]](https://openreview.net/pdf/8039d279e177deb3cae86e8385213135651a047c.pdf)[bib]
 
 
 ***Efficient Performance Tracking: Leveraging Large Language Models for Automated Construction of Scientific Leaderboards**  
 Furkan Sahinuç, Thy Thy Tran, Yulia Grishina, Yufang Hou, Bei Chen, Iryna Gurevych.   
 In EMNLP, 2024  
-[[pdf]](https://arxiv.org/abs/2409.12656)[bib]
+[[pdf]](https://aclanthology.org/2024.emnlp-main.453.pdf)[[bib]](https://aclanthology.org/2024.emnlp-main.453.bib)
 
 ***SciDoc2Diagrammer-MAF: Towards Generation of Scientific Diagrams from Documents guided by Multi-Aspect Feedback Refinement**  
 Ishani Mondal, Zongxia Li, Yufang Hou, Anandhavelu Natarajan, Aparna Garimella, Jordan Lee Boyd-Graber.  
 In EMNLP Findings, 2024  
-[pdf][bib]
+[[pdf]](https://aclanthology.org/2024.findings-emnlp.780.pdf)[[bib]](https://aclanthology.org/2024.findings-emnlp.780.bib)
 
 ***MISSCI: Reconstructing Fallacies in Misrepresented Science**  
 Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych.    
