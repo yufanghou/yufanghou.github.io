@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+- Best paper award co-chair: IJCNLP-AACL 2025 
 - Visa Chair: EACL 2024  
 - Senior Area Chair: EMNLP 2022, EMNLP 2023, NAACL 2024, EMNLP 2024, NAACL 2025
 - Area Chair: EACL 2021, INLG 2022, INLG 2023, ACL 2023, IJCNLP-AACL 2023, LREC-COLING 2024, EACL 2024, ACL 2024, COLING 2025 
