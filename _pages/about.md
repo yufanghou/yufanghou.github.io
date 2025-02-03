@@ -43,6 +43,8 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 02/2025 I will serve as a best paper award co-chair at IJCNLP-AACL 2025. 
+
 - 01/2025 Our paper "[Grounding Fallacies Misrepresenting Scientific Publications in Evidence](https://arxiv.org/abs/2408.12812)" has been accepted at NAACL 2025 Main Conference.
 
 - 10/2024 I gave an invited talk "[The AI-Augmented Scientist: Building Computational Models for Effective Knowledge Synthesis and Dissemination](https://gu-clasp.github.io/events/seminars/2024-10-23/)" at CLASP (The Centre for Linguistic Theory and Studies in Probability), University of Gothenburg on October 23rd.
