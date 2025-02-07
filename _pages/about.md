@@ -45,6 +45,8 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 - 02/2025 I'm currently looking for 1 postdoctoral researcher to join the IT:U NLP lab! Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfVnllFyucGh7IdlUMiz_R7Q4IUucIQqzlyC7KB9Vs7CnDPVQ/viewform) (feel free to skip some questions) or send me your CV if you are interested in the position.
 
+- 02/2025 I will serve as an area chair at ACL 2025. 
+
 - 02/2025 I will serve as a best paper award co-chair at IJCNLP-AACL 2025. 
 
 - 01/2025 Our paper "[Grounding Fallacies Misrepresenting Scientific Publications in Evidence](https://arxiv.org/abs/2408.12812)" has been accepted at NAACL 2025 Main Conference.
