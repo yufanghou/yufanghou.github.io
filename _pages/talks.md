@@ -10,7 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+- Empowering Science with AI: Building NLP Models for Scientific Knowledge Synthesis and Fact-checking. Invited talk at the Salzburg HCI Doctoral Consortium Week Winter 2024/2025, 25 February, 2025. 
+- Building NLP Models for Knowledge Synthesis and Dissemination [[YouTube link](https://www.youtube.com/watch?v=0RGLRmSyXRg)]. IT:U Inaugural Lecture, 4 February, 2025.  
 - The AI-Augmented Scientist: Building Computational Models for Effective Knowledge Synthesis and Dissemination. Invited talk at CLASP (The Centre for Linguistic Theory and Studies in Probability), University of Gothenburg, 23 October, 2024.  
 - WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia. Invited talk at the Monthly Wikimedia Research Showcase, 18 September, 2024.
 - Fact-checking Misrepresented Science and Evaluating LLMs on Real-world Knowledge Conflicts. Invited talk at the Second IBM AI Research Master-class Workshop in Trinity College Dublin, 6 September, 2024.
