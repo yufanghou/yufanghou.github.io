@@ -10,7 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
 - [Das Beste aus zwei Welten verbinden - Gastprofessorinnen-Programm der TU Darmstadt](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_489472.en.jsp). TU-Darmstadt News (2025)
+- [2024 TMLR Outstanding Paper Finalists: Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models (BIG-bench)](https://medium.com/@TmlrOrg/announcing-the-2024-tmlr-outstanding-certification-65f25d05c37c). Transactions on Machine Learning Research (TMLR), 2024  
 - [Detecting health and science misinformation with AI](https://research.ibm.com/blog/detecting-health-science-misinformation-ai). IBM Research Blog (2024)
 - [Did an AI write that? If so, which one? Introducing the new field of AI forensics](https://research.ibm.com/blog/AI-forensics-attribution). IBM Research Blog (2023)
 - [A Brilliant Researcher Provides Promising Solutions](https://www.jstor.org/stable/48634874). Women of Color Magazine (2021)
