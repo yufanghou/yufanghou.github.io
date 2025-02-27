@@ -45,6 +45,16 @@ In Computational Linguistics, 2018
 [[pdf]](https://aclanthology.org/J18-2002.pdf) [[bib]](https://aclanthology.org/J18-2002.bib)
 
 ## Preprints 
+**Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation**  
+Steffen Eger, Yong Cao, Jennifer D'Souza, Andreas Geiger, Christian Greisinger, Stephanie Gross, Yufang Hou, Brigitte Krenn, Anne Lauscher, Yizhi Li, Chenghua Lin, Nafise Sadat Moosavi, Wei Zhao, Tristan Miller.    
+In ArXiv, 2025  
+[[pdf]](https://arxiv.org/abs/2502.05151)  
+
+**FactReasoner: A Probabilistic Approach to Long-Form Factuality Assessment for Large Language Models**  
+Radu Marinescu, Debarun Bhattacharjya, Junkyu Lee, Tigran Tchrakian, Javier Carnerero Cano, Yufang Hou, Elizabeth Daly, Alessandra Pascale.  
+In ArXiv, 2025  
+[[pdf]](https://arxiv.org/abs/2502.18573)
+
 **The Nature of NLP: Analyzing Contributions in NLP Papers**  
 Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
 In ArXiv, 2024  
