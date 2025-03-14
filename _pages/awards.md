@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+- [The Tech Startups Ending The Era Of “DIY Diagnosis"](https://www.forbes.com/sites/checkwarner/2025/03/13/the-tech-startups-ending-the-era-of-diy-diagnosis/). Forbes (2025) 
 - [Das Beste aus zwei Welten verbinden - Gastprofessorinnen-Programm der TU Darmstadt](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_489472.en.jsp). TU-Darmstadt News (2025)
 - [2024 TMLR Outstanding Paper Finalists: Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models (BIG-bench)](https://medium.com/@TmlrOrg/announcing-the-2024-tmlr-outstanding-certification-65f25d05c37c). Transactions on Machine Learning Research (TMLR), 2024  
 - [Detecting health and science misinformation with AI](https://research.ibm.com/blog/detecting-health-science-misinformation-ai). IBM Research Blog (2024)
