@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Students Mentored or Co-Mentored"
+title: "Current team members and previous (co-)supervised students"
 permalink: /mentoring/
 author_profile: true
 ---
