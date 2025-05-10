@@ -43,6 +43,8 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 05/2025 I will co-organize the workshop INTERPLAY25 (First Workshop on the Interplay of Model Behavior and Model Internals) at COLM 2025. 
+
 - 02/2025 I gave an invited talk "Empowering Science with AI: Building NLP Models for Scientific Knowledge Synthesis and Fact-checking" at the Salzburg HCI Doctoral Consortium Week Winter 2024/2025 on Feb 25th.
 
 - 02/2025 I'm currently looking for 1 postdoctoral researcher to join the IT:U NLP lab! Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfVnllFyucGh7IdlUMiz_R7Q4IUucIQqzlyC7KB9Vs7CnDPVQ/viewform) (feel free to skip some questions) or send me your CV if you are interested in the position.
