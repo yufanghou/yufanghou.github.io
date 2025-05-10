@@ -11,20 +11,30 @@ author_profile: true
 
 {% include base_path %}
 
+**Current Group Members**
+- Hsuvas Borkakoty (Incoming PostDoc, IT:U Austria)
+- Muhammad Arslan Manzoo (Incoming PostDoc, IT:U Austria)
+- Minh Vu Pham (PhD student, IT:U Austria)
+- Debanjana Kar (PhD student, IT:U Austria)
+- Abdul Ghafoor (PhD student, IT:U Austria)
+- Sebastian Pohl (Incoming PhD student, IT:U Austria)
+- Massimiliano Pronesti (PhD student from the pre-doc program between IBM Reseasrch Ireland and Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
+- Paul Flanagan (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
+- Oisín Redmond (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
+
 **PhD students (Co-)supervised**
-- 2024-2028 Massimiliano Pronesti (PhD student from the pre-doc program between IBM Reseasrch Ireland and Dublin City University, Ireland)
-- 2022-2025 Andreas Waldis (PhD student from Lucerne University of Applied Sciences and Arts, Switzerland)
-- 2022-2024 Max Glockner (PhD student from Technical University Darmstadt, Germany)  
-- 2022-2024 Furkan Sahinuc (PhD student from Technical University Darmstadt, Germany) 
-- 2022-2024 Aniket Pramanick (PhD student from Technical University Darmstadt, Germany) 
-- 2021-2023 Hideo Kobayashi (PhD student from University of Texas at Dallas)
+- 2022-2025 Andreas Waldis (PhD student from Lucerne University of Applied Sciences and Arts, Switzerland; co-supervised with Prof. Iryna Gurevych)
+- 2022-2025 Max Glockner (PhD student from Technical University Darmstadt, Germany; co-supervised with Prof. Iryna Gurevych and Prof. Preslav Nakov)   
+- 2022-2025 Aniket Pramanick (PhD student from Technical University Darmstadt, Germany; co-supervised with Prof. Iryna Gurevych and Dr. Saif M. Mohammad)
+- 2022-2024 Furkan Sahinuc (PhD student from Technical University Darmstadt, Germany; co-supervised with Prof. Iryna Gurevych)
+- 2021-2023 Hideo Kobayashi (PhD student from University of Texas at Dallas; co-supervised with Prof. Vincent Ng)
 
 **Master/bachelor students (Co-)supervised**  
-- 2024-2025 Paul Flanagan (Master student from Dublin City University, Ireland)
-- 2024-2025 Oisín Redmond (Master student from Dublin City University, Ireland)
-- 2023-2024 James O'Doherty (Master student from Dublin City University, Ireland)
-- 2023-2024 Cian Nolan (Master student from Dublin City University, Ireland)
-- 2023 Viet Pham (Bachelor student from Stuttgart University, Germany)
+<!-- - 2024-2025 Paul Flanagan (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
+- 2024-2025 Oisín Redmond (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz) -->
+- 2023-2024 James O'Doherty (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
+- 2023-2024 Cian Nolan (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
+- 2023 Viet Pham (Bachelor student from Stuttgart University, Germany; co-supervise with Dr. )
 
 **Intern students (Co-)supervised**  
 - 2023 Myles Foley (PhD student from Imperial College London, UK)
