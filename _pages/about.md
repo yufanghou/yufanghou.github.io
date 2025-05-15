@@ -43,6 +43,8 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 05/2025 I participated in the WHO online roundtable on the Future of AI in Detecting and Labeling Health Misinformation and Disinformation.
+
 - 05/2025 I'm excited to co-organize the INTERPLAY25 workshop (First Workshop on the Interplay of Model Behavior and Model Internals) as part of COLM 2025! We invite researchers to shed new light on the interplay between models' inner workings and their emergent behavior by contributing to INTERPLAY25 with submissions that delve into how insights from model internals can illuminate complex behaviors, and conversely, how understanding these behaviors can inform our comprehension of internal mechanisms.
 
 - 02/2025 I gave an invited talk "Empowering Science with AI: Building NLP Models for Scientific Knowledge Synthesis and Fact-checking" at the Salzburg HCI Doctoral Consortium Week Winter 2024/2025 on Feb 25th.
