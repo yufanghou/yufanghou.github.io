@@ -60,22 +60,22 @@ In ArXiv, 2025
 ## Conference/Workshop Papers
 
 ### 2025
-**Query-driven Document-level Scientific Evidence Extraction from Biomedical Studies**  
+***Query-driven Document-level Scientific Evidence Extraction from Biomedical Studies**  
 Massimiliano Pronesti, Joao H Bettencourt-Silva, Paul Flanagan, Alessandra Pascale, Oisín Redmond, Anya Belz, Yufang Hou.  
 In ACL, 2025  
 [[pdf]](https://www.arxiv.org/abs/2505.06186)[bib]
 
-**A Multi-persona Framework for Argument Quality Assessment**  
+***A Multi-persona Framework for Argument Quality Assessment**  
 Bojun Jin, Jianzhu Bao, Yufang Hou, Yang Sun, Yice Zhang, Huajie Wang, Bin Liang, Ruifeng Xu.  
 In ACL, 2025  
 [pdf][bib]
 
-**The Nature of NLP: Analyzing Contributions in NLP Papers**  
+***The Nature of NLP: Analyzing Contributions in NLP Papers**  
 Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
 In ACL, 2025    
 [[pdf]](https://arxiv.org/abs/2409.19505)[bib]   
 
-**Grounding Fallacies Misrepresenting Scientific Publications in Evidence**  
+***Grounding Fallacies Misrepresenting Scientific Publications in Evidence**  
 Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych.    
 In NAACL, 2025  
 [[pdf]](https://www.arxiv.org/abs/2408.12812)[bib]  
