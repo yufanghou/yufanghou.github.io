@@ -55,14 +55,26 @@ Radu Marinescu, Debarun Bhattacharjya, Junkyu Lee, Tigran Tchrakian, Javier Carn
 In ArXiv, 2025  
 [[pdf]](https://arxiv.org/abs/2502.18573)
 
-**The Nature of NLP: Analyzing Contributions in NLP Papers**  
-Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
-In ArXiv, 2024  
-[[pdf]](https://arxiv.org/abs/2409.19505)  
+
 
 ## Conference/Workshop Papers
 
 ### 2025
+**Query-driven Document-level Scientific Evidence Extraction from Biomedical Studies**  
+Massimiliano Pronesti, Joao H Bettencourt-Silva, Paul Flanagan, Alessandra Pascale, Oisín Redmond, Anya Belz, Yufang Hou.  
+In ACL, 2025  
+[[pdf]](https://www.arxiv.org/abs/2505.06186)[bib]
+
+**A Multi-persona Framework for Argument Quality Assessment**  
+Bojun Jin, Jianzhu Bao, Yufang Hou, Yang Sun, Yice Zhang, Huajie Wang, Bin Liang, Ruifeng Xu.  
+In ACL, 2025  
+[pdf][bib]
+
+**The Nature of NLP: Analyzing Contributions in NLP Papers**  
+Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
+In ACL, 2025    
+[[pdf]](https://arxiv.org/abs/2409.19505)[bib]   
+
 **Grounding Fallacies Misrepresenting Scientific Publications in Evidence**  
 Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych.    
 In NAACL, 2025  
