@@ -43,6 +43,8 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 06/2025 [IT:U Summer School 2025 on Natural Language Processing](https://it-u.at/en/itu-summer-school-2025-on-nlp/) will take place on July 25–26 in Linz, Austria, just ahead of ACL 2025. This two-day event will feature a rich program of invited talks, panel discussions, and hands-on tutorials. We warmly welcome you to register and be part of the experience!
+
 - 05/2025 Three long papers have been accepted at ACL 2025 Main Conference.
 
 - 05/2025 I participated in the WHO online roundtable on the Future of AI in Detecting and Labeling Health Misinformation and Disinformation.
