@@ -30,8 +30,6 @@ author_profile: true
 - 2021-2023 Hideo Kobayashi (PhD student from University of Texas at Dallas; co-supervised with Prof. Vincent Ng)
 
 **Master/bachelor students (Co-)supervised**  
-<!-- 2024-2025 Paul Flanagan (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
-- 2024-2025 Oisín Redmond (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz) -->
 - 2023-2024 James O'Doherty (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
 - 2023-2024 Cian Nolan (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
 - 2023 Viet Pham (Bachelor student from Stuttgart University, Germany; co-supervise with Dr. )
