@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+- Biomedical Scientific Evidence Synthesis. Invited Talk at the Beijing University Summer School on AI & Medicial Research.   
+- Automated Reasoning for Scientific Knowledge Synthesis and Claim Verification. Invited keynote at AIRoV 2025 (The Austrian Symposium on AI and Vision). 
 - Empowering Science with AI: Building NLP Models for Scientific Knowledge Synthesis and Fact-checking. Invited talk at the Salzburg HCI Doctoral Consortium Week Winter 2024/2025, 25 February, 2025. 
 - Building NLP Models for Knowledge Synthesis and Dissemination [[YouTube link](https://www.youtube.com/watch?v=0RGLRmSyXRg)]. IT:U Inaugural Lecture, 4 February, 2025.  
 - The AI-Augmented Scientist: Building Computational Models for Effective Knowledge Synthesis and Dissemination. Invited talk at CLASP (The Centre for Linguistic Theory and Studies in Probability), University of Gothenburg, 23 October, 2024.  
