@@ -80,6 +80,10 @@ Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych.
 In NAACL, 2025  
 [[pdf]](https://www.arxiv.org/abs/2408.12812)[bib]  
 
+***Seeing What’s Wrong: A Trajectory-Guided Approach to Caption Error Detection**  
+Gabriel Afriat, Ryan Lucas, Xiang Meng, Yufang Hou, Yada Zhu, Rahul Mazumder.  
+In KDD Workshop on Evaluation and Trustworthiness of Agentic and Generative AI Models, 2025  
+[pdf][bib]  
 
 ### 2024
 
