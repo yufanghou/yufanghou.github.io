@@ -73,7 +73,7 @@ In ACL, 2025
 ***The Nature of NLP: Analyzing Contributions in NLP Papers**  
 Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
 In ACL, 2025    
-[[pdf]](https://arxiv.org/abs/2409.19505)[bib]   
+[[pdf]](https://arxiv.org/abs/2409.19505)[bib][[project website]](https://ukplab.github.io/acl25-nlp-contributions/)     
 
 ***Grounding Fallacies Misrepresenting Scientific Publications in Evidence**  
 Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych.    
