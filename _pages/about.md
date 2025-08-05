@@ -43,6 +43,10 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 07/2025 I moderated the panel discussion "Careers in NLP" at the ACL 2025 industry track. 
+
+- 07/2025 I gave an invited talk "Clarity from Complexity: Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims" at [the Eighth FEVER Workshop](https://fever.ai/workshop.html).
+
 - 07/2025 I gave an invited lecture at the Beijing University Summer School on AI & Medcine Research. 
 
 - 07/2025 I gave a keynote at [AIRoV 2025 AI & Vision](https://airov.at/2025/). 
