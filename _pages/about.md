@@ -43,9 +43,11 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 07/2025 I gave an invited talk "Clarity from Complexity: Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims" at [the Eighth FEVER Workshop](https://fever.ai/workshop.html).
+
 - 07/2025 I moderated the panel discussion "Careers in NLP" at the ACL 2025 industry track. 
 
-- 07/2025 I gave an invited talk "Clarity from Complexity: Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims" at [the Eighth FEVER Workshop](https://fever.ai/workshop.html).
+- 07/2025 I gave a tutorial together with my collaborators on "AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation" at [the IT:U Summer school 2025 on NLP](https://it-u.at/en/itu-summer-school-2025-on-nlp/).
 
 - 07/2025 I gave an invited lecture at the Beijing University Summer School on AI & Medcine Research. 
 
