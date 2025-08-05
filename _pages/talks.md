@@ -10,7 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-- Biomedical Scientific Evidence Synthesis. Invited Talk at the Beijing University Summer School on AI & Medicial Research, 12 July, 2025.  
+- Clarity from Complexity: Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims. Invited talk at [The Eighth FEVER Workshop](https://fever.ai/workshop.html) (co-located with ACL 2025), 31 July, 2025.
+- Careers in NLP. Panel discussion moderator at the ACL 2025 industry track, 30 July, 2025.
+- AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation. Tutorial at the IT:U Summer School 2025 on NLP, 26 July, 2025. 
+- Biomedical Scientific Evidence Synthesis. Invited talk at the Beijing University Summer School on AI & Medicial Research, 12 July, 2025.  
 - Automated Reasoning for Scientific Knowledge Synthesis and Claim Verification. Invited keynote at AIRoV 2025 (The Austrian Symposium on AI and Vision), 09 July, 2025.  
 - Empowering Science with AI: Building NLP Models for Scientific Knowledge Synthesis and Fact-checking. Invited talk at the Salzburg HCI Doctoral Consortium Week Winter 2024/2025, 25 February, 2025. 
 - Building NLP Models for Knowledge Synthesis and Dissemination [[YouTube link](https://www.youtube.com/watch?v=0RGLRmSyXRg)]. IT:U Inaugural Lecture, 4 February, 2025.  
