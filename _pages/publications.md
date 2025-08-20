@@ -50,16 +50,33 @@ Steffen Eger, Yong Cao, Jennifer D'Souza, Andreas Geiger, Christian Greisinger, 
 In ArXiv, 2025  
 [[pdf]](https://arxiv.org/abs/2502.05151)  
 
-**FactReasoner: A Probabilistic Approach to Long-Form Factuality Assessment for Large Language Models**  
-Radu Marinescu, Debarun Bhattacharjya, Junkyu Lee, Tigran Tchrakian, Javier Carnerero Cano, Yufang Hou, Elizabeth Daly, Alessandra Pascale.  
-In ArXiv, 2025  
-[[pdf]](https://arxiv.org/abs/2502.18573)
-
-
 
 ## Conference/Workshop Papers
 
 ### 2025
+
+***Enhancing Study-Level Inference from Clinical Trial Papers via RL-based Numeric Reasoning**  
+Massimiliano Pronesti, Michela Lorandi, Paul Flanagan, Oisín Redmond, Anya Belz, Yufang Hou.  
+In EMNLP, 2025  
+[[pdf]](https://arxiv.org/abs/2505.22928)[bib][[project website]](https://mspronesti.github.io/acl25/)
+
+
+***TaxoAlign: Scholarly Taxonomy Generation Using Language Models**  
+Avishek Lahiri, Yufang Hou, Debarshi Kumar Sanyal.  
+In EMNLP, 2025  
+[pdf][bib]
+
+***A Position Paper on the Automatic Generation of Machine Learning Leaderboards**  
+Roelien Timmer, Yufang Hou, Stephen Wan.  
+In EMNLP, 2025  
+[[pdf]](https://www.arxiv.org/abs/2505.17465)[bib]
+
+
+***FactReasoner: A Probabilistic Approach to Long-Form Factuality Assessment for Large Language Models**  
+Radu Marinescu, Debarun Bhattacharjya, Junkyu Lee, Tigran Tchrakian, Javier Carnerero Cano, Yufang Hou, Elizabeth Daly, Alessandra Pascale  
+[[pdf]](https://arxiv.org/abs/2502.18573)[bib]
+
+
 ***Query-driven Document-level Scientific Evidence Extraction from Biomedical Studies**  
 Massimiliano Pronesti, Joao H Bettencourt-Silva, Paul Flanagan, Alessandra Pascale, Oisín Redmond, Anya Belz, Yufang Hou.  
 In ACL, 2025  
@@ -68,7 +85,7 @@ In ACL, 2025
 ***A Multi-persona Framework for Argument Quality Assessment**  
 Bojun Jin, Jianzhu Bao, Yufang Hou, Yang Sun, Yice Zhang, Huajie Wang, Bin Liang, Ruifeng Xu.  
 In ACL, 2025  
-[pdf][bib]
+[[pdf]](https://aclanthology.org/2025.acl-long.593/)[bib]
 
 ***The Nature of NLP: Analyzing Contributions in NLP Papers**  
 Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
@@ -83,7 +100,7 @@ In NAACL, 2025
 ***Seeing What’s Wrong: A Trajectory-Guided Approach to Caption Error Detection**  
 Gabriel Afriat, Ryan Lucas, Xiang Meng, Yufang Hou, Yada Zhu, Rahul Mazumder.  
 In KDD Workshop on Evaluation and Trustworthiness of Agentic and Generative AI Models, 2025  
-[pdf][bib]  
+[[pdf]](https://kdd-eval-workshop.github.io/genai-evaluation-kdd2025/assets/papers/Submission%2023.pdf)[bib]  
 
 ### 2024
 
