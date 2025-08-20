@@ -43,7 +43,7 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
-- 08/2025 Four long papers have been accepted at EMNLP 2025 (3 Main Conference, 1 Findings).
+- 08/2025 Four long papers have been accepted at EMNLP 2025 (3 Main Conference and 1 Findings).
 
 - 07/2025 I gave an invited talk "Clarity from Complexity: Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims" at [the Eighth FEVER Workshop](https://fever.ai/workshop.html).
 
