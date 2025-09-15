@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+- [Algorithms of inequality? Gender, discrimination and power in AI](https://technologytalks.ait.ac.at/en/workshops). Invited panel discussion TEC25 organised byDecemberAustrian Institute of Technology and the BMWFW, 11 September, 2025.
 - Clarity from Complexity: Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims. Invited talk at [The Eighth FEVER Workshop](https://fever.ai/workshop.html) (co-located with ACL 2025), 31 July, 2025.
 - Careers in NLP. Panel discussion moderator at the ACL 2025 industry track, 30 July, 2025.
 - AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation. Tutorial at the IT:U Summer School 2025 on NLP, 26 July, 2025. 
