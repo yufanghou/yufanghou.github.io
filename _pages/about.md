@@ -43,6 +43,10 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 09/2025 Our paper "[MathBuddy](https://arxiv.org/abs/2508.19993)" has been accepted at the EMNLP 2025 demo track!
+
+- 09/2025 I participated in the panel discussion on "Algorithms of inequality? Gender, discrimination and power in AI" at TEC25 organised by the AIT Austrian Institute of Technology and the BMWFW.
+  
 - 08/2025 Four long papers have been accepted at EMNLP 2025 (3 Main Conference and 1 Findings).
 
 - 07/2025 I gave an invited talk "Clarity from Complexity: Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims" at [the Eighth FEVER Workshop](https://fever.ai/workshop.html).
