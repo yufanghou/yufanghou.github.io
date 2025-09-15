@@ -55,6 +55,12 @@ In ArXiv, 2025
 
 ### 2025
 
+***MathBuddy: A Multimodal System for Affective Math Tutoring**  
+Debanjana Kar, Leopold Böss, Dacia Braca, Sebastian Maximilian Dennerlein, Nina Christine Hubig, Philipp Wintersberger, Yufang Hou.  
+In EMNLP Demo Track, 2025  
+[[pdf]](https://arxiv.org/abs/2508.19993)[bib][[project website]](https://github.com/CleoChu/MathBuddy)
+
+
 ***Enhancing Study-Level Inference from Clinical Trial Papers via RL-based Numeric Reasoning**  
 Massimiliano Pronesti, Michela Lorandi, Paul Flanagan, Oisín Redmond, Anya Belz, Yufang Hou.  
 In EMNLP, 2025  
@@ -74,6 +80,7 @@ In EMNLP, 2025
 
 ***FactReasoner: A Probabilistic Approach to Long-Form Factuality Assessment for Large Language Models**  
 Radu Marinescu, Debarun Bhattacharjya, Junkyu Lee, Tigran Tchrakian, Javier Carnerero Cano, Yufang Hou, Elizabeth Daly, Alessandra Pascale  
+In EMNLP Findings, 2025  
 [[pdf]](https://arxiv.org/abs/2502.18573)[bib]
 
 
