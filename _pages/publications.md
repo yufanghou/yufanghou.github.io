@@ -78,7 +78,7 @@ In EMNLP, 2025
 [[pdf]](https://www.arxiv.org/abs/2505.17465)[bib]
 
 
-***FactReasoner: A Probabilistic Approach to Long-Form Factuality Assessment for Large Language Models**  
+**FactReasoner: A Probabilistic Approach to Long-Form Factuality Assessment for Large Language Models**  
 Radu Marinescu, Debarun Bhattacharjya, Junkyu Lee, Tigran Tchrakian, Javier Carnerero Cano, Yufang Hou, Elizabeth Daly, Alessandra Pascale  
 In EMNLP Findings, 2025  
 [[pdf]](https://arxiv.org/abs/2502.18573)[bib]
