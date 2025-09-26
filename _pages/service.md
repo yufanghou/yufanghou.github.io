@@ -10,12 +10,13 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-- Best paper award co-chair: IJCNLP-AACL 2025 
+- Best paper award co-chair: IJCNLP-AACL 2025
+- Best paper award committee: EMNLP 2025  
 - Visa Chair: EACL 2024  
 - Senior Area Chair: EMNLP 2022, EMNLP 2023, NAACL 2024, EMNLP 2024, NAACL 2025
 - Area Chair: EACL 2021, INLG 2022, INLG 2023, ACL 2023, IJCNLP-AACL 2023, LREC-COLING 2024, EACL 2024, ACL 2024, COLING 2025, ACL 2025   
 - Senior PC: AAAI 2022, SIGDIAL 2022/2023
-- Workshop (Co-)organiser: [ArgMining 2021](https://2021.argmining.org/), [ArgKG 2021](https://argkg21.argmining.org/), [SustaiNLP 2021](https://sites.google.com/view/sustainlp2021/home), [SustaiNLP 2022](https://sites.google.com/view/sustainlp2022), [SustaiNLP 2023](https://sites.google.com/view/sustainlp2023); INTERPLAY25  
+- Workshop (Co-)organiser: [ArgMining 2021](https://2021.argmining.org/), [ArgKG 2021](https://argkg21.argmining.org/), [SustaiNLP 2021](https://sites.google.com/view/sustainlp2021/home), [SustaiNLP 2022](https://sites.google.com/view/sustainlp2022), [SustaiNLP 2023](https://sites.google.com/view/sustainlp2023), [INTERPLAY25](https://interplay-workshop.github.io/), [SciProdLLM 2025](https://sciprodllm.github.io/2025/)    
 - Shared Task Organiser: [KPA 2021](https://github.com/ibm/KPA_2021_shared_task)  
 - (Co-)organiser: [Ireland WaiTALK: Path to Entrepreneurship, 2020](https://medium.com/womeninai/becoming-founders-and-ceos-path-to-entrepreneurship-waitalk-693f6e5671de); 2025 Linz NLP Summer School  
 - Invited Journal Editorial Board Member
