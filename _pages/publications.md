@@ -26,6 +26,10 @@ Andreas Waldis, Yotam Perlitz, Leshem Choshen, Yufang Hou, Iryna Gurevych.
 In TACL, 2024  
 [[pdf]](https://aclanthology.org/2024.tacl-1.88.pdf)[[bib]](https://aclanthology.org/2024.tacl-1.88.bib)
 
+**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models (One of five finalists for 2024's Outstanding Certification at TMLR)**  
+Aarohi Srivastava, Abhinav Rastogi, Abhishek Rao, Abu Awal Md Shoeb, Abubakar Abid, Adam Fisch, Adam R. Brown, Adam Santoro, Aditya Gupta, Adrià Garriga-Alonso, Agnieszka Kluska, Aitor Lewkowycz, Akshat Agarwal, Alethea Power, Alex Ray, Alex Warstadt, Alexander W. Kocurek, Ali Safaya, Ali Tazarv, Alice Xiang et al.  
+In Transactions on Machine Learning Research (TMLR), 2024  
+[[pdf]](https://openreview.net/forum?id=uyTL5Bvosj)
 
 **Privacy-aware Supervised Classification: An Informative Subspace Based Multi-objective Approach**  
 Chandan Biswas, Debasis Ganguly, Partha Sarathi Mukherjee, Ujjwal Bhattacharya, Yufang Hou.  
@@ -33,8 +37,8 @@ In Pattern Recognition, 2022
 [[pdf]](https://www.researchgate.net/profile/Chandan-Biswas-4/publication/354349495_Privacy-Aware_Supervised_Classification_An_Informative_Subspace_based_Multi-Objective_Approach/links/6144376fa609b152aa158758/Privacy-Aware-Supervised-Classification-An-Informative-Subspace-based-Multi-Objective-Approach.pdf) [[bib]](https://yufanghou.github.io/files/privacy2022.bib)
 
 
-**An Autonomous Debating System**  
- Noam Slonim, Yonatan Bilu, Carlos Alzate, Roy Bar-Haim, Ben Bogin, Francesca Bonin, Leshem Choshen, Edo Cohen-Karlik, Lena Dankin, Lilach Edelstein, Liat Ein-Dor, Roni Friedman-Melamed, Assaf Gavron, Ariel Gera, Martin Gleize, Shai Gretz, Dan Gutfreund, Alon Halfon, Daniel Hershcovich, Ron Hoory, Yufang Hou, Shay Hummel, Michal Jacovi, Charles Jochim, Yoav Kantor, Yoav Katz, David Konopnicki, Zvi Kons, Lili Kotlerman, Dalia Krieger, Dan Lahav, Tamar Lavee, Ran Levy, Naftali Liberman, Yosi Mass, Amir Menczel, Shachar Mirkin, Guy Moshkowich, Shila Ofek-Koifman, Matan Orbach, Ella Rabinovich, Ruty Rinott, Slava Shechtman, Dafna Sheinwald, Eyal Shnarch, Ilya Shnayderman, Aya Soffer, Artem Spector, Benjamin Sznajder, Assaf Toledo, Orith Toledo-Ronen, Elad Venezian, Ranit Aharonov.   
+**An Autonomous Debating System (Nature Cover)**  
+Noam Slonim, Yonatan Bilu, Carlos Alzate, Roy Bar-Haim, Ben Bogin, Francesca Bonin, Leshem Choshen, Edo Cohen-Karlik, Lena Dankin, Lilach Edelstein, Liat Ein-Dor, Roni Friedman-Melamed, Assaf Gavron, Ariel Gera, Martin Gleize, Shai Gretz, Dan Gutfreund, Alon Halfon, Daniel Hershcovich, Ron Hoory, Yufang Hou, Shay Hummel, Michal Jacovi, Charles Jochim, Yoav Kantor, Yoav Katz, David Konopnicki, Zvi Kons, Lili Kotlerman, Dalia Krieger, Dan Lahav, Tamar Lavee, Ran Levy, Naftali Liberman, Yosi Mass, Amir Menczel, Shachar Mirkin, Guy Moshkowich, Shila Ofek-Koifman, Matan Orbach, Ella Rabinovich, Ruty Rinott, Slava Shechtman, Dafna Sheinwald, Eyal Shnarch, Ilya Shnayderman, Aya Soffer, Artem Spector, Benjamin Sznajder, Assaf Toledo, Orith Toledo-Ronen, Elad Venezian, Ranit Aharonov.   
 In Nature, 2021    
 [[pdf]](https://www.nature.com/articles/s41586-021-03215-w) [[bib]](https://yufanghou.github.io/files/projectDebaterNature.bib)
 
