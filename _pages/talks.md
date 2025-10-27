@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+- Clarity from Complexity: Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims. Research talk at the Northeasten University NLP group, 23 October, 2025.
+-  Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims. Invited talk at MIT-IBM Watson AI Lab, 21 October, 2025.
 - [Algorithms of inequality? Gender, discrimination and power in AI](https://technologytalks.ait.ac.at/en/workshops). Invited panel discussion TEC25 organised byDecemberAustrian Institute of Technology and the BMWFW, 11 September, 2025.
 - Clarity from Complexity: Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims. Invited talk at [The Eighth FEVER Workshop](https://fever.ai/workshop.html) (co-located with ACL 2025), 31 July, 2025.
 - Careers in NLP. Panel discussion moderator at the ACL 2025 industry track, 30 July, 2025.
