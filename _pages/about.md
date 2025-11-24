@@ -43,6 +43,16 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 11/2025 Our paper "[Transforming Scholarly Landscapes: Influence of Large Language Models on Academic Fields beyond Computer Science](https://arxiv.org/abs/2409.19508)" has been accepted for publication in the PLOS ONE journal.
+
+- 11/2025 I gave an invited talk at the ATLAS seminar, the University of Manchester.
+
+- 11/2025 I visited King's College London and gave an talk on "Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims".
+
+- 11/2025 I participated in the workshop "The past, present, and future of the UKP Lab" in Cambridge and gave a talk on automated reasoning for scientific knowledge synthesis.
+
+- 10/2025 I visited the MIT-IBM Watson AI Lab and Northeastern Natural Language Processing Research Group. 
+
 - 09/2025 Our paper "[MathBuddy](https://arxiv.org/abs/2508.19993)" has been accepted at the EMNLP 2025 demo track!
 
 - 09/2025 I participated in the panel discussion on "Algorithms of inequality? Gender, discrimination and power in AI" at TEC25 organised by the AIT Austrian Institute of Technology and the BMWFW.
