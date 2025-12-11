@@ -43,6 +43,10 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 12/2025 Our tutorial "AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation" has been accepted at [EACL 2026](https://2026.eacl.org/)!
+
+- 12/2025 I will serve as a senior area chair at ACL 2026.
+   
 - 11/2025 Our paper "[Transforming Scholarly Landscapes: Influence of Large Language Models on Academic Fields beyond Computer Science](https://arxiv.org/abs/2409.19508)" has been accepted for publication in the PLOS ONE journal.
 
 - 11/2025 I gave an invited talk at the ATLAS seminar, the University of Manchester.
