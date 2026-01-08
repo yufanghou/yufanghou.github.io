@@ -12,7 +12,7 @@ I'm a professor for Natural Language Processing at [IT:U - Interdisciplinary Tra
 
 <!--I have a strong background in discourse processing, computational argumentation, fact-checking, scholarly document processing, and information extraction. -->
 
-At IT:U, I lead the NLP group with a strong focus on large language model (LLM) governance, cross-document NLP, knowledge and reasoning, and human-centred NLP applications for education, social sciences, humanities, and scientific discovery. The broad research goal of the IT:U NLP Lab is to develop robust and trustworthy NLP technologies to improve human-AI and human-human interactions, and to solve real-world problems.
+At IT:U, I lead the NLP group with a strong focus on large language model (LLM) governance, cross-document NLP, argument mining and fact-checking, knowledge representation and reasoning, and human-centred NLP applications for scientific discovery, health, and education. The broad research goal of the IT:U NLP Lab is to develop robust and trustworthy NLP technologies to improve human-AI and human-human interactions, and to solve real-world problems.
 
 
 {% include base_path %}
@@ -90,45 +90,5 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 - 02/2025 I will serve as a best paper award co-chair at IJCNLP-AACL 2025. 
 
 - 01/2025 Our paper "[Grounding Fallacies Misrepresenting Scientific Publications in Evidence](https://arxiv.org/abs/2408.12812)" has been accepted at NAACL 2025 Main Conference.
-
-- 10/2024 I gave an invited talk "[The AI-Augmented Scientist: Building Computational Models for Effective Knowledge Synthesis and Dissemination](https://gu-clasp.github.io/events/seminars/2024-10-23/)" at CLASP (The Centre for Linguistic Theory and Studies in Probability), University of Gothenburg on October 23rd.
-
-- 10/2024 Starting in November, I will be joining [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/) as a founding professor for NLP. 
-
-- 09/2024: Our paper "[WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia](https://arxiv.org/abs/2406.13805)" has been accepted at the NeurIPS 2024 dataset and benchmark track.
-
-- 09/2024: Two papers have been accepted at EMNLP 2024 Main Conference and Findings.
-
-- 09/2024 I will serve as a senior area chair at NAACL 2025.
-
-- 09/2024 Our paper about [Holmes](https://holmes-benchmark.github.io/home/) has been accepted at TACL 2024 and will be presented at EMNLP 2024. 
-
-- 09/2024 I will give an invited talk "[WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia](https://arxiv.org/abs/2406.13805)" at the Monthly Wikimedia Research Showcase on September 18th. The talk will be streamed live on YouTube and also archived for later viewing on the [Wikimedia Foundation's YouTube channel](https://www.youtube.com/@TheWikimediaFoundation).
-
-- 09/2024 I will give an invited talk "Fact-checking Misrepresented Science and Evaluating LLMs on Real-world Knowledge Conflicts" at [the Second IBM AI Research Master-class Workshop](https://www.eventbrite.ie/e/ibm-trinity-college-dublin-research-ai-workshop-tickets-1003562681997) in Trinity College Dublin on September 6th.
-
-- 08/2024 I gave a keynote talk "Reconstructing Fallacies in Misrepresented Science and Argument Mining in the Wild" at [the 11th Workshop on Argument Mining (ArgMining 2024)](https://argmining-org.github.io/2024/).
-
-- 07/2024 A paper accepted at at the ACL 2024 Student Research Workshop. The paper is based on a master thesis project that I co-supervised with Prof. Anya Belz at Dublin City University for their first NLP master program on 2023/2024. 
-
-- 06/2024 I will serve as an area chair at COLING 2025.
-
-- 06/2024 A paper accepted at ACL 2024 workshop on teaching NLP: I wrote a short paper describing a course shared task that we organized at the Foundations of Language Technology (FoLT) course in 2023/2024 at the Technical University of Darmstadt. The shared task focuses on evaluating the output of LLMs in generating harmful answers to health-related clinical questions. 
-
-- 06/2024 I gave an invited talk and participated a panel discussion at the 1st International Conference on Robust Argumentation Machines ([RATIO24](https://ratio-conference.net/)).
-
-- 05/2024 Three long papers have been accepted at ACL 2024 Main Conference.
-
-- 05/2024 We have released a massive meta-evaluation benchmark called [Holmes](https://holmes-benchmark.github.io/home/) to evaluate internal embeddings for more than 50 LLMs across 200 datasets, covering a wide range of linguistic competences. 
-
-- 04/2024 I will give an invited talk at the "Anaphora and Predictability" workshop at Pompeu Fabra University.
-
-- 03/2024 I will serve as a senior area chair at EMNLP 2024.
-
-- 03/2024 Our paper, "On the Role of Summary Content Units in Text Summarization Evaluation", has been accepted at the NAACL 2024 Main Conference! The paper is based on an idea from the [GEM](https://gem-benchmark.com/) human evaluation work group, and all experiments were conducted by the four exceptional student researchers whom Juri and I co-mentored in a software project from the course "Data Analysis Software Project for Natural Language" that I taught at TU Darmstadt in 2022/2023. Kudos to all co-authors!
- 
-- 02/2024 I will serve as an area chair at ACL 2024.
-
-- 01/2024 Our paper on probing the gap between in- and cross-topic generalization of pre-trained language models has been accepted at EACL 2024 Findings.
 
 ### [News Archive](https://yufanghou.github.io/newsarchive)
