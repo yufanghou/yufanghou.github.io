@@ -43,7 +43,11 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
-- 12/2025 Our tutorial "AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation" has been accepted at [EACL 2026](https://2026.eacl.org/)!
+- 01/2026 One paper was accepted at ICASSP 2026.
+
+- 01/2026 I visited UKP Lab at TU-Darmstadt and gave an talk on "When Knowledge Conflicts: Modeling Scientific Evidence Synthesis and Investigating Intra-Memory Conflict in Language Models".
+
+- 12/2025 Our tutorial "AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation" has been accepted at [EACL 2026](https://2026.eacl.org/).
 
 - 12/2025 I will serve as a senior area chair at ACL 2026.
    
