@@ -13,12 +13,14 @@ author_profile: true
 
 Note: * indicates the papers that I closely supervised for the first student author(s).
 
+<!--
 ## PhD Thesis
 
 **Unrestricted Bridging Resolution**  
 Yufang Hou. PhD thesis, Heidelberg University, 2016  
 [[pdf]](http://archiv.ub.uni-heidelberg.de/volltextserver/20344/1/thesis.pdf) [[bib]](https://yufanghou.github.io/files/yufangThesis.bib)
-
+-->
+<!--
 ## Journal Articles
 
 ***Holmes: Benchmark the Linguistic Competence of Language Models**  
@@ -48,14 +50,40 @@ Yufang Hou, Katja Markert, Michael Strube.
 In Computational Linguistics, 2018  
 [[pdf]](https://aclanthology.org/J18-2002.pdf) [[bib]](https://aclanthology.org/J18-2002.bib)
 
+-->
+
 ## Preprints 
+***Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models**  
+Minh Vu Pham, Hsuvas Borkakoty, Yufang Hou.  
+In arXiv, 2026  
+[[pdf]](https://arxiv.org/abs/2601.09445)
+
+**FactCorrector: A Graph-Inspired Approach to Long-Form Factuality Correction of Large Language Models**  
+Javier Carnerero-Cano, Massimiliano Pronesti, Radu Marinescu, Tigran Tchrakian, James Barry, Jasmina Gajcin, Yufang Hou, Alessandra Pascale, Elizabeth Daly.   
+In arXiv, 2026  
+[[pdf]](https://arxiv.org/abs/2601.11232)
+
 **Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation**  
 Steffen Eger, Yong Cao, Jennifer D'Souza, Andreas Geiger, Christian Greisinger, Stephanie Gross, Yufang Hou, Brigitte Krenn, Anne Lauscher, Yizhi Li, Chenghua Lin, Nafise Sadat Moosavi, Wei Zhao, Tristan Miller.    
-In ArXiv, 2025  
+In arXiv, 2025  
 [[pdf]](https://arxiv.org/abs/2502.05151)  
 
 
-## Conference/Workshop Papers
+<!--## Conference/Workshop Papers -->
+## Peer-reviewed Publications  
+
+### 2026
+***Transforming scholarly landscapes: The influence of large language models on academic fields beyond computer science**  
+Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
+In PLOS One, 2026  
+[[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337127) [bib] 
+
+
+**Face-Voice Association with Inductive Bias for Maximum Class Separation**  
+Marta Moscati, Oleksandr Kats, Mubashir Noman, Muhammad Zaigham Zaheer, Yufang Hou, Markus Schedl, Shah Nawaz.  
+In ICASSP, 2026  
+[pdf] [bib] 
+
 
 ### 2025
 
@@ -120,6 +148,10 @@ Yufang Hou, Alessandra Pascale, Javier Carnerero-Cano, Tigran Tchrakian, Radu Ma
 In NeurIPS D&B Track, 2024  
 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2024/file/c63819755591ea972f8570beffca6b1b-Paper-Datasets_and_Benchmarks_Track.pdf) [[bib]](https://proceedings.neurips.cc/paper_files/paper/26710-/bibtex)  
 
+***Holmes: Benchmark the Linguistic Competence of Language Models**  
+Andreas Waldis, Yotam Perlitz, Leshem Choshen, Yufang Hou, Iryna Gurevych.    
+In TACL, 2024  
+[[pdf]](https://aclanthology.org/2024.tacl-1.88.pdf) [[bib]](https://aclanthology.org/2024.tacl-1.88.bib)
 
 ***Efficient Performance Tracking: Leveraging Large Language Models for Automated Construction of Scientific Leaderboards**  
 Furkan Sahinuç, Thy Thy Tran, Yulia Grishina, Yufang Hou, Bei Chen, Iryna Gurevych.   
@@ -145,6 +177,12 @@ In ACL, 2024
 Andreas Waldis, Yufang Hou, Iryna Gurevych.       
 In ACL, 2024  
 [[pdf]](https://aclanthology.org/2024.acl-long.795.pdf) [[bib]](https://aclanthology.org/2024.acl-long.795.bib)  
+
+
+**Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models (One of five finalists for 2024's Outstanding Certification at TMLR)**  
+Aarohi Srivastava, Abhinav Rastogi, Abhishek Rao, Abu Awal Md Shoeb, Abubakar Abid, Adam Fisch, Adam R. Brown, Adam Santoro, Aditya Gupta, Adrià Garriga-Alonso, Agnieszka Kluska, Aitor Lewkowycz, Akshat Agarwal, Alethea Power, Alex Ray, Alex Warstadt, Alexander W. Kocurek, Ali Safaya, Ali Tazarv, Alice Xiang et al.  
+In Transactions on Machine Learning Research (TMLR), 2024  
+[[pdf]](https://openreview.net/forum?id=uyTL5Bvosj)
 
 **A Course Shared Task on Evaluating LLM Output for Clinical Questions**  
 Yufang Hou, Thy Thy Tran, Doan Nam Long Vu, Yiwen Cao, Kai Li, Lukas Rohde, Iryna Gurevych.       
@@ -243,12 +281,23 @@ Ying Xu, Dakuo Wang, Mo Yu, Daniel Ritchie, Bingsheng Yao, Tongshuang Wu, Zheng 
 In ACL, 2022   
 [[pdf]](https://aclanthology.org/2022.acl-long.34.pdf) [[bib]](https://aclanthology.org/2022.acl-long.34.bib)
 
+**Privacy-aware Supervised Classification: An Informative Subspace Based Multi-objective Approach**  
+Chandan Biswas, Debasis Ganguly, Partha Sarathi Mukherjee, Ujjwal Bhattacharya, Yufang Hou.  
+In Pattern Recognition, 2022    
+[[pdf]](https://www.researchgate.net/profile/Chandan-Biswas-4/publication/354349495_Privacy-Aware_Supervised_Classification_An_Informative_Subspace_based_Multi-Objective_Approach/links/6144376fa609b152aa158758/Privacy-Aware-Supervised-Classification-An-Informative-Subspace-based-Multi-Objective-Approach.pdf) [[bib]](https://yufanghou.github.io/files/privacy2022.bib)
+
 ***Finding Sub-task Structure with Natural Language Instruction**  
 Ryokan Ri, Yufang Hou, Radu Marinescu, Akihiro Kishimoto.  
 In the First Workshop on Learning with Natural Language Supervision at ACL 2022   
 [[pdf]](https://aclanthology.org/2022.lnls-1.1.pdf) [[bib]](https://aclanthology.org/2022.lnls-1.1.bib)
 
 ### 2021
+
+**An Autonomous Debating System (Nature Cover)**  
+Noam Slonim, Yonatan Bilu, Carlos Alzate, Roy Bar-Haim, Ben Bogin, Francesca Bonin, Leshem Choshen, Edo Cohen-Karlik, Lena Dankin, Lilach Edelstein, Liat Ein-Dor, Roni Friedman-Melamed, Assaf Gavron, Ariel Gera, Martin Gleize, Shai Gretz, Dan Gutfreund, Alon Halfon, Daniel Hershcovich, Ron Hoory, Yufang Hou, Shay Hummel, Michal Jacovi, Charles Jochim, Yoav Kantor, Yoav Katz, David Konopnicki, Zvi Kons, Lili Kotlerman, Dalia Krieger, Dan Lahav, Tamar Lavee, Ran Levy, Naftali Liberman, Yosi Mass, Amir Menczel, Shachar Mirkin, Guy Moshkowich, Shila Ofek-Koifman, Matan Orbach, Ella Rabinovich, Ruty Rinott, Slava Shechtman, Dafna Sheinwald, Eyal Shnarch, Ilya Shnayderman, Aya Soffer, Artem Spector, Benjamin Sznajder, Assaf Toledo, Orith Toledo-Ronen, Elad Venezian, Ranit Aharonov.   
+In Nature, 2021    
+[[pdf]](https://www.nature.com/articles/s41586-021-03215-w) [[bib]](https://yufanghou.github.io/files/projectDebaterNature.bib)
+
 **Ensemble Graph Prediction for AMR Parsing**  
 Thanh Lam Hoang, Gabriele Picco, Yufang Hou, Young-Suk Lee, Lam M. Nguyen, Dzung T. Phan, Vanessa Lopez, Ramon Fernandez Astudillo.  
 In NeurIPS, 2021  
@@ -366,6 +415,12 @@ In AMIA Informatics Summit, 2019
 
 ### 2018 
 
+**Unrestricted Bridging Resolution**  
+Yufang Hou, Katja Markert, Michael Strube.  
+In Computational Linguistics, 2018  
+[[pdf]](https://aclanthology.org/J18-2002.pdf) [[bib]](https://aclanthology.org/J18-2002.bib)
+
+
 **Will it Blend? Blending Weak and Strong Labeled Data in a Neural Network for Argumentation Mining**  
 Eyal Shnarch, Carlos Alzate, Lena Dankin, Martin Gleize, Yufang Hou, Leshem Choshen, Ranit Aharonov, Noam Slonim.  
 In ACL, 2018  
@@ -375,7 +430,6 @@ In ACL, 2018
 Yufang Hou.  
 In EMNLP, 2018  
 [[pdf]](https://aclanthology.org/D18-1219.pdf) [[bib]](https://aclanthology.org/D18-1219.bib)
-
 
 **Enhanced Word Representations for Bridging Anaphora Resolution**  
 Yufang Hou.  
@@ -412,6 +466,10 @@ In TAC KBP, 2017
 [[pdf]](https://tac.nist.gov/publications/2017/participant.papers/TAC2017.coolcucumber.proceedings.pdf) [bib]
 
 ### 2016
+
+**Unrestricted Bridging Resolution**  
+Yufang Hou. PhD thesis, Heidelberg University, 2016  
+[[pdf]](http://archiv.ub.uni-heidelberg.de/volltextserver/20344/1/thesis.pdf) [[bib]](https://yufanghou.github.io/files/yufangThesis.bib)
 
 **Incremental Fine-grained Information Status Classification Using Attention-based LSTMs**  
 Yufang Hou.  
