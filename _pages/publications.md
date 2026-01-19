@@ -73,7 +73,7 @@ In arXiv, 2025
 ## Peer-reviewed Publications  
 
 ### 2026
-***Transforming scholarly landscapes: The influence of large language models on academic fields beyond computer science**  
+***Transforming scholarly landscapes: The Influence of Large Language Models on Academic Fields Beyond Computer Science**  
 Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
 In PLOS One, 2026  
 [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337127) [bib] 
