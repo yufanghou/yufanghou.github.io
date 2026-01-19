@@ -11,7 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-- Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims. Invited talk at he ATLAS seminar, the University of Manchester, 19 November, 2025.
+## 2026
+- When Knowledge Conflicts: Modeling Scientific Evidence Synthesis and Investigating Intra-Memory Conflict in Language Models. Invited talk at UKP Lab, TU-Darmstadt, 15 January, 2026.
+
+
+## 2025
+- Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims. Invited talk at the ATLAS seminar, the University of Manchester, 19 November, 2025.
 - Clarity from Complexity: Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims. Research talk at King's College London, 18 November, 2025.
 - Automated Reasoning for Scientific Knowledge Synthesis. Research talk at the workshop “The past, present, and future of the UKP Lab” in Cambridge, 17 November, 2025.
 - Clarity from Complexity: Automated Reasoning to Navigate Conflicting Scientific Evidence and Misleading Claims. Research talk at the Northeasten University NLP group, 23 October, 2025.  
@@ -24,6 +29,8 @@ author_profile: true
 - Automated Reasoning for Scientific Knowledge Synthesis and Claim Verification. Invited keynote at AIRoV 2025 (The Austrian Symposium on AI and Vision), 09 July, 2025.  
 - Empowering Science with AI: Building NLP Models for Scientific Knowledge Synthesis and Fact-checking. Invited talk at the Salzburg HCI Doctoral Consortium Week Winter 2024/2025, 25 February, 2025. 
 - Building NLP Models for Knowledge Synthesis and Dissemination [[YouTube link](https://www.youtube.com/watch?v=0RGLRmSyXRg)]. IT:U Inaugural Lecture, 4 February, 2025.  
+
+## 2024
 - The AI-Augmented Scientist: Building Computational Models for Effective Knowledge Synthesis and Dissemination. Invited talk at CLASP (The Centre for Linguistic Theory and Studies in Probability), University of Gothenburg, 23 October, 2024.  
 - WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia. Invited talk at the Monthly Wikimedia Research Showcase, 18 September, 2024.
 - Fact-checking Misrepresented Science and Evaluating LLMs on Real-world Knowledge Conflicts. Invited talk at the Second IBM AI Research Master-class Workshop in Trinity College Dublin, 6 September, 2024.
@@ -31,11 +38,15 @@ author_profile: true
 - Conference Panel: Argumentation Mining Research, LLMs and Beyond. The 1st International Conference on Robust Argumentation Machines, Bielefeld, June 6, 2024. 
 - Empowering Scientific Discovery and Communication: Leveraging Computational Models to Decode Scholarly Documents. Invited talk at the 1st International Conference on Robust Argumentation Machines, Bielefeld, June 6, 2024.
 - Bridging Resolution: Advancements and Challenges in the Era of Large Language Models. Invited talk at the Workshop on Anaphora and Predictability, Pompeu Fabra University, 29 April, 2024.
+
+## 2023
 - The Past and Future of Argument Mining. Invited panel discussion at the 10th workshop on Argument Mining (co-located with EMNLP 2023), 7 December, 2023.
 - Building Computational Models to Understand Scholarly Documents for Supporting Scientific Knowledge Discovery and Communication. Invited talk at the Computational Linguistics Colloquium, Heidelberg University, 14 November, 2023.
 - Building Computational Models to Understand Scholarly Documents for Supporting Scientific Knowledge Discovery and Communication. Invited talk at the First IBM AI Research Masterclass Workshop in Trinity College Dublin, 18 October, 2023.  
 - [Bridging Resolution: A Journey Towards Modelling Referential Discourse Entities](https://github.com/yufanghou/yufanghou.github.io/blob/master/files/Talk-Yufang_CODI_2023_v1.pdf). Invited talk at the 4th Workshop on Computational Approaches to Discourse, held in conjunction with ACL 2023, 13-14 July, 2023. 
-- Scientific Research Trend Analysis and Veracity Assessment for Scientific Claims. Invited talk at the IBM Neuro-Symbolic AI Workshop, 23 January, 2023.  
+- Scientific Research Trend Analysis and Veracity Assessment for Scientific Claims. Invited talk at the IBM Neuro-Symbolic AI Workshop, 23 January, 2023.
+
+## Before 2023
 - Building Computational Models to “Understand” (Process) Scholarly Documents. Dagstuhl Seminar 22432 - Towards a Unified Model of Scholarly Argumentation, 26 October, 2022. 
 - Building Computational Models for Discourse Analysis, Knowledge Discovery, and Decision-making. Invited talk at the Dublin City University NLP Seminar, 26 September 2022. 
 - Anaphora and Coreference Resolution. Invited tutorial at the LT Bridge Summer School, 31 May 2022.
