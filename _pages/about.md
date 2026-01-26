@@ -43,6 +43,12 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 01/2026 Two papers have been accepted at ICLR 2026.
+
+- 01/2026 I gave an invited talk at the HCAI&MMS group at the Institute of Computational Perception (Johannes Kepler University Linz).
+
+- 01/2026 I gave a guest lecturer "[AI-Assisted Scientific Evaluation: Automated Reasoning for Conflicting Evidence and Misleading Claims](https://w-k.sbg.ac.at/veranstaltung/ai-assisted-scientific-evaluation-automated-reasoning-for-conflicting-evidence-and-misleading-claims-yufang-hou/)" at Inter-University Organization Arts & Knowledges (the University of Salzburg and Mozarteum University).  
+
 - 01/2026 One paper was accepted at ICASSP 2026.
 
 - 01/2026 I visited UKP Lab at TU-Darmstadt and gave an talk on "When Knowledge Conflicts: Modeling Scientific Evidence Synthesis and Investigating Intra-Memory Conflict in Language Models".
