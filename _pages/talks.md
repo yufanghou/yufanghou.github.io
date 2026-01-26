@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ## 2026
+- AI-Assisted Scientific Evaluation: Automated Reasoning for Conflicting Evidence and Misleading Claims. Invited talk at the HCAI&MMS group at the Institute of Computational Perception (Johannes Kepler University Linz), 22 January, 2026.
+- AI-Assisted Scientific Evaluation: Automated Reasoning for Conflicting Evidence and Misleading Claims. Invited lecture at Inter-University Organization Arts & Knowledges (the University of Salzburg and Mozarteum University), 21 January, 2026.
 - When Knowledge Conflicts: Modeling Scientific Evidence Synthesis and Investigating Intra-Memory Conflict in Language Models. Invited talk at UKP Lab, TU-Darmstadt, 15 January, 2026.
 
 
