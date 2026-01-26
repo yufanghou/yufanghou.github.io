@@ -73,6 +73,17 @@ In arXiv, 2025
 ## Peer-reviewed Publications  
 
 ### 2026
+
+***PRISMM-Bench: A Benchmark of Peer-Review Grounded Multimodal Inconsistencies**  
+Lukas Selch, Yufang Hou, Muhammad Jehanzeb Mirza, Sivan Doveh, James R. Glass, Rogerio Feris, Wei Lin  
+In ICLR, 2026  
+[[pdf]](https://openreview.net/forum?id=mjkGXdgm4T&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))  
+
+***Seeing What’s Wrong: A Trajectory-Guided Approach to Caption Error Detection**  
+Gabriel Afriat, Ryan Lucas, Xiang Meng, Yufang Hou, Yada Zhu, Rahul Mazumder  
+In ICLR, 2026  
+[[pdf]](https://openreview.net/forum?id=73FGjnKu1P&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))  
+
 ***Transforming scholarly landscapes: The Influence of Large Language Models on Academic Fields Beyond Computer Science**  
 Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
 In PLOS One, 2026  
