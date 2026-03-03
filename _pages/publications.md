@@ -53,6 +53,13 @@ In Computational Linguistics, 2018
 -->
 
 ## Preprints 
+
+***Beyond Outcome Verification: Verifiable Process Reward Models for Structured Reasoning**  
+Massimiliano Pronesti, Anya Belz, Yufang Hou.   
+In arXiv, 2026  
+[[pdf]](https://arxiv.org/abs/2601.17223)
+
+
 ***Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models**  
 Minh Vu Pham, Hsuvas Borkakoty, Yufang Hou.  
 In arXiv, 2026  
