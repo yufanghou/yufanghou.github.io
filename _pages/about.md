@@ -43,7 +43,7 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
-- 02/2026 I attended ELLS Program Natural Language Processing Workshop 2026 and gave a talk "After Coding Agents Hit the 'Threshold of Coherence': Will We 'Program' Science Like Software?"
+- 02/2026 I attended ELLIS Program Natural Language Processing Workshop 2026 and gave a talk "After Coding Agents Hit the 'Threshold of Coherence': Will We 'Program' Science Like Software?"
 
 - 02/2026 I'll co-organize the workshop DocInsights (Workshop on Document Intelligence and Understanding, co-located at EMNLP 2026).
 
