@@ -13,7 +13,7 @@ author_profile: true
 - Best Paper Award Co-chair: IJCNLP-AACL 2025
 - Best Paper Award Committee: EMNLP 2025  
 - Visa Chair: EACL 2024  
-- Senior Area Chair: EMNLP 2022, EMNLP 2023, NAACL 2024, EMNLP 2024, NAACL 2025, ACL 2026  
+- Senior Area Chair: EMNLP 2022, EMNLP 2023, NAACL 2024, EMNLP 2024, NAACL 2025, ACL 2026, ARR 2026 March Cycle    
 - Area Chair: EACL 2021, INLG 2022, INLG 2023, ACL 2023, IJCNLP-AACL 2023, LREC-COLING 2024, EACL 2024, ACL 2024, COLING 2025, ACL 2025   
 - Senior PC: AAAI 2022, SIGDIAL 2022/2023
 - Summer School Organiser: [2025 IT:U NLP Summer School](https://it-u.at/en/itu-summer-school-2025-on-nlp/)  
