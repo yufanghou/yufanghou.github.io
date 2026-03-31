@@ -43,6 +43,11 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+
+- 03/2026 I co-presented a tutorial on "[AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://ai4science-tutorial.github.io/)" with other collaborators at EACL 2026.
+  
+- 03/2026 I will serve as a senior area chair at EMNLP 2026.
+
 - 02/2026 I attended ELLIS Program Natural Language Processing Workshop 2026 and gave a talk "After Coding Agents Hit the 'Threshold of Coherence': Will We 'Program' Science Like Software?"
 
 - 02/2026 I'll co-organize the workshop DocInsights (Workshop on Document Intelligence and Understanding, co-located at EMNLP 2026).
