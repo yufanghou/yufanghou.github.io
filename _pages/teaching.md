@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+- March 2026 Tutorial on "[AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://ai4science-tutorial.github.io/)", EACL2026 
+
 - December 2025 Introduction to Natual Language Processing (Lecture), IT:U Austria  
 
 - March 2025 Introduction to Natual Language Processing (Lecture), IT:U Austria  
