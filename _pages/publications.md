@@ -59,7 +59,6 @@ Massimiliano Pronesti, Anya Belz, Yufang Hou.
 In arXiv, 2026  
 [[pdf]](https://arxiv.org/abs/2601.17223)
 
-
 ***Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models**  
 Minh Vu Pham, Hsuvas Borkakoty, Yufang Hou.  
 In arXiv, 2026  
@@ -69,6 +68,11 @@ In arXiv, 2026
 Javier Carnerero-Cano, Massimiliano Pronesti, Radu Marinescu, Tigran Tchrakian, James Barry, Jasmina Gajcin, Yufang Hou, Alessandra Pascale, Elizabeth Daly.   
 In arXiv, 2026  
 [[pdf]](https://arxiv.org/abs/2601.11232)
+
+**LLMs as Science Journalists: Supporting Early-stage Researchers in Communicating Their Science to the Public**  
+Milad Alshomary, Grace Li, Anubhav Jangra, Yufang Hou, Kathleen McKeown, Smaranda Muresan  
+In arXiv, 2026  
+[[pdf]](https://arxiv.org/abs/2601.05821)  
 
 **Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation**  
 Steffen Eger, Yong Cao, Jennifer D'Souza, Andreas Geiger, Christian Greisinger, Stephanie Gross, Yufang Hou, Brigitte Krenn, Anne Lauscher, Yizhi Li, Chenghua Lin, Nafise Sadat Moosavi, Wei Zhao, Tristan Miller.    
