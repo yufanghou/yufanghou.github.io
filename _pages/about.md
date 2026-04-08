@@ -43,6 +43,7 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 04/2026 Three papers have been accepted at ACL 2026 Main Conference and Findings.
 
 - 03/2026 I co-presented a tutorial on "[AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://ai4science-tutorial.github.io/)" with other collaborators at EACL 2026.
   
