@@ -54,20 +54,10 @@ In Computational Linguistics, 2018
 
 ## Preprints 
 
-***Beyond Outcome Verification: Verifiable Process Reward Models for Structured Reasoning**  
-Massimiliano Pronesti, Anya Belz, Yufang Hou.   
-In arXiv, 2026  
-[[pdf]](https://arxiv.org/abs/2601.17223)
-
 ***Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models**  
 Minh Vu Pham, Hsuvas Borkakoty, Yufang Hou.  
 In arXiv, 2026  
 [[pdf]](https://arxiv.org/abs/2601.09445)
-
-**FactCorrector: A Graph-Inspired Approach to Long-Form Factuality Correction of Large Language Models**  
-Javier Carnerero-Cano, Massimiliano Pronesti, Radu Marinescu, Tigran Tchrakian, James Barry, Jasmina Gajcin, Yufang Hou, Alessandra Pascale, Elizabeth Daly.   
-In arXiv, 2026  
-[[pdf]](https://arxiv.org/abs/2601.11232)
 
 **LLMs as Science Journalists: Supporting Early-stage Researchers in Communicating Their Science to the Public**  
 Milad Alshomary, Grace Li, Anubhav Jangra, Yufang Hou, Kathleen McKeown, Smaranda Muresan  
@@ -84,6 +74,21 @@ In arXiv, 2025
 ## Peer-reviewed Publications  
 
 ### 2026
+
+**FactCorrector: A Graph-Inspired Approach to Long-Form Factuality Correction of Large Language Models**  
+Javier Carnerero-Cano, Massimiliano Pronesti, Radu Marinescu, Tigran Tchrakian, James Barry, Jasmina Gajcin, Yufang Hou, Alessandra Pascale, Elizabeth Daly.   
+In ACL, 2026  
+[[pdf]](https://arxiv.org/abs/2601.11232)
+
+***Beyond Outcome Verification: Verifiable Process Reward Models for Structured Reasoning**  
+Massimiliano Pronesti, Anya Belz, Yufang Hou.   
+In ACL Findings, 2026  
+[[pdf]](https://arxiv.org/abs/2601.17223)
+
+**A Multi-View Media Profiling Suite: Resources, Evaluation, and Analysis**  
+Muhammad Arslan Manzoor, Dilshod Azizov, Daniil Orel, Umer Siddique, Zain Muhammad Mujahid, Yufang Hou, Preslav Nakov  
+In ACL Findings, 2026  
+[pdf][bib]
 
 ***PRISMM-Bench: A Benchmark of Peer-Review Grounded Multimodal Inconsistencies**  
 Lukas Selch, Yufang Hou, Muhammad Jehanzeb Mirza, Sivan Doveh, James R. Glass, Rogerio Feris, Wei Lin  
