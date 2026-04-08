@@ -78,12 +78,12 @@ In arXiv, 2025
 **FactCorrector: A Graph-Inspired Approach to Long-Form Factuality Correction of Large Language Models**  
 Javier Carnerero-Cano, Massimiliano Pronesti, Radu Marinescu, Tigran Tchrakian, James Barry, Jasmina Gajcin, Yufang Hou, Alessandra Pascale, Elizabeth Daly.   
 In ACL, 2026  
-[[pdf]](https://arxiv.org/abs/2601.11232)
+[[pdf]](https://arxiv.org/abs/2601.11232)[bib]
 
 ***Beyond Outcome Verification: Verifiable Process Reward Models for Structured Reasoning**  
 Massimiliano Pronesti, Anya Belz, Yufang Hou.   
 In ACL Findings, 2026  
-[[pdf]](https://arxiv.org/abs/2601.17223)
+[[pdf]](https://arxiv.org/abs/2601.17223)[bib]
 
 **A Multi-View Media Profiling Suite: Resources, Evaluation, and Analysis**  
 Muhammad Arslan Manzoor, Dilshod Azizov, Daniil Orel, Umer Siddique, Zain Muhammad Mujahid, Yufang Hou, Preslav Nakov  
@@ -98,7 +98,7 @@ In ICLR, 2026
 ***Seeing What’s Wrong: A Trajectory-Guided Approach to Caption Error Detection**  
 Gabriel Afriat, Ryan Lucas, Xiang Meng, Yufang Hou, Yada Zhu, Rahul Mazumder  
 In ICLR, 2026  
-[[pdf]](https://openreview.net/forum?id=73FGjnKu1P&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))  
+[[pdf]](https://openreview.net/forum?id=73FGjnKu1P&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))[bib]  
 
 ***Transforming scholarly landscapes: The Influence of Large Language Models on Academic Fields Beyond Computer Science**  
 Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
