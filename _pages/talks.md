@@ -12,6 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## 2026
+- AI-Assisted Scientific Evaluation: Automated Reasoning for Conflicting Evidence and Misleading Claims. Invited keynote talk at Amazon StatML Workshop 2026, Berlin, 20 April, 2026.
 - After Coding Agents Hit the "Threshold of Coherence": Will We "Program" Science Like Software? Invited lightning talk at ELLIS Program NLP Workshop, Venice, 23 February, 2026. 
 - Conference Panel: AI in Innovation. The 8th Geography of Innovation Conference (GeoInno 2026), Budapest, 29 January, 2026.  
 - AI-Assisted Scientific Evaluation: Automated Reasoning for Conflicting Evidence and Misleading Claims. Invited talk at the HCAI&MMS group at the Institute of Computational Perception (Johannes Kepler University Linz), 22 January, 2026.
