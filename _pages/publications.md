@@ -64,16 +64,23 @@ Milad Alshomary, Grace Li, Anubhav Jangra, Yufang Hou, Kathleen McKeown, Smarand
 In arXiv, 2026  
 [[pdf]](https://arxiv.org/abs/2601.05821)  
 
-**Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation**  
-Steffen Eger, Yong Cao, Jennifer D'Souza, Andreas Geiger, Christian Greisinger, Stephanie Gross, Yufang Hou, Brigitte Krenn, Anne Lauscher, Yizhi Li, Chenghua Lin, Nafise Sadat Moosavi, Wei Zhao, Tristan Miller.    
-In arXiv, 2025  
-[[pdf]](https://arxiv.org/abs/2502.05151)  
+
 
 
 <!--## Conference/Workshop Papers -->
 ## Peer-reviewed Publications  
 
 ### 2026
+
+**Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation**  
+Steffen Eger, Yong Cao, Jennifer D'Souza, Andreas Geiger, Christian Greisinger, Stephanie Gross, Yufang Hou, Brigitte Krenn, Anne Lauscher, Yizhi Li, Chenghua Lin, Nafise Sadat Moosavi, Wei Zhao, Tristan Miller.    
+In ACM Computing Surveys, 2026  
+[[pdf]](https://arxiv.org/abs/2502.05151)  
+
+***AUTOFOREST: Automatically Generating Forest Plots from Biomedical Studies with End-to-End Evidence Extraction and Synthesis**  
+Massimiliano Pronesti, Angelo Miculescu, Mohsin Kapdi, Paul Flanagan, Oisín Redmond, Joao Bettencourt-Silva1, Gurdeep S. Mannu, Spiros Denaxas, Rui Bebiano Da Providencia E Costa, Anya Belz, Yufang Hou.   
+In ACL Demo Track, 2026  
+[[pdf]](https://arxiv.org/abs/2601.17223)[bib]
 
 **FactCorrector: A Graph-Inspired Approach to Long-Form Factuality Correction of Large Language Models**  
 Javier Carnerero-Cano, Massimiliano Pronesti, Radu Marinescu, Tigran Tchrakian, James Barry, Jasmina Gajcin, Yufang Hou, Alessandra Pascale, Elizabeth Daly.   
