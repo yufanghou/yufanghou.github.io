@@ -65,8 +65,6 @@ In arXiv, 2026
 [[pdf]](https://arxiv.org/abs/2601.05821)  
 
 
-
-
 <!--## Conference/Workshop Papers -->
 ## Peer-reviewed Publications  
 
@@ -80,7 +78,7 @@ In ACM Computing Surveys, 2026
 ***AUTOFOREST: Automatically Generating Forest Plots from Biomedical Studies with End-to-End Evidence Extraction and Synthesis**  
 Massimiliano Pronesti, Angelo Miculescu, Mohsin Kapdi, Paul Flanagan, Oisín Redmond, Joao Bettencourt-Silva1, Gurdeep S. Mannu, Spiros Denaxas, Rui Bebiano Da Providencia E Costa, Anya Belz, Yufang Hou.   
 In ACL Demo Track, 2026  
-[[pdf]](https://arxiv.org/abs/2601.17223)[bib]
+[pdf][bib][[Demo]](https://autoforest.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)  
 
 **FactCorrector: A Graph-Inspired Approach to Long-Form Factuality Correction of Large Language Models**  
 Javier Carnerero-Cano, Massimiliano Pronesti, Radu Marinescu, Tigran Tchrakian, James Barry, Jasmina Gajcin, Yufang Hou, Alessandra Pascale, Elizabeth Daly.   
