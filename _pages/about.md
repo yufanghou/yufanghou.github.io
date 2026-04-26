@@ -43,7 +43,11 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
-- 04/2024 I gave a keynote on "AI-Assisted Scientific Evaluation" at Amazon StatML Workshop 2026.
+- 04/2026 Our paper "[AutoForest](https://autoforest.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)" has been accepted at the ACL 2026 demo track!
+
+- 04/2026 Our survey paper on "Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation" has been accepted at ACM Computing Surveys!
+
+- 04/2026 I gave a keynote on "AI-Assisted Scientific Evaluation" at Amazon StatML Workshop 2026.
 
 - 04/2026 Three papers have been accepted at ACL 2026 Main Conference and Findings.
 
