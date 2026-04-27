@@ -60,7 +60,7 @@ In arXiv, 2026
 [[pdf]](https://arxiv.org/abs/2601.09445)
 
 **LLMs as Science Journalists: Supporting Early-stage Researchers in Communicating Their Science to the Public**  
-Milad Alshomary, Grace Li, Anubhav Jangra, Yufang Hou, Kathleen McKeown, Smaranda Muresan  
+Milad Alshomary, Grace Li, Anubhav Jangra, Yufang Hou, Kathleen McKeown, Smaranda Muresan.  
 In arXiv, 2026  
 [[pdf]](https://arxiv.org/abs/2601.05821)  
 
@@ -91,17 +91,17 @@ In ACL Findings, 2026
 [[pdf]](https://arxiv.org/abs/2601.17223)[bib]
 
 **A Multi-View Media Profiling Suite: Resources, Evaluation, and Analysis**  
-Muhammad Arslan Manzoor, Dilshod Azizov, Daniil Orel, Umer Siddique, Zain Muhammad Mujahid, Yufang Hou, Preslav Nakov  
+Muhammad Arslan Manzoor, Dilshod Azizov, Daniil Orel, Umer Siddique, Zain Muhammad Mujahid, Yufang Hou, Preslav Nakov.  
 In ACL Findings, 2026  
 [pdf][bib]
 
 ***PRISMM-Bench: A Benchmark of Peer-Review Grounded Multimodal Inconsistencies**  
-Lukas Selch, Yufang Hou, Muhammad Jehanzeb Mirza, Sivan Doveh, James R. Glass, Rogerio Feris, Wei Lin  
+Lukas Selch, Yufang Hou, Muhammad Jehanzeb Mirza, Sivan Doveh, James R. Glass, Rogerio Feris, Wei Lin.  
 In ICLR, 2026  
 [[pdf]](https://openreview.net/forum?id=mjkGXdgm4T&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))  
 
 ***Seeing What’s Wrong: A Trajectory-Guided Approach to Caption Error Detection**  
-Gabriel Afriat, Ryan Lucas, Xiang Meng, Yufang Hou, Yada Zhu, Rahul Mazumder  
+Gabriel Afriat, Ryan Lucas, Xiang Meng, Yufang Hou, Yada Zhu, Rahul Mazumder.  
 In ICLR, 2026  
 [[pdf]](https://openreview.net/forum?id=73FGjnKu1P&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))[bib]  
 
