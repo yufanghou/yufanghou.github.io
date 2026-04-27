@@ -75,8 +75,8 @@ Steffen Eger, Yong Cao, Jennifer D'Souza, Andreas Geiger, Christian Greisinger, 
 In ACM Computing Surveys, 2026  
 [[pdf]](https://arxiv.org/abs/2502.05151)  
 
-***AUTOFOREST: Automatically Generating Forest Plots from Biomedical Studies with End-to-End Evidence Extraction and Synthesis**  
-Massimiliano Pronesti, Angelo Miculescu, Mohsin Kapdi, Paul Flanagan, Oisín Redmond, Joao Bettencourt-Silva1, Gurdeep S. Mannu, Spiros Denaxas, Rui Bebiano Da Providencia E Costa, Anya Belz, Yufang Hou.   
+***AutoForest: Automatically Generating Forest Plots from Biomedical Studies with End-to-End Evidence Extraction and Synthesis**  
+Massimiliano Pronesti, Angelo Miculescu, Mohsin Kapdi, Paul Flanagan, Oisín Redmond, Joao Bettencourt-Silva, Gurdeep S. Mannu, Spiros Denaxas, Rui Bebiano Da Providencia E Costa, Anya Belz, Yufang Hou.   
 In ACL Demo Track, 2026  
 [pdf][bib][[Demo]](https://autoforest.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)  
 
