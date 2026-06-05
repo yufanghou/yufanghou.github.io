@@ -53,6 +53,26 @@ In Computational Linguistics, 2018
 -->
 
 ## Preprints 
+***Who Annotates in NLP? A Large-scale Assessment of Human Annotation Reporting between 2018 and 2025**  
+Maria Kunilovskaya, Gagan Bhatia, Lisa Sophie Albertelli, Yanran Chen, Christian Greisinger, Lotta Kiefer, Christoph Leiter, Subhadeep Roy, Tewodros Achamaleh, Muhammad Arslan Manzoor, Sebastian Pohl, Yufang Hou, Steffen Eger.  
+In arXiv, 2026  
+[[pdf]](https://arxiv.org/abs/2606.02255)  
+
+
+***Instructions Shape Production of Language, not Processing**  
+Andreas Waldis, Leshem Choshen, Yufang Hou, Yotam Perlit.  
+In arXiv, 2026  
+[[pdf]](https://arxiv.org/pdf/2605.11206) 
+
+***DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain**  
+Hsuvas Borkakoty, Sebastian Pohl, Cheng Wang, Bei Chen, Yufang Hou.  
+In arXiv, 2026  
+[[pdf]](https://arxiv.org/abs/2605.07699)
+
+***ClaimFlow: Tracing the Evolution of Scientific Claims in NLP**  
+Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
+In arXiv, 2026  
+[[pdf]](https://arxiv.org/abs/2603.16073)
 
 ***Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models**  
 Minh Vu Pham, Hsuvas Borkakoty, Yufang Hou.  
@@ -78,7 +98,7 @@ In ACM Computing Surveys, 2026
 ***AutoForest: Automatically Generating Forest Plots from Biomedical Studies with End-to-End Evidence Extraction and Synthesis**  
 Massimiliano Pronesti, Angelo Miculescu, Mohsin Kapdi, Paul Flanagan, Oisín Redmond, Joao Bettencourt-Silva, Gurdeep S. Mannu, Spiros Denaxas, Rui Bebiano Da Providencia E Costa, Anya Belz, Yufang Hou.   
 In ACL Demo Track, 2026  
-[pdf][bib][[Demo]](https://autoforest.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)  
+[[pdf]](https://arxiv.org/abs/2606.02403)[bib][[Demo]](https://autoforest.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)  
 
 **FactCorrector: A Graph-Inspired Approach to Long-Form Factuality Correction of Large Language Models**  
 Javier Carnerero-Cano, Massimiliano Pronesti, Radu Marinescu, Tigran Tchrakian, James Barry, Jasmina Gajcin, Yufang Hou, Alessandra Pascale, Elizabeth Daly.   
