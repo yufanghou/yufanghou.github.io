@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Note: * indicates the papers that I closely supervised for the first student author(s).
+Note: * indicates the papers for which I closely supervised the student first author(s).
 
 <!--
 ## PhD Thesis
