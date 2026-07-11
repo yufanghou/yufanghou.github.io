@@ -45,6 +45,8 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 - 07/2026 I'll co-organize KEIR 2026 (the third workshop on Knowledge-Enhanced Information Retrieval, co-located at CIKM 2026).
 
+- 07/2026 I'll co-organize AIASci 2026 (End-to-End Research Workflow, Methods, and Applications for AI-Assisted Science, co-located at AIAS 2026).
+
 - 07/2026 I received the Outstanding Senior Area Chair Award at ACL 2026.
 
 - 06/2026 I gave an invited talk "Rethinking the Scientific Workflow in the Age of LLMs" at [Integrated Computational Materials, Process and Product Engineering Conference (IC-MPPE 2026)](https://www.ic-mppe2026.org/).
