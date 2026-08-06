@@ -43,7 +43,7 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
-- 08/2026 I will serve as a senior area chair at EACL 2027.
+- 08/2026 I will serve as a senior area chair at EACL 2027. 
 
 - 07/2026 I'll co-organize [KEIR 2026 (the third workshop on Knowledge-Enhanced Information Retrieval, co-located at CIKM 2026)](https://keir-workshop.github.io/).
 
