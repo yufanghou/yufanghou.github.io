@@ -53,26 +53,11 @@ In Computational Linguistics, 2018
 -->
 
 ## Preprints 
-***Who Annotates in NLP? A Large-scale Assessment of Human Annotation Reporting between 2018 and 2025**  
-Maria Kunilovskaya, Gagan Bhatia, Lisa Sophie Albertelli, Yanran Chen, Christian Greisinger, Lotta Kiefer, Christoph Leiter, Subhadeep Roy, Tewodros Achamaleh, Muhammad Arslan Manzoor, Sebastian Pohl, Yufang Hou, Steffen Eger.  
-In arXiv, 2026  
-[[pdf]](https://arxiv.org/abs/2606.02255)  
-
 
 ***Instructions Shape Production of Language, not Processing**  
 Andreas Waldis, Leshem Choshen, Yufang Hou, Yotam Perlit.  
 In arXiv, 2026  
 [[pdf]](https://arxiv.org/pdf/2605.11206) 
-
-***DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain**  
-Hsuvas Borkakoty, Sebastian Pohl, Cheng Wang, Bei Chen, Yufang Hou.  
-In arXiv, 2026  
-[[pdf]](https://arxiv.org/abs/2605.07699)
-
-***ClaimFlow: Tracing the Evolution of Scientific Claims in NLP**  
-Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
-In arXiv, 2026  
-[[pdf]](https://arxiv.org/abs/2603.16073)
 
 ***Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models**  
 Minh Vu Pham, Hsuvas Borkakoty, Yufang Hou.  
@@ -89,6 +74,25 @@ In arXiv, 2026
 ## Peer-reviewed Publications  
 
 ### 2026
+
+***ClaimFlow: Tracing the Evolution of Scientific Claims in NLP**  
+Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
+In EMNLP, 2026  
+[[pdf]](https://arxiv.org/abs/2603.16073)
+
+***Who Annotates in NLP? A Large-scale Assessment of Human Annotation Reporting between 2018 and 2025**  
+Maria Kunilovskaya, Gagan Bhatia, Lisa Sophie Albertelli, Yanran Chen, Christian Greisinger, Lotta Kiefer, Christoph Leiter, Subhadeep Roy, Tewodros Achamaleh, Muhammad Arslan Manzoor, Sebastian Pohl, Yufang Hou, Steffen Eger.  
+In EMNLP, 2026  
+[[pdf]](https://arxiv.org/abs/2606.02255)  
+
+***DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain**  
+Hsuvas Borkakoty, Sebastian Pohl, Cheng Wang, Bei Chen, Yufang Hou.  
+In EMNLP Findings, 2026  
+[[pdf]](https://arxiv.org/abs/2605.07699)
+
+***Contradictory Evidence in LLMs: Tracing Internal Conflict Behavior with White-Box Signals**  
+Passant Elchafei, Ali Monshizadehkamkar, Shahed Masoudian, Monorama Swain, Yufang Hou, Markus Schedl.  
+In EMNLP Findings, 2026
 
 **Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation**  
 Steffen Eger, Yong Cao, Jennifer D'Souza, Andreas Geiger, Christian Greisinger, Stephanie Gross, Yufang Hou, Brigitte Krenn, Anne Lauscher, Yizhi Li, Chenghua Lin, Nafise Sadat Moosavi, Wei Zhao, Tristan Miller.    
