@@ -43,6 +43,8 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 09/2026 I gave an invited talk "Rethinking the Scientific Workflow in the Age of LLMs: Evidence Synthesis for Medicine and Beyond" at [3rd International Workshop on Machine Learning and Quantum Computing Applications in Medicine and Physics (WMLQ2026)](https://events.ncbj.gov.pl/event/468/).
+
 - 08/2026 Five papers have been accepted at EMNLP 2026 Main Conference and Findings.
 
 - 08/2026 I will serve as a senior area chair at EACL 2027 and NAACL 2027. 
