@@ -75,6 +75,11 @@ In arXiv, 2026
 
 ### 2026
 
+***Mental Health AI Must Move Beyond Diagnostic Prediction and Chat-Based Support: Toward Perspective-Aware, Multisensory Co-Experience**  
+Pinyao Liu, Esen K. Tütüncü, Muhammad Arslan Manzoor, Yufang Hou, Chirag Raman.  
+In NeurISP Position Track, 2026  
+[pdf]
+
 ***ClaimFlow: Tracing the Evolution of Scientific Claims in NLP**  
 Aniket Pramanick, Yufang Hou, Saif M. Mohammad, Iryna Gurevych.  
 In EMNLP, 2026  
