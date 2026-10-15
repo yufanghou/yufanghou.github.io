@@ -12,6 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## 2026
+- From Faster Science to Better Science: The Role of AI. Invited keynote at AI in Science Summit 2026 (AIS26), Dublin, Ireland, October 15, 2026.  
 - Rethinking the Scientific Workflow in the Age of LLMs: Evidence Synthesis for Medicine and Beyond. Invited talk at 3rd International Workshop on Machine Learning and Quantum Computing Applications in Medicine and Physics (WMLQ2026), Warsaw, Poland, September 10, 2026. 
 - Rethinking the Scientific Workflow in the Age of LLMs. Invited talk at Integrated Computational Materials, Process and Product Engineering Conference (IC-MPPE 2026), Leoben, Austria, June 17, 2026. 
 - Synthesizing Scientific Knowledge: From Biomedical Evidence to NLP Claims. Invited keynote the 3rd International Workshop on Natural Scientific Language Processing (NSLP 2026, Co-located with LREC 2026), Palma de Mallorca, Spain, 12 May, 2026.  
