@@ -43,6 +43,8 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 10/2026 I gave a keynote "From Faster Science to Better Science: The Role of AI" at [AI in Science Summit 2026 (AIS26)](https://www.ais26.eu/).
+
 - 09/2026 Our position paper "Mental Health AI Must Move Beyond Diagnostic Prediction and Chat-Based Support: Toward Perspective-Aware, Multisensory Co-Experience" has been accepted at NeurIPS 2026.
 
 - 09/2026 I gave an invited talk "Rethinking the Scientific Workflow in the Age of LLMs: Evidence Synthesis for Medicine and Beyond" at [3rd International Workshop on Machine Learning and Quantum Computing Applications in Medicine and Physics (WMLQ2026)](https://events.ncbj.gov.pl/event/468/).
