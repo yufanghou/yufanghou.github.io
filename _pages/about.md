@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a professor for Natural Language Processing at [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/). I'm also a research scientist at [IBM Research Europe - Ireland](https://research.ibm.com/labs/ireland). Previously, I was an adjunct senior lecturer, visiting professor and co-supervisor at [UKP Lab-TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp). 
-
+I'm a professor for Natural Language Processing at [IT:U - Interdisciplinary Transformation University Austria](https://it-u.at/en/). I'm also a research scientist at [IBM Research Europe - Ireland](https://research.ibm.com/labs/ireland). At IT:U, I lead the NLP group with a strong focus on large language model (LLM) governance, cross-document NLP, argument mining and fact-checking, knowledge representation and reasoning, and human-centred NLP applications for scientific discovery, health, and education. The broad research goal of the IT:U NLP Lab is to develop robust and trustworthy NLP technologies to improve human-AI and human-human interactions, and to solve real-world problems. 
+<!-- Previously, I was an adjunct senior lecturer, visiting professor and co-supervisor at [UKP Lab-TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp). -->
 <!--I have a strong background in discourse processing, computational argumentation, fact-checking, scholarly document processing, and information extraction. -->
-
-At IT:U, I lead the NLP group with a strong focus on large language model (LLM) governance, cross-document NLP, argument mining and fact-checking, knowledge representation and reasoning, and human-centred NLP applications for scientific discovery, health, and education. The broad research goal of the IT:U NLP Lab is to develop robust and trustworthy NLP technologies to improve human-AI and human-human interactions, and to solve real-world problems.
+<!-- At IT:U, I lead the NLP group with a strong focus on large language model (LLM) governance, cross-document NLP, argument mining and fact-checking, knowledge representation and reasoning, and human-centred NLP applications for scientific discovery, health, and education. The broad research goal of the IT:U NLP Lab is to develop robust and trustworthy NLP technologies to improve human-AI and human-human interactions, and to solve real-world problems. -->
 
 
 {% include base_path %}
