@@ -1,2 +1,5 @@
 _site/
 
+# Keep original group photos and editing drafts locally; commit optimized copies.
+/images/group activities/
+

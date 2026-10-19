@@ -141,6 +141,7 @@ exclude:
   - assets/js/vendor
   - config
   - gulpfile.js
+  - "images/group activities"
   - log
   - node_modules
   - package.json
