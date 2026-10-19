@@ -16,7 +16,7 @@ photos:
     height: 1045
   - image: "retreat1.webp"
     preview: "retreat1.webp"
-    caption: "Research retreat at Speinshart · February 2026"
+    caption: "Research retreat in Speinshart with UTN’s NLLG lab · February 2026"
     width: 1200
     height: 851
   - image: "la-ruffa-2025-natural.webp"
@@ -26,7 +26,7 @@ photos:
     height: 900
   - image: "retreat2.webp"
     preview: "retreat2.webp"
-    caption: "Research retreat at Speinshart · February 2026"
+    caption: "Research retreat in Speinshart with UTN’s NLLG lab · February 2026"
     width: 803
     height: 1200
   - image: "20260220_103653.webp"
