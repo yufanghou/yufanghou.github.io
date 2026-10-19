@@ -17,10 +17,8 @@ author_profile: true
 - Minh Vu Pham (PhD student, IT:U Austria)
 - Debanjana Kar (PhD student, IT:U Austria)
 - Abdul Ghafoor (PhD student, IT:U Austria)
-- Sebastian Pohl (Incoming PhD student, IT:U Austria)
-- Massimiliano Pronesti (PhD student from the pre-doc program between IBM Reseasrch Ireland and Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
-- Paul Flanagan (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
-- Oisín Redmond (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
+- Sebastian Pohl (PhD student, IT:U Austria)
+- Massimiliano Pronesti (PhD student from the pre-doc program between IBM Reseasrch Ireland and Dublin City University, Ireland; co-supervise with Prof. Anya Belz)  
 
 **PhD students (Co-)supervised**
 - 2022-2025 Andreas Waldis (PhD student from Lucerne University of Applied Sciences and Arts, Switzerland; co-supervised with Prof. Iryna Gurevych)
@@ -30,11 +28,17 @@ author_profile: true
 - 2021-2023 Hideo Kobayashi (PhD student from University of Texas at Dallas; co-supervised with Prof. Vincent Ng)
 
 **Master/bachelor students (Co-)supervised**  
+- 2025-2026 Angelo Miculescu (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
+- 2025-2026 Mohsin Kapdi (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
+- 2024-2025 Paul Flanagan (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
+- 2024-2025 Oisín Redmond (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
 - 2023-2024 James O'Doherty (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
 - 2023-2024 Cian Nolan (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
-- 2023 Viet Pham (Bachelor student from Stuttgart University, Germany; co-supervise with Dr. )
+- 2023 Viet Pham (Bachelor student from Stuttgart University, Germany; co-supervise with Dr. Peru Bhardwaj). 
+
 
 **Intern students (Co-)supervised**  
+- 2026 Tewodros Achamaleh (Master student from Instituto Politécnico Nacional, México). 
 - 2023 Myles Foley (PhD student from Imperial College London, UK)
 - 2022-2023 Martin Funkquist (Intern student from Technical University Darmstadt, Germany)
 - 2021-2023 Ronald Cardenas (PhD student from University of Edinburgh)
