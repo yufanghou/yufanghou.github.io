@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+**Pictures from our group activities**
+
 **Current Group Members**
 - Hsuvas Borkakoty (PostDoc, IT:U Austria)
 - Muhammad Arslan Manzoo (PostDoc, IT:U Austria)
