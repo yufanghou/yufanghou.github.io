@@ -25,8 +25,8 @@ author_profile: true
 **PhD students (Co-)supervised**
 - 2022-2025 [Andreas Waldis](https://tresiwald.github.io/) (PhD student from Lucerne University of Applied Sciences and Arts, Switzerland; co-supervised with Prof. Iryna Gurevych; now Postdoctoral Researcher and Junior Group Lead at the University of Tübingen)
 - 2022-2025 [Max Glockner](https://scholar.google.com/citations?user=w4sHiMMAAAAJ) (PhD student from Technical University Darmstadt, Germany; co-supervised with Prof. Iryna Gurevych and Prof. Preslav Nakov; now Applied Scientist at Amazon)
-- 2022-2025 [Aniket Pramanick](https://aniket-pramanick.github.io/) (PhD student from Technical University Darmstadt, Germany; co-supervised with Prof. Iryna Gurevych and Dr. Saif M. Mohammad; now Visiting Research Scientist at NEC Laboratories Europe and PhD candidate at TU Darmstadt)
-- 2022-2024 [Furkan Sahinuc](https://furkansahinuc.github.io/) (PhD student from Technical University Darmstadt, Germany; co-supervised with Prof. Iryna Gurevych; now Doctoral Researcher at TU Darmstadt)
+- 2022-2025 [Aniket Pramanick](https://aniket-pramanick.github.io/) (PhD student from Technical University Darmstadt, Germany; co-supervised with Prof. Iryna Gurevych and Dr. Saif M. Mohammad; now Visiting Research Scientist at NEC Laboratories Europe)
+- 2022-2024 [Furkan Sahinuc](https://furkansahinuc.github.io/) (PhD student from Technical University Darmstadt, Germany; co-supervised with Prof. Iryna Gurevych)
 - 2021-2023 [Hideo Kobayashi](https://scholar.google.com/citations?user=tKAAcocAAAAJ) (PhD student from University of Texas at Dallas; co-supervised with Prof. Vincent Ng; now Applied Scientist at AWS AI Labs)
 
 **Master/bachelor students (Co-)supervised**  
@@ -36,11 +36,11 @@ author_profile: true
 - 2024-2025 Oisín Redmond (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz; now Machine Learning Researcher/Engineer at ZAZU Systems)
 - 2023-2024 James O'Doherty (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz; now Senior Innovation Lawyer at Arthur Cox LLP)
 - 2023-2024 Cian Nolan (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz; now at Bord Gáis Energy)
-- 2023 Viet Pham (Bachelor student from Stuttgart University, Germany; co-supervise with Dr. Peru Bhardwaj; now Master's student at the University of Tübingen, Working Student at Robert Bosch GmbH, and Founding Engineer at Medora Care).
+- 2023 Viet Pham (Bachelor student from Stuttgart University, Germany; co-supervise with Dr. Peru Bhardwaj; now Master's student at the University of Tübingen).
 
 
 **Intern students (Co-)supervised**  
-- 2026 [Tewodros Achamaleh](https://scholar.google.com/citations?user=vODJs98AAAAJ) (Master student from Instituto Politécnico Nacional, México; now Master's student in Computer Science at Instituto Politécnico Nacional).
+- 2026 [Tewodros Achamaleh](https://scholar.google.com/citations?user=vODJs98AAAAJ) (Master student from Instituto Politécnico Nacional, México; now PhD student in Computer Science at Instituto Politécnico Nacional).
 - 2023 [Myles Foley](https://mlf20.github.io/) (PhD student from Imperial College London, UK; now Computer Scientist at Belmont Lansdown)
 - 2022-2023 [Martin Funkquist](https://mrlab.ai/martin-funkquist/) (Intern student from Technical University Darmstadt, Germany; now PhD student at Linköping University)
 - 2021-2023 [Ronald Cardenas](https://ronaldahmed.github.io/) (PhD student from University of Edinburgh; now at JPMorganChase)
