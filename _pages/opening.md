@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "Opening"
+# title: "Opening"
+title: "Openings"
 permalink: /opening/
 author_profile: true
 ---
