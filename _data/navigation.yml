@@ -12,7 +12,8 @@ main:
   - title: "Service"
     url: /service/
         
-  - title: "Mentoring"
+  # - title: "Mentoring"
+  - title: "Team"
     url: /mentoring/
 
   - title: "Teaching"
