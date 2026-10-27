@@ -1,5 +1,5 @@
 # Current group members. Portraits are optimized copies of the lab-site photos,
-# except Abdul's and Sebastian's, which come from their Google Scholar profiles.
+# except Abdul's, Sebastian's, and Avishek's, which come from Google Scholar.
 - name: "Hsuvas Borkakoty"
   url: "https://hsuvas.wixsite.com/hsuvas"
   image: "hsuvas-borkakoty.webp"
@@ -42,5 +42,23 @@
   url: "https://research.ibm.com/people/massimiliano-pronesti"
   image: "massimiliano-pronesti.webp"
   role: "PhD student"
-  affiliation: "IBM Research Ireland / Dublin City University, Ireland"
-  note: "Pre-doc programme; co-supervised with Prof. Anya Belz."
+  # affiliation: "IBM Research Ireland / Dublin City University, Ireland"
+  affiliation: "IBM Research Ireland / DCU"
+  # note: "Pre-doc programme; co-supervised with Prof. Anya Belz."
+  note: "Co-supervised with Anya Belz"
+
+- name: "Moritz John"
+  # Photo supplied in chat; saved as lossless WebP.
+  image: "moritz-john.webp"
+  role: "Master's student"
+  affiliation: "IT:U Austria"
+
+- name: "Avishek Lahiri"
+  url: "https://scholar.google.com/citations?user=yBXIpkAAAAAJ&hl=en"
+  image: "avishek-lahiri.webp"
+  # Photo source: https://scholar.google.com/citations?user=yBXIpkAAAAAJ&hl=en
+  # role: "Incoming visiting researcher"
+  role: "Visiting researcher"
+  affiliation: "IT:U Austria"
+  # note: "Ernst Mach scholar (OeAD) · 3 months"
+  note: "Ernst Mach scholar (OeAD)"

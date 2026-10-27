@@ -12,7 +12,10 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- **[Pictures from our group activities]({{ base_path }}/group-activities/)** -->
+
 **[Pictures from our group activities]({{ base_path }}/group-activities/)**
+{: .text-center}
 
 <!-- **Current Group Members** -->
 
@@ -32,10 +35,13 @@ author_profile: true
 <div class="team-members">
   {% for member in site.data.team %}
   <div class="team-member">
+    {% if member.image and member.image != empty %}
     <img class="team-member__photo" src="{{ base_path }}/images/team/{{ member.image | uri_escape }}"
          width="96" height="96" aria-hidden="true" loading="lazy" decoding="async">
+    {% endif %}
     <div class="team-member__info">
-      <h3 class="team-member__name"><a href="{{ member.url | escape }}">{{ member.name | escape }}</a></h3>
+      {% comment %}<h3 class="team-member__name"><a href="{{ member.url | escape }}">{{ member.name | escape }}</a></h3>{% endcomment %}
+      <h3 class="team-member__name">{% if member.url and member.url != empty %}<a href="{{ member.url | escape }}">{{ member.name | escape }}</a>{% else %}{{ member.name | escape }}{% endif %}</h3>
       <p class="team-member__role">{{ member.role | escape }}</p>
       <p class="team-member__affiliation">{{ member.affiliation | escape }}</p>
       {% if member.note %}<p class="team-member__note">{{ member.note | escape }}</p>{% endif %}
@@ -44,14 +50,20 @@ author_profile: true
   {% endfor %}
 </div>
 
-**PhD students (Co-)supervised**
+<!-- **PhD students (Co-)supervised** -->
+
+## PhD students (Co-)supervised
+
 - 2022-2025 [Andreas Waldis](https://tresiwald.github.io/) (PhD student from Lucerne University of Applied Sciences and Arts, Switzerland; co-supervised with Prof. Iryna Gurevych; now Postdoctoral Researcher and Junior Group Lead at the University of Tübingen)
 - 2022-2025 [Max Glockner](https://scholar.google.com/citations?user=w4sHiMMAAAAJ) (PhD student from Technical University Darmstadt, Germany; co-supervised with Prof. Iryna Gurevych and Prof. Preslav Nakov; now Applied Scientist at Amazon)
 - 2022-2025 [Aniket Pramanick](https://aniket-pramanick.github.io/) (PhD student from Technical University Darmstadt, Germany; co-supervised with Prof. Iryna Gurevych and Dr. Saif M. Mohammad; now Visiting Research Scientist at NEC Laboratories Europe)
 - 2022-2024 [Furkan Sahinuc](https://furkansahinuc.github.io/) (PhD student from Technical University Darmstadt, Germany; co-supervised with Prof. Iryna Gurevych)
 - 2021-2023 [Hideo Kobayashi](https://scholar.google.com/citations?user=tKAAcocAAAAJ) (PhD student from University of Texas at Dallas; co-supervised with Prof. Vincent Ng; now Applied Scientist at AWS AI Labs)
 
-**Master/bachelor students (Co-)supervised**  
+<!-- **Master/bachelor students (Co-)supervised** -->
+
+## Master/bachelor students (Co-)supervised
+
 - 2025-2026 Angelo Miculescu (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz; now at AIB)
 - 2025-2026 Mohsin Kapdi (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
 - 2024-2025 Paul Flanagan (Master student from Dublin City University, Ireland; co-supervise with Prof. Anya Belz; now Associate Software Engineer at Red Hat)
@@ -61,7 +73,10 @@ author_profile: true
 - 2023 Viet Pham (Bachelor student from Stuttgart University, Germany; co-supervise with Dr. Peru Bhardwaj; now Master's student at the University of Tübingen).
 
 
-**Intern students (Co-)supervised**  
+<!-- **Intern students (Co-)supervised** -->
+
+## Intern students (Co-)supervised
+
 - 2026 [Tewodros Achamaleh](https://scholar.google.com/citations?user=vODJs98AAAAJ) (Master student from Instituto Politécnico Nacional, México; now PhD student in Computer Science at Instituto Politécnico Nacional).
 - 2023 [Myles Foley](https://mlf20.github.io/) (PhD student from Imperial College London, UK; now Computer Scientist at Belmont Lansdown)
 - 2022-2023 [Martin Funkquist](https://mrlab.ai/martin-funkquist/) (Intern student from Technical University Darmstadt, Germany; now PhD student at Linköping University)
