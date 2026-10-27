@@ -14,7 +14,12 @@ author_profile: true
 
 **[Pictures from our group activities]({{ base_path }}/group-activities/)**
 
-**Current Group Members**
+<!-- **Current Group Members** -->
+
+## Current Group Members
+{: #current-group-members}
+
+{% comment %}
 - [Hsuvas Borkakoty](https://hsuvas.wixsite.com/hsuvas) (PostDoc, IT:U Austria)
 - [Muhammad Arslan Manzoo](https://marslanm.github.io/) (PostDoc, IT:U Austria)
 - [Minh Vu Pham](https://scholar.google.com/citations?user=lgpcX8IAAAAJ&hl=en) (PhD student, IT:U Austria)
@@ -22,6 +27,22 @@ author_profile: true
 - [Abdul Ghafoor](https://scholar.google.com/citations?user=IU_Z_i0AAAAJ) (PhD student, IT:U Austria)
 - [Sebastian Pohl](https://onesebastian.github.io/) (PhD student, IT:U Austria)
 - [Massimiliano Pronesti](https://research.ibm.com/people/massimiliano-pronesti) (PhD student from the pre-doc program between IBM Reseasrch Ireland and Dublin City University, Ireland; co-supervise with Prof. Anya Belz)
+{% endcomment %}
+
+<div class="team-members">
+  {% for member in site.data.team %}
+  <div class="team-member">
+    <img class="team-member__photo" src="{{ base_path }}/images/team/{{ member.image | uri_escape }}"
+         width="96" height="96" aria-hidden="true" loading="lazy" decoding="async">
+    <div class="team-member__info">
+      <h3 class="team-member__name"><a href="{{ member.url | escape }}">{{ member.name | escape }}</a></h3>
+      <p class="team-member__role">{{ member.role | escape }}</p>
+      <p class="team-member__affiliation">{{ member.affiliation | escape }}</p>
+      {% if member.note %}<p class="team-member__note">{{ member.note | escape }}</p>{% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
 
 **PhD students (Co-)supervised**
 - 2022-2025 [Andreas Waldis](https://tresiwald.github.io/) (PhD student from Lucerne University of Applied Sciences and Arts, Switzerland; co-supervised with Prof. Iryna Gurevych; now Postdoctoral Researcher and Junior Group Lead at the University of Tübingen)

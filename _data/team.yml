@@ -1,0 +1,46 @@
+# Current group members. Portraits are optimized copies of the lab-site photos,
+# except Abdul's and Sebastian's, which come from their Google Scholar profiles.
+- name: "Hsuvas Borkakoty"
+  url: "https://hsuvas.wixsite.com/hsuvas"
+  image: "hsuvas-borkakoty.webp"
+  role: "Postdoctoral researcher"
+  affiliation: "IT:U Austria"
+
+- name: "Muhammad Arslan Manzoor"
+  url: "https://marslanm.github.io/"
+  image: "muhammad-arslan-manzoor.webp"
+  role: "Postdoctoral researcher"
+  affiliation: "IT:U Austria"
+
+- name: "Minh Vu Pham"
+  url: "https://scholar.google.com/citations?user=lgpcX8IAAAAJ&hl=en"
+  image: "minh-vu-pham.webp"
+  role: "PhD student"
+  affiliation: "IT:U Austria"
+
+- name: "Debanjana Kar"
+  url: "https://scholar.google.com/citations?user=hKjvl5UAAAAJ&hl=en"
+  image: "debanjana-kar.webp"
+  role: "PhD student"
+  affiliation: "IT:U Austria"
+
+- name: "Abdul Ghafoor"
+  url: "https://scholar.google.com/citations?user=IU_Z_i0AAAAJ"
+  image: "abdul-ghafoor.webp"
+  # Photo source: https://scholar.google.com/citations?user=IU_Z_i0AAAAJ
+  role: "PhD student"
+  affiliation: "IT:U Austria"
+
+- name: "Sebastian Pohl"
+  url: "https://onesebastian.github.io/"
+  image: "sebastian-pohl.webp"
+  # Photo source: https://scholar.google.com/citations?user=7gohUaEAAAAJ
+  role: "PhD student"
+  affiliation: "IT:U Austria"
+
+- name: "Massimiliano Pronesti"
+  url: "https://research.ibm.com/people/massimiliano-pronesti"
+  image: "massimiliano-pronesti.webp"
+  role: "PhD student"
+  affiliation: "IBM Research Ireland / Dublin City University, Ireland"
+  note: "Pre-doc programme; co-supervised with Prof. Anya Belz."
