@@ -12,6 +12,9 @@ author_profile: true
 {% include base_path %}
 
 ## 2026
+- Symposium Panel: Our Main Priorities in Developing the Methodology of AI for Research. The Future of Science Symposium, Darmstadt, Germany, October 23, 2026. 
+- From Faster Science to Better Science: The Role of AI. Invited talk at the "The Future of Science: AI-First, Trustworthy, Human-Steered” symposium, Darmstadt, Germany, October 23, 2026. 
+- Conference Panel: AI for the scientific discovery process and the impacts of AI on this process. AI in Science Summit 2026 (AIS26), Dublin, Ireland, October 15, 2026. 
 - From Faster Science to Better Science: The Role of AI. Invited keynote at AI in Science Summit 2026 (AIS26), Dublin, Ireland, October 15, 2026.  
 - Rethinking the Scientific Workflow in the Age of LLMs: Evidence Synthesis for Medicine and Beyond. Invited talk at 3rd International Workshop on Machine Learning and Quantum Computing Applications in Medicine and Physics (WMLQ2026), Warsaw, Poland, September 10, 2026. 
 - Rethinking the Scientific Workflow in the Age of LLMs. Invited talk at Integrated Computational Materials, Process and Product Engineering Conference (IC-MPPE 2026), Leoben, Austria, June 17, 2026. 
