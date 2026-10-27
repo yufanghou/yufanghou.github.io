@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+- Outstanding Senior Area Chair Award. EMNLP 2026
 - [Outstanding Senior Area Chair Award](https://2026.aclweb.org/program/outstanding_sacs/). ACL 2026
 - [The Tech Startups Ending The Era Of “DIY Diagnosis"](https://www.forbes.com/sites/checkwarner/2025/03/13/the-tech-startups-ending-the-era-of-diy-diagnosis/). Forbes (2025) 
 - [Das Beste aus zwei Welten verbinden - Gastprofessorinnen-Programm der TU Darmstadt](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_489472.en.jsp). TU-Darmstadt News (2025)
