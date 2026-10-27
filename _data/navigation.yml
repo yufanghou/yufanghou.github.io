@@ -11,10 +11,6 @@ main:
     
   - title: "Service"
     url: /service/
-        
-  # - title: "Mentoring"
-  - title: "Team"
-    url: /mentoring/
 
   - title: "Teaching"
     url: /teaching/
@@ -22,6 +18,12 @@ main:
   - title: "Resources"
     url: /resources/
     
-  - title: "Opening"
+  # - title: "Mentoring"
+  - title: "Team"
+    url: /mentoring/
+    separator_before: true
+
+  # - title: "Opening"
+  - title: "Openings"
     url: /opening/  
   

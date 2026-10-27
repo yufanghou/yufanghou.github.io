@@ -223,6 +223,16 @@
       }
     }
 
+    .masthead__menu-item--group-start > a::after {
+      content: "";
+      position: absolute;
+      left: -1rem;
+      top: 50%;
+      height: 1em;
+      border-left: 1px solid $light-gray;
+      transform: translateY(-50%);
+    }
+
     a {
       position: relative;
 
@@ -300,6 +310,12 @@
     li {
       display: block;
       border-bottom: 1px solid $border-color;
+
+      &.masthead__menu-item--group-start:not(:first-child) {
+        margin-top: 0.5rem;
+        padding-top: 0.5rem;
+        border-top: 1px solid $light-gray;
+      }
 
       &:last-child {
         border-bottom: none;
