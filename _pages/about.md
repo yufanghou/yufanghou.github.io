@@ -44,6 +44,10 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 10/2026 I received the Outstanding Senior Area Chair Award at EMNLP 2026.
+
+- 10/2026 I delivered a talk titled “From Faster Science to Better Science: The Role of AI” and participated in the panel discussion “Our Main Priorities in Developing the Methodology of AI for Research” at the "[The Future of Science: AI-First, Trustworthy, Human-Steered](https://future-of-science.netlify.app/#program)” symposium, held at TU Darmstadt.
+
 - 10/2026 I gave an invited keynote "From Faster Science to Better Science: The Role of AI" at [AI in Science Summit 2026 (AIS26)](https://www.ais26.eu/).
 
 - 09/2026 Our position paper "Mental Health AI Must Move Beyond Diagnostic Prediction and Chat-Based Support: Toward Perspective-Aware, Multisensory Co-Experience" has been accepted at NeurIPS 2026.
