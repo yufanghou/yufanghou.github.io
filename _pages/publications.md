@@ -59,10 +59,7 @@ Andreas Waldis, Leshem Choshen, Yufang Hou, Yotam Perlit.
 In arXiv, 2026  
 [[pdf]](https://arxiv.org/pdf/2605.11206) 
 
-***Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models**  
-Minh Vu Pham, Hsuvas Borkakoty, Yufang Hou.  
-In arXiv, 2026  
-[[pdf]](https://arxiv.org/abs/2601.09445)
+
 
 **LLMs as Science Journalists: Supporting Early-stage Researchers in Communicating Their Science to the Public**  
 Milad Alshomary, Grace Li, Anubhav Jangra, Yufang Hou, Kathleen McKeown, Smaranda Muresan.  
@@ -73,7 +70,25 @@ In arXiv, 2026
 <!--## Conference/Workshop Papers -->
 ## Peer-reviewed Publications  
 
+### 2027
+
+***Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models**  
+Minh Vu Pham, Hsuvas Borkakoty, Yufang Hou.  
+In EACL, 2027  
+[[pdf]](https://arxiv.org/abs/2601.09445)
+
+***G3PO: Leveraging a Hybrid Use of Verifiability and Preference in Reinforcement Learning**  
+Massimiliano Pronesti1, Angelo Miculescu, Mohsin Kapdi, Anya Belz, Yufang Hou.  
+In EACL, 2027    
+[pdf]
+
 ### 2026
+
+***LLMs struggle to simulate human belief updates in controlled environments**. 
+Sebastian Pohl, Harsh Mehta, Pranav Mambayil, Abdul Ghafoor, Franziska Lesigang, Yufang Hou, Christian Hilbe.  
+In Nature Computational Science, 2026   
+[[pdf]](https://arxiv.org/pdf/2607.28347)
+
 
 ***Mental Health AI Must Move Beyond Diagnostic Prediction and Chat-Based Support: Toward Perspective-Aware, Multisensory Co-Experience**  
 Pinyao Liu, Esen K. Tütüncü, Muhammad Arslan Manzoor, Yufang Hou, Chirag Raman.  
