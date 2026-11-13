@@ -44,6 +44,12 @@ I'm currently looking for postdoctoral researchers, PhD students, and visiting s
 
 ## News
 
+- 11/2026 Two papers have been accepted at EACL 2027 Main Conference.
+
+- 11/2026 Congrats to Sebastian Pohl on receiving a Nebius research grant for his phd project "Behavior informed RL reward shaping for mathematical reasoning"!
+
+- 11/2026 Our paper "Large language models struggle to simulate human belief updates in controlled environments" has been accepted at Nature Computational Science.
+
 - 10/2026 I received the Outstanding Senior Area Chair Award at EMNLP 2026.
 
 - 10/2026 I delivered a talk titled “From Faster Science to Better Science: The Role of AI” and participated in the panel discussion “Our Main Priorities in Developing the Methodology of AI for Research” at the "[The Future of Science: AI-First, Trustworthy, Human-Steered](https://future-of-science.netlify.app/#program)” symposium, held at TU Darmstadt.
