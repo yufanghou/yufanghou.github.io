@@ -78,7 +78,7 @@ In EACL, 2027
 [[pdf]](https://arxiv.org/abs/2601.09445)
 
 ***G3PO: Leveraging a Hybrid Use of Verifiability and Preference in Reinforcement Learning**  
-Massimiliano Pronesti1, Angelo Miculescu, Mohsin Kapdi, Anya Belz, Yufang Hou.  
+Massimiliano Pronesti, Angelo Miculescu, Mohsin Kapdi, Anya Belz, Yufang Hou.  
 In EACL, 2027    
 [pdf]
 
