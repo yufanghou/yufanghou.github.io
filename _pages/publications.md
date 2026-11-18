@@ -187,7 +187,7 @@ In EMNLP, 2025
 
 
 **FactReasoner: A Probabilistic Approach to Long-Form Factuality Assessment for Large Language Models**  
-Radu Marinescu, Debarun Bhattacharjya, Junkyu Lee, Tigran Tchrakian, Javier Carnerero Cano, Yufang Hou, Elizabeth Daly, Alessandra Pascale  
+Radu Marinescu, Debarun Bhattacharjya, Junkyu Lee, Tigran Tchrakian, Javier Carnerero Cano, Yufang Hou, Elizabeth Daly, Alessandra Pascale.    
 In EMNLP Findings, 2025  
 [[pdf]](https://aclanthology.org/2025.findings-emnlp.785.pdf) [[bib]](https://aclanthology.org/2025.findings-emnlp.785.bib)  
 
